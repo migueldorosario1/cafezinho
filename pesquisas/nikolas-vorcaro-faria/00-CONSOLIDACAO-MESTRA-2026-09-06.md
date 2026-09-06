@@ -1,6 +1,6 @@
 # Consolidação da apuração de Nikolas, Faria, Vorcaro e mineração
 
-Atualizada em 06/09/2026 após a onda 4 do Claude/Fable e a nova remessa documental do ZCode. Documento central de pesquisa para Miguel do Rosário e O Cafezinho, não reportagem nem autorização para publicar no portal.
+Atualizada em 06/09/2026 após a avaliação final do Claude e a última contribuição ZCode, incluindo os commits 1993ca69, 67626831 e c382507a. Documento central de pesquisa para Miguel do Rosário e O Cafezinho, não reportagem nem autorização para publicar no portal.
 
 ## Como usar este documento
 
@@ -8,9 +8,69 @@ Comece aqui depois das regras do README. Este arquivo reúne o estado da apuraç
 
 As fontes originais e os relatórios históricos permanecem preservados. Havendo conflito, prevalece o documento de origem, com a data e o alcance corretos, e não esta síntese ou a afirmação de qualquer agente.
 
-Leia em seguida a [checagem final do TCU e da CVM](checagem-final-tcu-cvm-2026-09-06.md), a [matriz de elos e pendências](matriz-consolidada-elos-2026-09-06.json) e o [prompt para a revisão do Claude](prompt-claude-consolidacao-final-2026-09-06.md). O rascunho da reportagem não foi alterado nesta rodada e a escolha do redator continua com Miguel.
+A seção 0 incorpora a última contribuição ZCode e apresenta o estado dos cinco documentos prioritários. A [avaliação do Claude](avaliacao-final-claude-2026-09-06.md) foi lida e confrontada com essa contribuição, sem converter suas hipóteses adicionais em fatos documentados.
 
-O corte de entrada é o commit `fe5b0f9b2dbfe9bfddb51fa84d33d2a3cbac7a29`, que contém a atualização ZM entregue pelo usuário. A revisão incorporou a auditoria anterior da onda 4 para não reintroduzir conclusões que os dados não sustentam.
+Leia também a [checagem final do TCU e da CVM](checagem-final-tcu-cvm-2026-09-06.md), a [matriz de elos e pendências](matriz-consolidada-elos-2026-09-06.json) e o [prompt para a revisão do Claude](prompt-claude-consolidacao-final-2026-09-06.md). A matriz conserva o corte anterior, enquanto o estado atualizado dos cinco documentos está na seção 0 deste arquivo.
+
+O corte da primeira consolidação foi o commit fe5b0f9b2dbfe9bfddb51fa84d33d2a3cbac7a29. Nesta atualização, o rascunho, as capturas e os relatórios dos outros agentes não foram alterados, e a escolha do redator continua com Miguel.
+
+## 0. Fechamento após a última contribuição ZCode
+
+### O que efetivamente avançou
+
+A equipe preservou a página de O Fator e extraiu a nota de Faria. A passagem em que ele reconhece apresentação a Vorcaro e aos advogados dele já estava na onda 3 e nesta consolidação, portanto a novidade é a preservação da fonte no acervo, não uma descoberta nova de destinatários. [S01, S19]
+
+A expressão seus advogados não identifica nomes de pessoas, escritório, cliente representado ou equipe técnica. Ela também não permite substituir esses destinatários pelo Azevedo Sette, pelos defensores criminais atuais de Vorcaro ou por advogados de qualquer empresa mapeada.
+
+Faria declarar que representava um direito minerário documenta sua própria versão. A nota não identifica o cliente, o título ANM, os poderes outorgados ou o instrumento de representação e não substitui a proposta comercial nem o contrato noticiado. [S01, S19]
+
+A alegação de cerca de sete anos de atuação em Direito Minerário não é contrariada pela abertura da sociedade individual em agosto de 2024. Tempo de exercício profissional e idade de uma pessoa jurídica são informações diferentes, e não foi verificado nesta rodada quando começou sua atuação na especialidade.
+
+A observação da equipe sobre ausência de rubrica de dedicação exclusiva em duas fichas não encerra a análise funcional. As duas consultas individuais falharam na ferramenta nesta revisão, e, mesmo que a ausência da rubrica seja confirmada, ela não prova inexistência do regime sem demonstrar que haveria obrigatoriamente pagamento separado e exposição completa dessa parcela. [S21, S22]
+
+### Estado dos cinco documentos da avaliação do Claude
+
+| Documento ou resposta | Estado após esta rodada | O que falta para a conclusão pretendida |
+|---|---|---|
+| 1. Apresentação comercial de Faria | Declaração pública preservada. Proposta original pendente. | Mensagem, e-mail, apresentação, anexo ou confirmação específica que identifique título, data e destinatários. |
+| 2. Resposta e análise do lado de Vorcaro | Destinatários descritos genericamente como advogados. Nomes e análise pendentes. | Quem recebeu, qual pessoa jurídica representava, quem examinou e qual foi a resposta. |
+| 3. Contrato envolvendo Gmais, escritório e participação atribuída à Estabil | Conhecido por reportagens sobre inquérito. Íntegra não obtida. | Partes efetivas, signatários, objeto, títulos, condições, anexos, aditivos e prova de eventual pagamento. |
+| 4. Regime funcional de Faria | Histórico de cargos reconfirmado. Regime específico, horários e frequência pendentes. Minuta LAI revisada, não enviada. | Normas, atos, registros de exercício, atestações e eventuais comunicações sobre atividade externa. |
+| 5. Manifestações sobre os achados novos | Perguntas preparadas, sem envio confirmado aos citados. | Envio real autorizado, destinatário, canal, data, prazo e resposta ou ausência de resposta após esse prazo. |
+
+A nota pública não fecha o documento 1 e a observação salarial não deixa o documento 4 quase fechado. O ganho da rodada é preservar uma fonte relevante e melhorar o pedido capaz de obter os registros que faltam.
+
+### Regime funcional, sem atalho pelo contracheque
+
+A consulta oficial do gabinete foi reaberta e registra SP24 até 17/02/2026 e SP22 de 18/02/2026 a 30/03/2026. A minuta ZCode dizia a partir de março e foi corrigida em uma versão nova do pedido, preservando o original. [S02, S22]
+
+O guia institucional da Câmara informa jornada de 40 horas semanais e atestação mensal de frequência no Sigesp pelo deputado ou pessoa por ele designada. Esse registro permite pedir documentos concretos, mas não certifica que um servidor específico cumpriu ou descumpriu a jornada. [S21]
+
+A Lei 8.112, art. 19, § 1º, prevê integral dedicação ao serviço para cargo em comissão. O Estatuto da Advocacia, art. 15, § 8º, usa dedicação exclusiva como condição da exceção relativa à administração de sociedade de advogados, e a aplicação ao caso exige distinguir os conceitos e examinar as normas pertinentes. [S03, S21]
+
+Não presumir que jornada de 40 horas, exclusividade do assessoramento ao gabinete, integral dedicação ao serviço e proibição de toda atividade privada sejam expressões equivalentes. Também não presumir que a falta de exclusividade tornaria regular qualquer atividade, pois continuariam relevantes horários, atos praticados, recursos empregados e eventuais impedimentos.
+
+O [pedido revisado à Câmara](lai-camara-regime-faria-revisada-2026-09-06.md) solicita atos e normas, local e horários de exercício, atestações no Sigesp, afastamentos, consultas sobre atividade externa e o dicionário das rubricas. É pedido de acesso a documentos existentes, não solicitação de condenação ou de parecer novo.
+
+### Contrato, arquivos judiciais e contraditório
+
+Não há comprovação de que o contrato Gmais–escritório de Faria esteja nos autos da liquidação do Master no TJSP. A pista do TJSP identificada nas rodadas anteriores dizia respeito a instrumentos de crédito Master–3D e eventual cessão ao BRB, que não são automaticamente o contrato de intermediação investigado aqui. [S11]
+
+As partes, seus representantes e os responsáveis pelos autos que contenham o contrato são possíveis fontes de acesso legítimo. Não afirmar que só o inquérito ou um processo do liquidante o possui sem verificar onde o documento está.
+
+O envio de pedidos de manifestação é requisito editorial definido pelo README, mas não basta para publicar afirmações sem suporte. Uma resposta pode confirmar, contrariar ou delimitar os fatos, e eventual silêncio não transforma uma hipótese em prova.
+
+A LAI à ANM permanece registrada pela equipe sob 48003.018654/2026-33, com prazo indicado de 28/09/2026, ainda sem conferência do recibo autenticado nesta revisão. A LAI da Câmara e o Pedido 2 da ANM continuam sem envio confirmado, e nenhum pedido novo foi enviado pelo GPT. [S17, S22]
+
+### Observações à avaliação final do Claude
+
+Foram incorporadas sua confirmação dos elos positivos da CVM e a retirada das conclusões universais sobre cotistas não localizados e propostas não compradas. Seu novo elo sugerido entre o feeder Prisma e o FIP 60.648.903/0001-05, bem como a identificação de detentores de debêntures, precisa de extração original e instrumentos correspondentes antes de entrar como conclusão desta consolidação. [S20]
+
+Não reproduzir como dado consolidado que Faria permaneceu SP24 até março de 2026. O histórico oficial registra a mudança em fevereiro.
+
+A contagem de 25 multas em janeiro, mencionada na avaliação, não foi reauditada como total do mês nesta rodada. Qualquer contagem deve identificar datas, eventos, processos distintos e tratamento de duplicatas, sem confundir multas, autos e recursos.
+
+Também não acolher a alternativa automática entre irregularidade administrativa e incompatibilidade ética sugerida no relatório. A compatibilidade e os fatos precisam ser examinados antes de qualquer conclusão em qualquer dessas dimensões.
 
 ## 1. Conclusão central
 
@@ -207,6 +267,11 @@ Os 276 direitos e quase R$ 150 milhões mencionados pela empresa, os 274 do acó
 | 11/11/2026 garante publicação da lista de cessões | Referência aritmética sujeita ao R001 e ao acesso efetivo aos documentos. |
 | Número 08700.004560/2025-14 confirma Vale–Itaminas em janeiro | A identificação foi questionada na auditoria anterior. Obter o ato correto do Cade. |
 | Todos os citados já foram procurados | Há uma LAI registrada pela equipe. As manifestações jornalísticas novas continuam sem envio confirmado. |
+| A nota nomeou os advogados | Ela descreve uma categoria de destinatários, não nomes ou clientes. |
+| Sem rubrica específica, não havia dedicação exclusiva | A observação salarial não substitui a identificação do regime jurídico. |
+| Sete anos na especialidade contradizem sociedade de 2024 | Tempo profissional e data de criação da pessoa jurídica não são equivalentes. |
+| A nota prova mandato e identifica a mina | A nota contém declaração de representação, sem instrumento, mandante ou título identificado. |
+| Mandar perguntas é suficiente para publicar qualquer tese | Contraditório não substitui prova nem converte silêncio em confirmação. |
 
 As correções contábeis, a discrepância da ata, as limitações da CDA e o recurso foram detalhados na checagem final e nas auditorias anteriores. Não apagar os resumos antigos, mas não reutilizá-los sem essas ressalvas.
 
@@ -216,13 +281,15 @@ A equipe registrou o Pedido 1 à ANM sob protocolo 48003.018654/2026-33, em 06/0
 
 O recibo autenticado e o status no portal não foram conferidos nesta rodada. Preservar o comprovante sem dados de login e usar o prazo efetivamente mostrado pelo sistema.
 
-O Pedido 2 está redigido, mas permanece a postar. Não transformar um texto pronto em solicitação enviada.
+O Pedido 2 da ANM está redigido, mas permanece a postar. A minuta revisada da Câmara também não foi enviada e não possui protocolo ou prazo em curso. [S22]
 
 Nenhum pedido de manifestação foi enviado pelo GPT nesta consolidação. A LAI à ANM não substitui o contraditório com as pessoas e empresas citadas.
 
 Não foi criado alerta automático ou monitoramento em segundo plano. As datas estão registradas para acompanhamento pela equipe.
 
 ## 8. Pendências prioritárias, agora limitadas
+
+A seção 0 acompanha os cinco documentos essenciais apontados pelo Claude. As frentes abaixo organizam sua execução e os desdobramentos, sem aumentar o núcleo mínimo de fechamento.
 
 ### Prioridade 1, documento comercial
 
@@ -233,6 +300,8 @@ O escritório Azevedo Sette é um interlocutor identificado numa aquisição dis
 ### Prioridade 2, contraditório e vínculo funcional
 
 Registrar perguntas objetivas a Nikolas, Faria, Gmais, Topázio e Estabil sobre o contrato, serviços, remuneração, intervenção e recursos do gabinete. Consultar a Câmara sobre atribuições, frequência e enquadramento administrativo, sem pressupor infração automática.
+
+Usar a [minuta documental revisada](lai-camara-regime-faria-revisada-2026-09-06.md), que distingue rubricas, regime e atos efetivos. Nenhuma ausência de autorização deve ser tratada como infração antes de apurar se essa autorização era exigida.
 
 ### Prioridade 3, títulos e restrições no período correto
 
@@ -258,13 +327,15 @@ A cadeia dos fundos cabe como contexto com CNPJs, papéis e datas. A disputa dos
 
 A redação final não deve afirmar exclusividade mundial apenas porque um dado era novo para o acervo. Não há nesta entrega decisão sobre autoria final, título de publicação ou envio ao WordPress.
 
+Recomendação de fechamento — organizar o núcleo sustentado, enviar as perguntas mediante autorização e decidir o texto à luz das respostas e das fontes. Não chamar a última captura de prova nova da identidade da mina ou de solução do regime funcional, e não iniciar uma nova expansão indiscriminada de fundos antes de esclarecer a proposta.
+
 ## 10. Registro das fontes
 
-S01 — [O Fator, nota de Faria de 03/09/2026](https://ofator.com.br/informacao/advogado-diz-que-nikolas-apenas-forneceu-contato-de-vorcaro-mas-nao-participou-de-negociacao-que-acabou-encerrada/). Declaração do citado reproduzida por veículo, reaberta nesta revisão.
+S01 — [O Fator, nota de Faria de 03/09/2026](https://ofator.com.br/informacao/advogado-diz-que-nikolas-apenas-forneceu-contato-de-vorcaro-mas-nao-participou-de-negociacao-que-acabou-encerrada/). Declaração do citado reproduzida por veículo, reaberta na última revisão. A captura local está em S19.
 
-S02 — [Câmara, pessoal do gabinete](https://www.camara.leg.br/deputados/209787/pessoal-gabinete), [ficha de março de 2025](https://www.camara.leg.br/transparencia/recursos-humanos/remuneracao/Rw29VM35KZe6WyY8yEb4?ano=2025&mes=3), [CSV do acervo](folha-camara-thiago-rodrigues-de-faria.csv), [conferência anterior](dados/conferencia-zm-revisao-2026-09-06.json). Não houve nova leitura de todas as fichas mensais.
+S02 — [Câmara, pessoal do gabinete](https://www.camara.leg.br/deputados/209787/pessoal-gabinete), [ficha de março de 2025](https://www.camara.leg.br/transparencia/recursos-humanos/remuneracao/Rw29VM35KZe6WyY8yEb4?ano=2025&mes=3), [CSV do acervo](folha-camara-thiago-rodrigues-de-faria.csv), [conferência anterior](dados/conferencia-zm-revisao-2026-09-06.json). O histórico de cargos foi reaberto na última revisão, mas não houve nova leitura de todas as fichas mensais.
 
-S03 — [Estatuto da Advocacia](https://www.planalto.gov.br/ccivil_03/leis/l8906.htm), art. 15, § 8º, e análise no [briefing histórico](briefing-continuidade-caso-faria-gmais.md). Requer aplicação ao caso por especialista e pela Câmara, não diagnóstico conclusivo do GPT.
+S03 — [Estatuto da Advocacia](https://www.planalto.gov.br/ccivil_03/leis/l8906.htm), art. 15, § 8º, e análise no [briefing histórico](briefing-continuidade-caso-faria-gmais.md). Texto legal reaberto na última revisão. Requer aplicação ao caso por especialista e pela Câmara, não diagnóstico conclusivo do GPT.
 
 S04 — [Fontes jornalísticas reunidas](fontes-consultadas.md), [relatório Fable inicial](relatorio-fable-continuidade-2026-09-06.md) e [extração cadastral](dados/receita-cnpj-quatro-empresas-2026-09-06.json). Contrato e alegações policiais devem conservar suas atribuições.
 
@@ -282,26 +353,42 @@ S10 — [Página de fundos da FIDD](https://www.fiddgroup.com/fundo-investimento
 
 S11 — [Relatório sobre o elo Faria e Vorcaro](elo-vorcaro-faria-mineracao-onda-3-2026-09-06.md), que discrimina fontes sobre AVG, Cedro e Empabra, suas respostas e os limites dos procedimentos. As alegações de inquéritos nessa frente continuam dependentes dos originais.
 
-S12 — [Acórdão 4592 em PDF](fontes-zm-master-onda-2-2026-09-06/tcu-acordao-4592-2026-1a-camara.pdf) e [transcrição lida](fontes-zm-master-onda-2-2026-09-06/tcu-acordao-4592-2026-1a-camara.txt), código 80569618. O PDF foi preservado pelo ZM, não renderizado novamente aqui.
+S12 — [Acórdão 4592 em PDF](fontes-zm-master-onda-2-2026-09-06/tcu-acordao-4592-2026-1a-camara.pdf) e [transcrição lida na rodada anterior](fontes-zm-master-onda-2-2026-09-06/tcu-acordao-4592-2026-1a-camara.txt), código 80569618. O PDF foi preservado pelo ZM, não renderizado novamente aqui.
 
-S13 — [Peça 57 preservada](fontes-zm-master-onda-2-2026-09-06/tcu-016970-peca57-conclusao-comunicacoes.pdf), [andamento lido](fontes-zm-master-onda-2-2026-09-06/tcu-016970-andamento-conecta.txt) e [página processual preservada](fontes-zm-master-onda-2-2026-09-06/tcu-processo-016970-2025-0-pagina.txt). O andamento é transcrição fornecida pela equipe, sem novo acesso autenticado ao Conecta.
+S13 — [Peça 57 preservada](fontes-zm-master-onda-2-2026-09-06/tcu-016970-peca57-conclusao-comunicacoes.pdf), [andamento lido na rodada anterior](fontes-zm-master-onda-2-2026-09-06/tcu-016970-andamento-conecta.txt) e [página processual preservada](fontes-zm-master-onda-2-2026-09-06/tcu-processo-016970-2025-0-pagina.txt). O andamento é transcrição fornecida pela equipe, sem novo acesso autenticado ao Conecta.
 
-S14 — [Acórdão 870 em PDF](fontes-zm-master-onda-2-2026-09-06/tcu-acordao-870-2026-plenario.pdf), [transcrição lida](fontes-zm-master-onda-2-2026-09-06/tcu-acordao-870-2026-plenario.txt) e [ata oficial retificada da 66ª reunião](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/minuta-de-ata-da-66a-reuniao-ordinaria-publica-da-diretoria-colegiada), páginas 24 e 25 conferidas em imagem nesta rodada.
+S14 — [Acórdão 870 em PDF](fontes-zm-master-onda-2-2026-09-06/tcu-acordao-870-2026-plenario.pdf), [transcrição lida na rodada anterior](fontes-zm-master-onda-2-2026-09-06/tcu-acordao-870-2026-plenario.txt) e [ata oficial retificada da 66ª reunião](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/minuta-de-ata-da-66a-reuniao-ordinaria-publica-da-diretoria-colegiada), páginas 24 e 25 conferidas em imagem na rodada anterior.
 
-S15 — [Documentação oficial CDA/CVM](https://dados.cvm.gov.br/dataset/fi-doc-cda), reaberta, especialmente cobertura, arquivos e confidencialidade.
+S15 — [Documentação oficial CDA/CVM](https://dados.cvm.gov.br/dataset/fi-doc-cda), reaberta na consolidação anterior, especialmente cobertura, arquivos e confidencialidade.
 
 S16 — [Lei 8.443, art. 48](https://www.planalto.gov.br/ccivil_03/leis/l8443.htm) e [orientação oficial do TCU sobre recursos](https://pesquisa.apps.tcu.gov.br/redireciona/ato-normativo/ATO-NORMATIVO-118517). Fundamentam a cautela sobre efeitos, não uma conclusão sobre o R001 sem sua decisão.
 
 S17 — [Pedidos LAI e protocolo registrado](fontes-zm-master-onda-2-2026-09-06/lai-anm-textos-prontos.md). Não foi conferido o recibo autenticado nem enviado novo pedido nesta rodada.
 
-S18 — [Atualização ZM recebida](fontes-zm-master-onda-2-2026-09-06/ATUALIZACAO-PARA-GPT-E-CLAUDE-2026-09-06.md) e [onda 4 Fable](onda-4-fable-cvm-cadeia-de-fundos-2026-09-06.md). São relatórios de trabalho, não fontes autossuficientes para fatos que os originais não sustentem.
+S18 — [Atualização ZM anterior](fontes-zm-master-onda-2-2026-09-06/ATUALIZACAO-PARA-GPT-E-CLAUDE-2026-09-06.md) e [onda 4 Fable](onda-4-fable-cvm-cadeia-de-fundos-2026-09-06.md). São relatórios de trabalho, não fontes autossuficientes para fatos que os originais não sustentem.
 
-## 11. Limites desta última rodada
+S19 — [Nota extraída pelo ZCode](fontes-zm-master-onda-2-2026-09-06/ofator-nota-faria-integra.txt), commit 6762683151ec1f671185dac69100676e9658c9da, e [captura da página](fontes-zm-master-onda-2-2026-09-06/ofator-nota-faria-2026-09-03.html), associada pela equipe ao commit 1993ca69. A nota foi confrontada com a página pública de O Fator nesta atualização, sem novo recálculo do hash do HTML.
 
-A consolidação organiza o material existente, incorpora os novos textos do TCU e registra correções jurídicas e metodológicas. Não equivale à auditoria integral de todos os PDFs, aos autos completos de investigações ou à reexecução das bases da CVM.
+S20 — [Avaliação final do Claude](avaliacao-final-claude-2026-09-06.md), blob 2a2dca9e00b1c7959305442235b3b9e9f4b31c76, lida na última revisão. Suas constatações adicionais precisam conservar fonte, data e limites, e não substituem as extrações e instrumentos originais.
 
-O acesso programático local falhou por DNS e os novos PDFs do GitHub não foram recuperados em formato renderizável. A ata da ANM foi a exceção, aberta no endereço oficial e conferida visualmente, enquanto os acórdãos do TCU foram examinados em suas transcrições anexadas.
+S21 — [Guia da Câmara sobre verba de gabinete e secretário parlamentar](https://www2.camara.leg.br/comunicacao/assessoria-de-imprensa/guia-para-jornalistas/verba-de-gabinete), [gestão de pessoas do gabinete](https://www2.camara.leg.br/a-camara/documentos-e-pesquisa/arquivo/acervo-por-tipo/sites-tematicos/57a-legislatura/no-exercicio-do-mandato/verba-de-gabinete/gestao-de-pessoas-do-gabinete) e [Lei 8.112, art. 19, § 1º](https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm). Guia e lei consultados na última rodada, sem concluir individualmente a situação de Faria.
 
-A conferência de todos os hashes dos novos PDFs não foi realizada. O manifesto antigo não abrange integralmente a nova remessa do TCU e precisa ser completado pela equipe que preservou os binários.
+S22 — [Minuta ZCode preservada](fontes-zm-master-onda-2-2026-09-06/lai-camara-texto-pronto.md), commit c382507aa7e329e5fb8eea86a58228aeeb00c561, e [versão revisada para envio](lai-camara-regime-faria-revisada-2026-09-06.md). Canal institucional confirmado em [Fale Conosco](https://www.camara.leg.br/fale-conosco) e [Como usar a Lei de Acesso à Informação](https://www2.camara.leg.br/transparencia/acesso-a-informacao).
 
-Nenhuma fonte primária nova encontrada nas buscas finais identifica a proposta, os advogados destinatários ou o comprador pretendido. Essa conclusão limita-se à pesquisa realizada e não prova inexistência desses documentos ou relações.
+## 11. Limites da consolidação anterior
+
+A consolidação de base organizou o material existente, incorporou os novos textos do TCU e registrou correções jurídicas e metodológicas. Não equivaleu à auditoria integral de todos os PDFs, aos autos completos de investigações ou à reexecução das bases da CVM.
+
+Naquela rodada, o acesso programático local falhou por DNS e os novos PDFs do GitHub não foram recuperados em formato renderizável. A ata da ANM foi a exceção, aberta no endereço oficial e conferida visualmente, enquanto os acórdãos do TCU foram examinados em suas transcrições anexadas.
+
+A conferência de todos os hashes dos novos PDFs não foi realizada. O manifesto antigo não abrangia integralmente a nova remessa do TCU e precisava ser completado pela equipe que preservou os binários.
+
+## 12. Escopo efetivo da última revisão
+
+Foram lidos via conector GitHub o README, a consolidação anterior completa, a avaliação final do Claude, o prompt vigente e os registros dos commits ZCode que criaram a extração da nota e a minuta funcional. A nota foi reaberta em O Fator, e o histórico do gabinete foi consultado diretamente na Câmara.
+
+Foram consultados o guia institucional da Câmara, o Estatuto da Advocacia, a Lei 8.112 e as páginas de acesso à informação. As fichas individuais de remuneração de março de 2025 e março de 2026 não abriram, portanto não houve nova verificação empírica da presença ou ausência de rubricas.
+
+Não foram reexecutadas as bases integrais da CVM, renderizados novamente PDFs do TCU ou auditados todos os hashes. Nenhuma nova identidade nominal de destinatário, proposta comercial, análise técnica ou conclusão funcional foi obtida.
+
+Foram preservados o rascunho e as fontes dos outros agentes, criada a minuta revisada da Câmara e atualizados os documentos de orientação. Não houve publicação no portal, envio de pedidos, acesso ao Cérebro local do usuário ou criação de lembrete automático.
