@@ -20,7 +20,7 @@ Nikolas é o político que fez o pedido. Mas o negócio em si tem quatro pontas.
 **Kallas e Faria (nenhuma ligação conhecida).** Só se cruzam por Lages e por Vorcaro.
 
 ## O que aconteceu com cada um
-- **Vorcaro**: preso em 17/11/2025 ao tentar embarcar para Dubai. Master liquidado no dia seguinte. Segue preso. Crédito da 3D cedido ao BRB, fundo Victoria Falls liquidado.
+- **Vorcaro**: preso em 17/11/2025 ao tentar embarcar para Dubai, Master liquidado no dia seguinte. Solto em 28/11 com tornozeleira. Preso de novo em 04/03/2026 por ordem de André Mendonça (STF). Segue preso, em negociação de delação. Crédito da 3D cedido ao BRB, fundo Victoria Falls liquidado.
 - **Kallas**: alvo da Parcours em 28/03/2025 (dano de R$ 832 mi, lucro ilícito de R$ 708 mi, segundo a PF). Indiciado em 26/06/2026. Defendido pela mulher de Alexandre de Moraes no STF. Vive longas temporadas em Miami. Irmã autorizada pelo BC a comprar um banco em agosto de 2026.
 - **Horta**: preso em 17/09/2025 na Rejeito, 129 dias na cadeia, solto por Toffoli em 22/01/2026 com cautelares. Indiciado em 26/06/2026 por organização criminosa, tráfico de influência, corrupção ativa e lavagem. No celular, a nota "NÃO FALE DE RODRIGO DA PF".
 - **Faria**: citado no inquérito da Rejeito, não foi preso nem indiciado, diz que nunca depôs. Deixou o gabinete de Nikolas em 30/03/2026.
