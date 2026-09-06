@@ -1,3 +1,5 @@
+> Documento de trabalho. A leitura ao fim da seção "Cronologia" ("a Topázio era o próximo ativo, e para ela o grupo foi buscar um banqueiro") é hipótese da apuração, não fato documentado. Os artigos publicados a tratam como tese.
+
 # Vertente 8. Os vizinhos da Topázio: propina, Master e Kallas no mesmo raio (06/09/2026)
 
 ## Quem está a menos de 10 km da lavra da Topázio (borda a borda, ANM/SIGMINE)
