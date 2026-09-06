@@ -1,0 +1,13 @@
+NOTA DE THIAGO RODRIGUES DE FARIA NA ÍNTEGRA — reproduzida por O Fator (Lucas Ragazzi), 03/09/2026
+https://ofator.com.br/informacao/advogado-diz-que-nikolas-apenas-forneceu-contato-de-vorcaro-mas-nao-participou-de-negociacao-que-acabou-encerrada/
+Captura integral do HTML da matéria em 06/09/2026 (ofator-nota-faria-2026-09-03.html).
+
+"Atuo há cerca de sete anos na área de Direito Minerário. Na ocasião, representava um direito minerário e, ao saber do interesse do grupo de Daniel Vorcaro no setor, apresentei a oportunidade a ele e a seus advogados. O Deputado Nikolas Ferreira apenas me forneceu o contato de Vorcaro e não participou de qualquer negociação. As tratativas não avançaram e foram posteriormente encerradas. Cumpre esclarecer que na época do pedido do contato, Daniel Vorcaro não respondia a nenhum problema público. Tão logo vieram à tona as notícias sobre ele, perdeu-se o interesse no prosseguimento de qualquer relação. Thiago Rodrigues de Faria"
+
+CONTEXTO da matéria: mensagens divulgadas pelo ICL (áudio de 30/03/2025); Vorcaro respondeu "Amém irmão. Estamos na guerra juntos"; no dia seguinte Nikolas informou que Faria estaria disponível em Brasília; "O material divulgado não esclarece se Vorcaro atendeu ao pedido relacionado ao ativo."
+
+EXTRAÇÃO ZM (o que a nota acrescenta ao acervo):
+1) DESTINATÁRIOS da apresentação: "a ele [Vorcaro] E A SEUS ADVOGADOS" — plural; pergunta nº 2 (quem examinou do lado de Vorcaro) ganha destinatário nominal a buscar: advogados do grupo.
+2) Faria declara que REPRESENTAVA "um direito minerário" (confirma a posição de intermediário com mandato).
+3) Encerramento das tratativas: "tão logo vieram à tona as notícias sobre ele" — SEM data precisa; não extrair data (disciplina da consolidação mantida).
+4) Afirmação de ~7 anos em Direito Minerário (a SIA dele foi aberta em 19/08/2024 — CNPJ 56.902.629/0001-81; a atuação anterior era sem esse veículo).
