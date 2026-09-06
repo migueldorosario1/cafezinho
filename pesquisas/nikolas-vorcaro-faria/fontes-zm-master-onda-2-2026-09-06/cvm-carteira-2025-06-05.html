@@ -1,0 +1,206 @@
+<HTML>
+<HEAD>
+<script>!function(e,t,a,n,c,s,o){e.GoogleAnalyticsObject=c,e[c]=e[c]||function(){(e[c].q=e[c].q||[]).push(arguments)},e[c].l=1*new Date,s=t.createElement(a),o=t.getElementsByTagName(a)[0],s.async=1,s.src=n,o.parentNode.insertBefore(s,o)}(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-33619506-7','auto'),ga('send','pageview');</script>
+<LINK REL='stylesheet' HREF='/SWB/estilos.css'>
+</HEAD>
+<BODY background='/SWB/images/mapa/fundo_.gif' bgproperties='FIXED' class='BodyP'  leftmargin='2' >
+<center>
+<span class='TitPag'>Consulta a Carteiras de Fundos</span>
+</center>
+<hr>
+<br/>
+
+<HTML>
+
+<body>
+    <script language="javascript" src="sticky.js" type="text/javascript"></script>
+<script language="javascript">
+    async function AbrirDet(URL) {
+        const dialog = document.getElementById("dialog");
+        const response = await fetch(URL);
+
+        dialog.innerHTML = await response.text();
+		dialog.setAttribute("open", "");
+	}
+    function CloseDialog() {
+        const dialog = document.getElementById("dialog");
+        dialog.removeAttribute("open");
+    }
+</script>
+<dialog id="dialog"></dialog>
+<form name="Form1" method="post" action="./CPublicaCDA.aspx?PK_PARTIC=94015&amp;TpConsulta=14&amp;TpPartic=73" id="Form1">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEzNjQ1MTU0OA8WBh4OQ29uc3VsdGFGdW5kb3NoHgRYTWlsZR4GVmVyc2FvCyloU2lzdGVtYS5DVk0uRG9jLkNEQS50ZUNvZFZlcnNhbywgUGFydGljRG9jLCBWZXJzaW9uPTEuMC45NzQyLjMxOTI5LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwCFgICAg9kFgICCg9kFhBmD2QWAmYPZBYCAgEPEGQQFVwHMDUvMjAyNQcwNC8yMDI1BzAzLzIwMjUHMDIvMjAyNQcwMS8yMDI1BzEyLzIwMjQHMTEvMjAyNAcxMC8yMDI0BzA5LzIwMjQHMDgvMjAyNAcwNy8yMDI0BzA2LzIwMjQHMDUvMjAyNAcwNC8yMDI0BzAzLzIwMjQHMDIvMjAyNAcwMS8yMDI0BzEyLzIwMjMHMTEvMjAyMwcxMC8yMDIzBzA5LzIwMjMHMDgvMjAyMwcwNy8yMDIzBzA2LzIwMjMHMDUvMjAyMwcwNC8yMDIzBzAzLzIwMjMHMDIvMjAyMwcwMS8yMDIzBzEyLzIwMjIHMTEvMjAyMgcxMC8yMDIyBzA5LzIwMjIHMDgvMjAyMgcwNy8yMDIyBzA2LzIwMjIHMDUvMjAyMgcwNC8yMDIyBzAzLzIwMjIHMDIvMjAyMgcwMS8yMDIyBzEyLzIwMjEHMTEvMjAyMQcxMC8yMDIxBzA5LzIwMjEHMDgvMjAyMQcwNy8yMDIxBzA2LzIwMjEHMDUvMjAyMQcwNC8yMDIxBzAzLzIwMjEHMDIvMjAyMQcwMS8yMDIxBzEyLzIwMjAHMTEvMjAyMAcxMC8yMDIwBzA5LzIwMjAHMDgvMjAyMAcwNy8yMDIwBzA2LzIwMjAHMDUvMjAyMAcwMi8yMDIwBzEyLzIwMTkHMTEvMjAxOQcwOC8yMDE5BzA3LzIwMTkHMDYvMjAxOQcwNS8yMDE5BzA0LzIwMTkHMDMvMjAxOQcwMi8yMDE5BzAxLzIwMTkHMTIvMjAxOAcwNi8yMDE4BzEyLzIwMTcHMDYvMjAxNwcxMi8yMDE2BzA2LzIwMTYHMDMvMjAxNgcxMi8yMDE1BzA2LzIwMTUHMTIvMjAxNAcwNi8yMDE0BzAxLzIwMTQHMTIvMjAxMwcwNi8yMDEzBzEyLzIwMTIHMDYvMjAxMgcxMi8yMDExBzA2LzIwMTEHMTIvMjAxMAcwNi8yMDEwFVwJMTc2MzYzOTY5CTE3NDQzMzU5NgkxNzI3MTM5MzkJMTcxMzAxMjgxCTE2OTk0NDA1MwkxNjg0Mjk5MTQJMTY3MDE4OTkzCTE2NTg4NjM1MgkxNjQ3MTUzNDIJMTYyNzg3ODAwCTE2MTIyODcyNgkxNTk5MDc4MDAJMTU4MjQ0MzQ1CTE1NjQwMjA0NwkxNTUwMTg3MDYJMTUzNTE0MDQ4CTE1MjMwNzMwOQkxNTA2ODI2OTkJMTQ5NDIwNDAzCTE0ODIzNjgyMgkxNDY5ODc1MTkJMTQ1ODY2MDUwCTE0NDc4OTgxMQkxNDMzOTg4NTMJMTQyNDQ4MTQ4CTE0MTA4MzIwMgkxNDAwNDg5MzAJMTM4NzYzMzA2CTEzNzU3NDEzMwkxMzIxNTg5MjkJMTI3ODkxOTE5CTEyNDgwNjcxOQkxMjM2NDA0MTYJMTIxOTEzOTM5CTExOTcwMjc3MgkxMTcwMDI3NzMJMTE1NzAwMjczCTExNDUyNjc2MAkxMTM0MjI5MDUJMTEyMTY3ODEyCTExMDY2MTI0MAkxMDkwNDY5NDcJMTA3OTUyODY5CTEwNjk2NTgwNgkxMDU3ODMwMjEJMTA0NjEyODY0CTEwMzUzNzY5NgkxMDE5ODc0OTIJMTAwOTMwNDU4CTEwMDIyNTc3Nwg5OTE4OTI0Nwg5ODQ1OTMyNgg5NzgwODMxNgg5NjQzNDEzNgg5NTcwODYwMAg5NDgyNjg5NAg5NDA4NzEyNQg5MzI4NTc2Nwg5MjQ0NTgyNwg5MTY1NzQwMwg5MDgxMTMxOQg4ODc4MjU0Ngg4NzMxOTc0OAg5MDE2NjIwMQg4NDMwMzMwNgg4NDMwMzQwNwg4NDMwMzUwOAg4MjM0OTU4OQg4MTgxMDE0NAg4MTgxMDE0Mgg4MTgxMDE0MAg4MDk3OTU3MQg3OTQ1ODM3MAg3Nzg0MTQwOAg3NDExNTYzMgg2OTk1MDk3MAg2NTI1Mzg2OAg1NzA2MjcwMwg1NDM5MDE1OQg1MjMzMzI4MQg0Nzk0NzY1OQg0NjQwNTI2Nwg0NjQwNTI2OAgzNjYyODM4OAg0NjQwNTI2OQg0Njc4MzA3OQg0Njc4MzA3OAg0NjQwNTI3MggyNDYyNjAxNwgyMjIwNjQ5NwgyMDU3ODk5Nwgx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" />
+
+<script type="text/javascript">
+<!--
+var theForm = document.forms['Form1'];
+if (!theForm) {
+    theForm = document.Form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+// -->
+</script>
+
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1D0C00E6" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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" />
+	<p class="BodyP"><font class="Msg">Atenção:</font>  Estas informações tem por base os documentos enviados à CVM pelas Instituições Administradoras dos Fundos de Investimento.</p>
+
+	
+		
+	
+	
+	<table id="tabAtivos" class="BodyPP" cellspacing="1" cellpadding="1" border="0" style="border-width:1px;border-style:solid;width:100%;BORDER-COLLAPSE: collapse">
+	<tr style="background-color:#B4CAE0;">
+		<td colspan="12"><b>Competência:</b>&nbsp;<select name="ddCOMPTC" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ddCOMPTC\&#39;,\&#39;\&#39;)&#39;, 0)" language="javascript" id="ddCOMPTC" class="BodyPP">
+			<option selected="selected" value="176363969">05/2025</option>
+			<option value="174433596">04/2025</option>
+			<option value="172713939">03/2025</option>
+			<option value="171301281">02/2025</option>
+			<option value="169944053">01/2025</option>
+			<option value="168429914">12/2024</option>
+			<option value="167018993">11/2024</option>
+			<option value="165886352">10/2024</option>
+			<option value="164715342">09/2024</option>
+			<option value="162787800">08/2024</option>
+			<option value="161228726">07/2024</option>
+			<option value="159907800">06/2024</option>
+			<option value="158244345">05/2024</option>
+			<option value="156402047">04/2024</option>
+			<option value="155018706">03/2024</option>
+			<option value="153514048">02/2024</option>
+			<option value="152307309">01/2024</option>
+			<option value="150682699">12/2023</option>
+			<option value="149420403">11/2023</option>
+			<option value="148236822">10/2023</option>
+			<option value="146987519">09/2023</option>
+			<option value="145866050">08/2023</option>
+			<option value="144789811">07/2023</option>
+			<option value="143398853">06/2023</option>
+			<option value="142448148">05/2023</option>
+			<option value="141083202">04/2023</option>
+			<option value="140048930">03/2023</option>
+			<option value="138763306">02/2023</option>
+			<option value="137574133">01/2023</option>
+			<option value="132158929">12/2022</option>
+			<option value="127891919">11/2022</option>
+			<option value="124806719">10/2022</option>
+			<option value="123640416">09/2022</option>
+			<option value="121913939">08/2022</option>
+			<option value="119702772">07/2022</option>
+			<option value="117002773">06/2022</option>
+			<option value="115700273">05/2022</option>
+			<option value="114526760">04/2022</option>
+			<option value="113422905">03/2022</option>
+			<option value="112167812">02/2022</option>
+			<option value="110661240">01/2022</option>
+			<option value="109046947">12/2021</option>
+			<option value="107952869">11/2021</option>
+			<option value="106965806">10/2021</option>
+			<option value="105783021">09/2021</option>
+			<option value="104612864">08/2021</option>
+			<option value="103537696">07/2021</option>
+			<option value="101987492">06/2021</option>
+			<option value="100930458">05/2021</option>
+			<option value="100225777">04/2021</option>
+			<option value="99189247">03/2021</option>
+			<option value="98459326">02/2021</option>
+			<option value="97808316">01/2021</option>
+			<option value="96434136">12/2020</option>
+			<option value="95708600">11/2020</option>
+			<option value="94826894">10/2020</option>
+			<option value="94087125">09/2020</option>
+			<option value="93285767">08/2020</option>
+			<option value="92445827">07/2020</option>
+			<option value="91657403">06/2020</option>
+			<option value="90811319">05/2020</option>
+			<option value="88782546">02/2020</option>
+			<option value="87319748">12/2019</option>
+			<option value="90166201">11/2019</option>
+			<option value="84303306">08/2019</option>
+			<option value="84303407">07/2019</option>
+			<option value="84303508">06/2019</option>
+			<option value="82349589">05/2019</option>
+			<option value="81810144">04/2019</option>
+			<option value="81810142">03/2019</option>
+			<option value="81810140">02/2019</option>
+			<option value="80979571">01/2019</option>
+			<option value="79458370">12/2018</option>
+			<option value="77841408">06/2018</option>
+			<option value="74115632">12/2017</option>
+			<option value="69950970">06/2017</option>
+			<option value="65253868">12/2016</option>
+			<option value="57062703">06/2016</option>
+			<option value="54390159">03/2016</option>
+			<option value="52333281">12/2015</option>
+			<option value="47947659">06/2015</option>
+			<option value="46405267">12/2014</option>
+			<option value="46405268">06/2014</option>
+			<option value="36628388">01/2014</option>
+			<option value="46405269">12/2013</option>
+			<option value="46783079">06/2013</option>
+			<option value="46783078">12/2012</option>
+			<option value="46405272">06/2012</option>
+			<option value="24626017">12/2011</option>
+			<option value="22206497">06/2011</option>
+			<option value="20578997">12/2010</option>
+			<option value="19609159">06/2010</option>
+
+		</select></td>
+	</tr><tr style="background-color:#B4CAE0;">
+		<td colspan="6"><B>Nome do Fundo/Classe:&nbsp;</B><span id="lbNmDenomSocial">VICTORIA FALLS FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES MULTIESTRATEGIA INVESTIMENTO NO EXTERIOR</span></td><td colspan="6"><B>CNPJ:&nbsp;</B><span id="lbNrPfPj">10.566.011/0001-97</span></td>
+	</tr><tr style="background-color:#B4CAE0;">
+		<td colspan="6"><B>Administrador:&nbsp;&nbsp;&nbsp;</B><span id="lbNmDenomSocialAdm">MASTER S/A CORRETORA DE CAMBIO, TITULOS E VALORES MOBILIARIOS</span></td><td colspan="6"><B>CNPJ:&nbsp;</B><span id="lbNrPfPjAdm">33.886.862/0001-12</span></td>
+	</tr><tr style="background-color:#B4CAE0;">
+		<td colspan="12"><B>Versão:&nbsp;&nbsp;&nbsp;</B><span id="lbCodVersao">2.0</span></td>
+	</tr><tr id="trGraph" style="background-color:White;">
+		<td colspan="12"><img id="imgPGraph" src="CDAPieChart.aspx?PPD=176363969&amp;Versao=2" border="0" /><br><br></td>
+	</tr><tr id="trPL" style="background-color:#B4CAE0;">
+		<td colspan="6"><B>Patrimônio Líquido do Fundo:&nbsp;</B><span id="lbPatrimLiq">R$ 76.358.203,59</span></td><td colspan="6"><b>Data de Recebimento das Informações:&nbsp;</b><span id="lbDtRegDoc">05/06/2025 10:53:02</span></td>
+	</tr><tr id="trAplics" style="background-color:#C9E3F5;">
+		<td colspan="12"><table id="dlAplics" class="BodyPP" cellspacing="0" cellpadding="4" rules="all" border="1" style="border-width:1px;border-style:solid;width:100%;border-collapse:collapse;">
+			<tr style="background-color:#ACC2D8;">
+				<td align="center" colspan="11"><b>Lista de Aplicações<br>Clique sobre o ativo para mais informações.</b></td>
+			</tr><tr style="background-color:#ACC2D8;">
+				<td align="center" rowspan="3" style="width:30%;"><b>Ativo</b></td><td align="center" rowspan="3"><b>Classificação</b></td><td align="center" rowspan="3"><b>Empresa Ligada</b></td><td align="center" colspan="4"><b>Negócios Realizados no Mês</b></td><td align="center" colspan="4"><b>Posição Final</b></td>
+			</tr><tr style="background-color:#ACC2D8;">
+				<td align="center" colspan="2"><b>Vendas</b></td><td align="center" colspan="2"><b>Aquisições</b></td><td align="center" rowspan="2" style="width:7%;"><b>Quant.</b></td><td align="center" colspan="2"><b>Valores</b></td><td align="center" rowspan="2" style="width:7%;"><B>% Patr. Líq.</B></td>
+			</tr><tr style="background-color:#ACC2D8;">
+				<td align="center" style="width:7%;"><b>Quant.</b></td><td align="center" style="width:7%;"><b>Valor<br></b></td><td align="center" style="width:7%;"><b>Quant.</b></td><td align="center" style="width:7%;"><b>Valor<br></b></td><td align="center" style="width:7%;"><b>Custo<br></b></td><td align="center" style="width:7%;"><b>Mercado<br></b></td>
+			</tr><tr style="background-color:Cornsilk;">
+				<td align="left"><span onclick="AbrirDet('CDADetAplic.aspx?PkCDAAplic=114554380')" STYLE="cursor: hand; COLOR: olivedrab"><b></b> Disponibilidades<br><b>Descrição:</b> Participacao/TROPICAL<br><b>Nome/Denominação Social do emissor: </b> Participacao/TROPICAL<br></span></td><td align="center"><span id="dlAplics__ctl1_lbNConfTpNegoc">Para<br>negociação</span></td><td align="center"><span id="dlAplics__ctl1_lbNConfEmpLigada"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl1_lbNConfVlVendasNegoc"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl1_lbNConfVlAquisNegoc"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl1_lbNConfVlCustoCorrecPosFim"></span></td><td align="center"><span id="dlAplics__ctl1_lbNConfVlPosFim">36.787.000,00</span></td><td align="center">48,177</td>
+			</tr><tr style="background-color:#FAEFCA;">
+				<td align="left"><span onclick="AbrirDet('CDADetAplic.aspx?PkCDAAplic=114554383')" STYLE="cursor: hand; COLOR: olivedrab"><b></b> Disponibilidades<br><b>Descrição:</b> Participacao/PARTICIP TAQUARIL<br><b>Nome/Denominação Social do emissor: </b> Participacao/PARTICIP TAQUARIL<br></span></td><td align="center"><span id="dlAplics__ctl2_lbNConfAltTpNegoc">Para<br>negociação</span></td><td align="center"><span id="dlAplics__ctl2_lbNConfAltEmpLigada"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl2_lbNConfAltVlVendasNegoc"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl2_lbNConfAltVlAquisNegoc"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl2_lbNConfAltVlCustoCorrecPosFim"></span></td><td align="center"><span id="dlAplics__ctl2_lbNConfAltVlPosFim">33.865.200,01</span></td><td align="center">44,35</td>
+			</tr><tr style="background-color:Cornsilk;">
+				<td align="left"><span onclick="AbrirDet('CDADetAplic.aspx?PkCDAAplic=114554381')" STYLE="cursor: hand; COLOR: olivedrab"><b></b> Disponibilidades<br><b>Descrição:</b> Participacao/HEALTHY FOR ALL INVE<br><b>Nome/Denominação Social do emissor: </b> Participacao/HEALTHY FOR ALL INVE<br></span></td><td align="center"><span id="dlAplics__ctl3_lbNConfTpNegoc">Para<br>negociação</span></td><td align="center"><span id="dlAplics__ctl3_lbNConfEmpLigada"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl3_lbNConfVlVendasNegoc"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl3_lbNConfVlAquisNegoc"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl3_lbNConfVlCustoCorrecPosFim"></span></td><td align="center"><span id="dlAplics__ctl3_lbNConfVlPosFim">3.578.814,19</span></td><td align="center">4,687</td>
+			</tr><tr style="background-color:#FAEFCA;">
+				<td align="left"><span onclick="AbrirDet('CDADetAplic.aspx?PkCDAAplic=114554386')" STYLE="cursor: hand; COLOR: olivedrab"><b></b> Disponibilidades<br><b>Descrição:</b> Participacao/5W PARTICIPACOES LTD<br><b>Nome/Denominação Social do emissor: </b> Participacao/5W PARTICIPACOES LTD<br></span></td><td align="center"><span id="dlAplics__ctl4_lbNConfAltTpNegoc">Para<br>negociação</span></td><td align="center"><span id="dlAplics__ctl4_lbNConfAltEmpLigada"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl4_lbNConfAltVlVendasNegoc"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl4_lbNConfAltVlAquisNegoc"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl4_lbNConfAltVlCustoCorrecPosFim"></span></td><td align="center"><span id="dlAplics__ctl4_lbNConfAltVlPosFim">2.654.910,79</span></td><td align="center">3,477</td>
+			</tr><tr style="background-color:Cornsilk;">
+				<td align="left"><span onclick="AbrirDet('CDADetAplic.aspx?PkCDAAplic=114554385')" STYLE="cursor: hand; COLOR: olivedrab"><b></b> Disponibilidades<br><b>Descrição:</b> Disponibilidade<br></span></td><td align="center"><span id="dlAplics__ctl5_lbNConfTpNegoc">Para<br>negociação</span></td><td align="center"><span id="dlAplics__ctl5_lbNConfEmpLigada"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl5_lbNConfVlVendasNegoc"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl5_lbNConfVlAquisNegoc"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl5_lbNConfVlCustoCorrecPosFim"></span></td><td align="center"><span id="dlAplics__ctl5_lbNConfVlPosFim">1.888,55</span></td><td align="center">0,002</td>
+			</tr><tr style="background-color:#FAEFCA;">
+				<td align="left"><span onclick="AbrirDet('CDADetAplic.aspx?PkCDAAplic=114554382')" STYLE="cursor: hand; COLOR: olivedrab"><b></b> Valores a pagar<br><b>Descrição:</b> Valores a Pagar<br></span></td><td align="center"><span id="dlAplics__ctl6_lbNConfAltTpNegoc">Para<br>negociação</span></td><td align="center"><span id="dlAplics__ctl6_lbNConfAltEmpLigada"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl6_lbNConfAltVlVendasNegoc"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl6_lbNConfAltVlAquisNegoc"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl6_lbNConfAltVlCustoCorrecPosFim"></span></td><td align="center"><span id="dlAplics__ctl6_lbNConfAltVlPosFim">29.125.068,40</span></td><td align="center">-38,143</td>
+			</tr><tr style="background-color:Cornsilk;">
+				<td align="left"><span onclick="AbrirDet('CDADetAplic.aspx?PkCDAAplic=114554384')" STYLE="cursor: hand; COLOR: olivedrab"><b></b> Valores a receber<br><b>Descrição:</b> Valores a Receber<br></span></td><td align="center"><span id="dlAplics__ctl7_lbNConfTpNegoc">Para<br>negociação</span></td><td align="center"><span id="dlAplics__ctl7_lbNConfEmpLigada"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl7_lbNConfVlVendasNegoc"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl7_lbNConfVlAquisNegoc"></span></td><td align="center"></td><td align="center"><span id="dlAplics__ctl7_lbNConfVlCustoCorrecPosFim"></span></td><td align="center"><span id="dlAplics__ctl7_lbNConfVlPosFim">28.595.458,45</span></td><td align="center">37,449</td>
+			</tr>
+		</table></td>
+	</tr>
+</table>
+	
+</form>
+<script language="javascript">
+	setup('panelDetAplic');
+</script>
+</body>
+</HTML>
+<br><br><center><a href='http://cvmweb.cvm.gov.br/SWB/default.asp?sg_sistema=sac&dest=3' TARGET='_top' class='MailLink'>Fale com a CVM</a></center>
+</BODY>
+</HTML>
