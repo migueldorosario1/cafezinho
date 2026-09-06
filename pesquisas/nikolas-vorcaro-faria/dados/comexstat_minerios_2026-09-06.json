@@ -1,0 +1,3126 @@
+{
+ "cap26_por_sh6_ano": [
+  {
+   "year": "2025",
+   "subHeadingCode": "260111",
+   "subHeading": "Minérios de ferro não aglomerados e seus concentrados",
+   "metricFOB": "26290907269",
+   "metricKG": "392416896643"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "260300",
+   "subHeading": "Minérios de cobre e seus concentrados",
+   "metricFOB": "5012572123",
+   "metricKG": "1451749864"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "260112",
+   "subHeading": "Minérios de ferro aglomerados e seus concentrados",
+   "metricFOB": "2687832737",
+   "metricKG": "23833536366"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "260400",
+   "subHeading": "Minérios de níquel e seus concentrados",
+   "metricFOB": "237878782",
+   "metricKG": "131642754"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "260600",
+   "subHeading": "Minérios de alumínio e seus concentrados",
+   "metricFOB": "216375908",
+   "metricKG": "6091394376"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "260700",
+   "subHeading": "Minérios de chumbo e seus concentrados",
+   "metricFOB": "127451265",
+   "metricKG": "53525162"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "260200",
+   "subHeading": "Minérios de manganês e seus concentrados, incluídos os minérios de manganês ferruginosos e seus concentrados, de teor de manganês de => 20%, em peso, sobre o produto seco",
+   "metricFOB": "113079187",
+   "metricKG": "1103151457"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "261690",
+   "subHeading": "Minérios de outros metais preciosos e seus concentrados",
+   "metricFOB": "112920522",
+   "metricKG": "108702937"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "261590",
+   "subHeading": "Minérios de nióbio, tântalo ou vanádio, e seus concentrados",
+   "metricFOB": "37263969",
+   "metricKG": "675570"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "260800",
+   "subHeading": "Minérios de zinco e seus concentrados",
+   "metricFOB": "20694437",
+   "metricKG": "20065220"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "260900",
+   "subHeading": "Minérios de estanho e seus concentrados",
+   "metricFOB": "13801170",
+   "metricKG": "3677603"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "261400",
+   "subHeading": "Minérios de titânio e seus concentrados",
+   "metricFOB": "5860930",
+   "metricKG": "40459337"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "261100",
+   "subHeading": "Minérios de tungstênio e seus concentrados",
+   "metricFOB": "5190757",
+   "metricKG": "254750"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "261310",
+   "subHeading": "Minérios de molibdênio ustulados e seus concentrados",
+   "metricFOB": "3418091",
+   "metricKG": "1466561"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "261000",
+   "subHeading": "Minérios de cromo e seus concentrados",
+   "metricFOB": "1020487",
+   "metricKG": "1937600"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "261790",
+   "subHeading": "Outros minérios e seus concentrados",
+   "metricFOB": "519980",
+   "metricKG": "734087"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "261800",
+   "subHeading": "Escória de altos-fornos granulada, proveniente da fabricação do ferro e aço",
+   "metricFOB": "360310",
+   "metricKG": "42651323"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "261510",
+   "subHeading": "Minérios de zircônio e seus concentrados",
+   "metricFOB": "290302",
+   "metricKG": "272502"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "262099",
+   "subHeading": "Cinzas e resíduos, contendo outros metais ou compostos de metais",
+   "metricFOB": "151665",
+   "metricKG": "480100"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "262030",
+   "subHeading": "Cinzas e resíduos contendo cobre",
+   "metricFOB": "98263",
+   "metricKG": "35379"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "261390",
+   "subHeading": "Minérios de molibdênio não ustulados e concentrados",
+   "metricFOB": "84701",
+   "metricKG": "150000"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "262040",
+   "subHeading": "Cinzas e resíduos contendo alumínio",
+   "metricFOB": "72809",
+   "metricKG": "66240"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "262190",
+   "subHeading": "Outras escórias e cinzas, incluídas as cinzas de algas",
+   "metricFOB": "29651",
+   "metricKG": "170336"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "261610",
+   "subHeading": "Minérios de prata e seus concentrados",
+   "metricFOB": "7656",
+   "metricKG": "11"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "261900",
+   "subHeading": "Outras escórias e desperdícios da fabricação do ferro e aço",
+   "metricFOB": "1276",
+   "metricKG": "1000"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "260120",
+   "subHeading": "Piritas de ferro ustuladas (cinzas de piritas)",
+   "metricFOB": "504",
+   "metricKG": "29"
+  },
+  {
+   "year": "2025",
+   "subHeadingCode": "262019",
+   "subHeading": "Outras cinzas e resíduos contendo zinco",
+   "metricFOB": "299",
+   "metricKG": "6"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "260111",
+   "subHeading": "Minérios de ferro não aglomerados e seus concentrados",
+   "metricFOB": "26574698749",
+   "metricKG": "362578268643"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "260300",
+   "subHeading": "Minérios de cobre e seus concentrados",
+   "metricFOB": "4158522371",
+   "metricKG": "1421563123"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "260112",
+   "subHeading": "Minérios de ferro aglomerados e seus concentrados",
+   "metricFOB": "3285487229",
+   "metricKG": "26137929479"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "261690",
+   "subHeading": "Minérios de outros metais preciosos e seus concentrados",
+   "metricFOB": "337102145",
+   "metricKG": "150715165"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "260400",
+   "subHeading": "Minérios de níquel e seus concentrados",
+   "metricFOB": "231574019",
+   "metricKG": "124166169"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "260600",
+   "subHeading": "Minérios de alumínio e seus concentrados",
+   "metricFOB": "231084049",
+   "metricKG": "5336325411"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "260200",
+   "subHeading": "Minérios de manganês e seus concentrados, incluídos os minérios de manganês ferruginosos e seus concentrados, de teor de manganês de => 20%, em peso, sobre o produto seco",
+   "metricFOB": "85371205",
+   "metricKG": "706128855"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "260700",
+   "subHeading": "Minérios de chumbo e seus concentrados",
+   "metricFOB": "64121791",
+   "metricKG": "55203907"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "261590",
+   "subHeading": "Minérios de nióbio, tântalo ou vanádio, e seus concentrados",
+   "metricFOB": "32788640",
+   "metricKG": "741359"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "260800",
+   "subHeading": "Minérios de zinco e seus concentrados",
+   "metricFOB": "25146905",
+   "metricKG": "23568502"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "261400",
+   "subHeading": "Minérios de titânio e seus concentrados",
+   "metricFOB": "10161554",
+   "metricKG": "61417170"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "261310",
+   "subHeading": "Minérios de molibdênio ustulados e seus concentrados",
+   "metricFOB": "5224990",
+   "metricKG": "2314040"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "260900",
+   "subHeading": "Minérios de estanho e seus concentrados",
+   "metricFOB": "4011994",
+   "metricKG": "7169970"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "261100",
+   "subHeading": "Minérios de tungstênio e seus concentrados",
+   "metricFOB": "3976953",
+   "metricKG": "262000"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "261000",
+   "subHeading": "Minérios de cromo e seus concentrados",
+   "metricFOB": "2789412",
+   "metricKG": "12156287"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "261800",
+   "subHeading": "Escória de altos-fornos granulada, proveniente da fabricação do ferro e aço",
+   "metricFOB": "1872955",
+   "metricKG": "55350543"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "261390",
+   "subHeading": "Minérios de molibdênio não ustulados e concentrados",
+   "metricFOB": "1063099",
+   "metricKG": "626032"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "261790",
+   "subHeading": "Outros minérios e seus concentrados",
+   "metricFOB": "442651",
+   "metricKG": "1120581"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "262030",
+   "subHeading": "Cinzas e resíduos contendo cobre",
+   "metricFOB": "179825",
+   "metricKG": "86582"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "262099",
+   "subHeading": "Cinzas e resíduos, contendo outros metais ou compostos de metais",
+   "metricFOB": "124862",
+   "metricKG": "267457"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "261510",
+   "subHeading": "Minérios de zircônio e seus concentrados",
+   "metricFOB": "36500",
+   "metricKG": "10000"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "262190",
+   "subHeading": "Outras escórias e cinzas, incluídas as cinzas de algas",
+   "metricFOB": "26669",
+   "metricKG": "1813279"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "261900",
+   "subHeading": "Outras escórias e desperdícios da fabricação do ferro e aço",
+   "metricFOB": "14388",
+   "metricKG": "53188"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "262019",
+   "subHeading": "Outras cinzas e resíduos contendo zinco",
+   "metricFOB": "56",
+   "metricKG": "120"
+  },
+  {
+   "year": "2024",
+   "subHeadingCode": "262011",
+   "subHeading": "Mates de galvanização (contendo zinco)",
+   "metricFOB": "35",
+   "metricKG": "2"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "260111",
+   "subHeading": "Minérios de ferro não aglomerados e seus concentrados",
+   "metricFOB": "27298053224",
+   "metricKG": "353131386944"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "260300",
+   "subHeading": "Minérios de cobre e seus concentrados",
+   "metricFOB": "3465813619",
+   "metricKG": "1352314429"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "260112",
+   "subHeading": "Minérios de ferro aglomerados e seus concentrados",
+   "metricFOB": "3295385554",
+   "metricKG": "25007996007"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "261690",
+   "subHeading": "Minérios de outros metais preciosos e seus concentrados",
+   "metricFOB": "274397953",
+   "metricKG": "164535262"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "260400",
+   "subHeading": "Minérios de níquel e seus concentrados",
+   "metricFOB": "244453913",
+   "metricKG": "111306225"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "260600",
+   "subHeading": "Minérios de alumínio e seus concentrados",
+   "metricFOB": "175559210",
+   "metricKG": "4731927721"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "260200",
+   "subHeading": "Minérios de manganês e seus concentrados, incluídos os minérios de manganês ferruginosos e seus concentrados, de teor de manganês de => 20%, em peso, sobre o produto seco",
+   "metricFOB": "142968403",
+   "metricKG": "1448569552"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "261590",
+   "subHeading": "Minérios de nióbio, tântalo ou vanádio, e seus concentrados",
+   "metricFOB": "45412046",
+   "metricKG": "1081109"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "260700",
+   "subHeading": "Minérios de chumbo e seus concentrados",
+   "metricFOB": "37774776",
+   "metricKG": "47928917"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "260800",
+   "subHeading": "Minérios de zinco e seus concentrados",
+   "metricFOB": "15205922",
+   "metricKG": "21726864"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "260900",
+   "subHeading": "Minérios de estanho e seus concentrados",
+   "metricFOB": "15171149",
+   "metricKG": "27880822"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "261400",
+   "subHeading": "Minérios de titânio e seus concentrados",
+   "metricFOB": "14385187",
+   "metricKG": "74627586"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "261800",
+   "subHeading": "Escória de altos-fornos granulada, proveniente da fabricação do ferro e aço",
+   "metricFOB": "9279923",
+   "metricKG": "311126544"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "261000",
+   "subHeading": "Minérios de cromo e seus concentrados",
+   "metricFOB": "7798793",
+   "metricKG": "41110936"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "261310",
+   "subHeading": "Minérios de molibdênio ustulados e seus concentrados",
+   "metricFOB": "7634061",
+   "metricKG": "2695559"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "261100",
+   "subHeading": "Minérios de tungstênio e seus concentrados",
+   "metricFOB": "3334334",
+   "metricKG": "218265"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "261790",
+   "subHeading": "Outros minérios e seus concentrados",
+   "metricFOB": "411171",
+   "metricKG": "869750"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "262099",
+   "subHeading": "Cinzas e resíduos, contendo outros metais ou compostos de metais",
+   "metricFOB": "372186",
+   "metricKG": "200449"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "262040",
+   "subHeading": "Cinzas e resíduos contendo alumínio",
+   "metricFOB": "343600",
+   "metricKG": "260937"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "262030",
+   "subHeading": "Cinzas e resíduos contendo cobre",
+   "metricFOB": "114794",
+   "metricKG": "114600"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "262190",
+   "subHeading": "Outras escórias e cinzas, incluídas as cinzas de algas",
+   "metricFOB": "19860",
+   "metricKG": "1260404"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "261900",
+   "subHeading": "Outras escórias e desperdícios da fabricação do ferro e aço",
+   "metricFOB": "840",
+   "metricKG": "610"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "260120",
+   "subHeading": "Piritas de ferro ustuladas (cinzas de piritas)",
+   "metricFOB": "210",
+   "metricKG": "10"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "262011",
+   "subHeading": "Mates de galvanização (contendo zinco)",
+   "metricFOB": "18",
+   "metricKG": "0"
+  },
+  {
+   "year": "2023",
+   "subHeadingCode": "262029",
+   "subHeading": "Outras cinzas e resíduos, contendo principalmente chumbo",
+   "metricFOB": "0",
+   "metricKG": "2"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "260111",
+   "subHeading": "Minérios de ferro não aglomerados e seus concentrados",
+   "metricFOB": "25734247774",
+   "metricKG": "324668730013"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "260112",
+   "subHeading": "Minérios de ferro aglomerados e seus concentrados",
+   "metricFOB": "3190096449",
+   "metricKG": "19331135949"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "260300",
+   "subHeading": "Minérios de cobre e seus concentrados",
+   "metricFOB": "2744380551",
+   "metricKG": "1047154298"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "260400",
+   "subHeading": "Minérios de níquel e seus concentrados",
+   "metricFOB": "321093633",
+   "metricKG": "126368780"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "260600",
+   "subHeading": "Minérios de alumínio e seus concentrados",
+   "metricFOB": "169148978",
+   "metricKG": "4209573001"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "260200",
+   "subHeading": "Minérios de manganês e seus concentrados, incluídos os minérios de manganês ferruginosos e seus concentrados, de teor de manganês de => 20%, em peso, sobre o produto seco",
+   "metricFOB": "128410160",
+   "metricKG": "1122171176"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "260900",
+   "subHeading": "Minérios de estanho e seus concentrados",
+   "metricFOB": "74419658",
+   "metricKG": "11320082"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "261590",
+   "subHeading": "Minérios de nióbio, tântalo ou vanádio, e seus concentrados",
+   "metricFOB": "33648364",
+   "metricKG": "923505"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "260700",
+   "subHeading": "Minérios de chumbo e seus concentrados",
+   "metricFOB": "26895193",
+   "metricKG": "24631284"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "260800",
+   "subHeading": "Minérios de zinco e seus concentrados",
+   "metricFOB": "11262905",
+   "metricKG": "10013915"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "261800",
+   "subHeading": "Escória de altos-fornos granulada, proveniente da fabricação do ferro e aço",
+   "metricFOB": "8267929",
+   "metricKG": "360718578"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "261400",
+   "subHeading": "Minérios de titânio e seus concentrados",
+   "metricFOB": "6449790",
+   "metricKG": "46988270"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "261100",
+   "subHeading": "Minérios de tungstênio e seus concentrados",
+   "metricFOB": "3647050",
+   "metricKG": "216000"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "261610",
+   "subHeading": "Minérios de prata e seus concentrados",
+   "metricFOB": "1200415",
+   "metricKG": "966304"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "261000",
+   "subHeading": "Minérios de cromo e seus concentrados",
+   "metricFOB": "734769",
+   "metricKG": "1193580"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "262019",
+   "subHeading": "Outras cinzas e resíduos contendo zinco",
+   "metricFOB": "506898",
+   "metricKG": "15927000"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "261790",
+   "subHeading": "Outros minérios e seus concentrados",
+   "metricFOB": "375681",
+   "metricKG": "2314565"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "262190",
+   "subHeading": "Outras escórias e cinzas, incluídas as cinzas de algas",
+   "metricFOB": "269308",
+   "metricKG": "961704"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "261510",
+   "subHeading": "Minérios de zircônio e seus concentrados",
+   "metricFOB": "91488",
+   "metricKG": "25000"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "262099",
+   "subHeading": "Cinzas e resíduos, contendo outros metais ou compostos de metais",
+   "metricFOB": "74348",
+   "metricKG": "349361"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "261310",
+   "subHeading": "Minérios de molibdênio ustulados e seus concentrados",
+   "metricFOB": "32650",
+   "metricKG": "50000"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "260120",
+   "subHeading": "Piritas de ferro ustuladas (cinzas de piritas)",
+   "metricFOB": "3278",
+   "metricKG": "1000"
+  },
+  {
+   "year": "2022",
+   "subHeadingCode": "261690",
+   "subHeading": "Minérios de outros metais preciosos e seus concentrados",
+   "metricFOB": "411",
+   "metricKG": "1508"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "260111",
+   "subHeading": "Minérios de ferro não aglomerados e seus concentrados",
+   "metricFOB": "40715560471",
+   "metricKG": "337578570809"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "260112",
+   "subHeading": "Minérios de ferro aglomerados e seus concentrados",
+   "metricFOB": "3945087301",
+   "metricKG": "19692002721"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "260300",
+   "subHeading": "Minérios de cobre e seus concentrados",
+   "metricFOB": "3369103791",
+   "metricKG": "1185898840"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "260400",
+   "subHeading": "Minérios de níquel e seus concentrados",
+   "metricFOB": "237249794",
+   "metricKG": "119795611"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "260600",
+   "subHeading": "Minérios de alumínio e seus concentrados",
+   "metricFOB": "183909267",
+   "metricKG": "5281824400"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "260200",
+   "subHeading": "Minérios de manganês e seus concentrados, incluídos os minérios de manganês ferruginosos e seus concentrados, de teor de manganês de => 20%, em peso, sobre o produto seco",
+   "metricFOB": "171908297",
+   "metricKG": "1725419561"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "261590",
+   "subHeading": "Minérios de nióbio, tântalo ou vanádio, e seus concentrados",
+   "metricFOB": "25652974",
+   "metricKG": "1145880"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "260700",
+   "subHeading": "Minérios de chumbo e seus concentrados",
+   "metricFOB": "25292509",
+   "metricKG": "18097526"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "261800",
+   "subHeading": "Escória de altos-fornos granulada, proveniente da fabricação do ferro e aço",
+   "metricFOB": "10686135",
+   "metricKG": "574863256"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "260900",
+   "subHeading": "Minérios de estanho e seus concentrados",
+   "metricFOB": "10548560",
+   "metricKG": "15459811"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "261400",
+   "subHeading": "Minérios de titânio e seus concentrados",
+   "metricFOB": "9609904",
+   "metricKG": "55783341"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "261000",
+   "subHeading": "Minérios de cromo e seus concentrados",
+   "metricFOB": "5223364",
+   "metricKG": "41104742"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "260800",
+   "subHeading": "Minérios de zinco e seus concentrados",
+   "metricFOB": "5025916",
+   "metricKG": "4535530"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "261610",
+   "subHeading": "Minérios de prata e seus concentrados",
+   "metricFOB": "2797029",
+   "metricKG": "1099624"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "261310",
+   "subHeading": "Minérios de molibdênio ustulados e seus concentrados",
+   "metricFOB": "2398970",
+   "metricKG": "1280000"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "261100",
+   "subHeading": "Minérios de tungstênio e seus concentrados",
+   "metricFOB": "1609064",
+   "metricKG": "145000"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "262019",
+   "subHeading": "Outras cinzas e resíduos contendo zinco",
+   "metricFOB": "257800",
+   "metricKG": "5156000"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "262099",
+   "subHeading": "Cinzas e resíduos, contendo outros metais ou compostos de metais",
+   "metricFOB": "216820",
+   "metricKG": "901813"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "262040",
+   "subHeading": "Cinzas e resíduos contendo alumínio",
+   "metricFOB": "203580",
+   "metricKG": "219860"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "261790",
+   "subHeading": "Outros minérios e seus concentrados",
+   "metricFOB": "167228",
+   "metricKG": "455600"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "262190",
+   "subHeading": "Outras escórias e cinzas, incluídas as cinzas de algas",
+   "metricFOB": "160740",
+   "metricKG": "863671"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "261390",
+   "subHeading": "Minérios de molibdênio não ustulados e concentrados",
+   "metricFOB": "120236",
+   "metricKG": "174800"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "261510",
+   "subHeading": "Minérios de zircônio e seus concentrados",
+   "metricFOB": "33657",
+   "metricKG": "25150"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "261900",
+   "subHeading": "Outras escórias e desperdícios da fabricação do ferro e aço",
+   "metricFOB": "5721",
+   "metricKG": "3968"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "260120",
+   "subHeading": "Piritas de ferro ustuladas (cinzas de piritas)",
+   "metricFOB": "4462",
+   "metricKG": "354"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "261690",
+   "subHeading": "Minérios de outros metais preciosos e seus concentrados",
+   "metricFOB": "415",
+   "metricKG": "185"
+  },
+  {
+   "year": "2021",
+   "subHeadingCode": "262029",
+   "subHeading": "Outras cinzas e resíduos, contendo principalmente chumbo",
+   "metricFOB": "359",
+   "metricKG": "4"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "260111",
+   "subHeading": "Minérios de ferro não aglomerados e seus concentrados",
+   "metricFOB": "24259114604",
+   "metricKG": "325927808763"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "260300",
+   "subHeading": "Minérios de cobre e seus concentrados",
+   "metricFOB": "2408930663",
+   "metricKG": "1146556683"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "260112",
+   "subHeading": "Minérios de ferro aglomerados e seus concentrados",
+   "metricFOB": "1521370919",
+   "metricKG": "15152649753"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "260200",
+   "subHeading": "Minérios de manganês e seus concentrados, incluídos os minérios de manganês ferruginosos e seus concentrados, de teor de manganês de => 20%, em peso, sobre o produto seco",
+   "metricFOB": "346559082",
+   "metricKG": "3130627753"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "260600",
+   "subHeading": "Minérios de alumínio e seus concentrados",
+   "metricFOB": "169547685",
+   "metricKG": "4525150272"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "260400",
+   "subHeading": "Minérios de níquel e seus concentrados",
+   "metricFOB": "77776260",
+   "metricKG": "53385911"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "261800",
+   "subHeading": "Escória de altos-fornos granulada, proveniente da fabricação do ferro e aço",
+   "metricFOB": "22163902",
+   "metricKG": "1429950085"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "261590",
+   "subHeading": "Minérios de nióbio, tântalo ou vanádio, e seus concentrados",
+   "metricFOB": "20906290",
+   "metricKG": "1043984"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "260700",
+   "subHeading": "Minérios de chumbo e seus concentrados",
+   "metricFOB": "18057561",
+   "metricKG": "14873746"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "261000",
+   "subHeading": "Minérios de cromo e seus concentrados",
+   "metricFOB": "13198055",
+   "metricKG": "112531895"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "261400",
+   "subHeading": "Minérios de titânio e seus concentrados",
+   "metricFOB": "10840894",
+   "metricKG": "57333593"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "260900",
+   "subHeading": "Minérios de estanho e seus concentrados",
+   "metricFOB": "9751982",
+   "metricKG": "1788092"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "260120",
+   "subHeading": "Piritas de ferro ustuladas (cinzas de piritas)",
+   "metricFOB": "8745091",
+   "metricKG": "431431102"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "261100",
+   "subHeading": "Minérios de tungstênio e seus concentrados",
+   "metricFOB": "3302041",
+   "metricKG": "292080"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "261610",
+   "subHeading": "Minérios de prata e seus concentrados",
+   "metricFOB": "1525437",
+   "metricKG": "1050462"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "262019",
+   "subHeading": "Outras cinzas e resíduos contendo zinco",
+   "metricFOB": "616211",
+   "metricKG": "22790010"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "262099",
+   "subHeading": "Cinzas e resíduos, contendo outros metais ou compostos de metais",
+   "metricFOB": "358586",
+   "metricKG": "3015176"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "261790",
+   "subHeading": "Outros minérios e seus concentrados",
+   "metricFOB": "297679",
+   "metricKG": "1326992"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "261690",
+   "subHeading": "Minérios de outros metais preciosos e seus concentrados",
+   "metricFOB": "88811",
+   "metricKG": "771"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "262190",
+   "subHeading": "Outras escórias e cinzas, incluídas as cinzas de algas",
+   "metricFOB": "79566",
+   "metricKG": "607820"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "260800",
+   "subHeading": "Minérios de zinco e seus concentrados",
+   "metricFOB": "20000",
+   "metricKG": "25000"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "261510",
+   "subHeading": "Minérios de zircônio e seus concentrados",
+   "metricFOB": "5440",
+   "metricKG": "1400"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "261390",
+   "subHeading": "Minérios de molibdênio não ustulados e concentrados",
+   "metricFOB": "5316",
+   "metricKG": "480"
+  },
+  {
+   "year": "2020",
+   "subHeadingCode": "261900",
+   "subHeading": "Outras escórias e desperdícios da fabricação do ferro e aço",
+   "metricFOB": "66",
+   "metricKG": "2322"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "260111",
+   "subHeading": "Minérios de ferro não aglomerados e seus concentrados",
+   "metricFOB": "20237251009",
+   "metricKG": "326159476161"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "260112",
+   "subHeading": "Minérios de ferro aglomerados e seus concentrados",
+   "metricFOB": "2443735797",
+   "metricKG": "24730825121"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "260300",
+   "subHeading": "Minérios de cobre e seus concentrados",
+   "metricFOB": "2325685010",
+   "metricKG": "1159869064"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "260200",
+   "subHeading": "Minérios de manganês e seus concentrados, incluídos os minérios de manganês ferruginosos e seus concentrados, de teor de manganês de => 20%, em peso, sobre o produto seco",
+   "metricFOB": "490149175",
+   "metricKG": "3843537162"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "260600",
+   "subHeading": "Minérios de alumínio e seus concentrados",
+   "metricFOB": "258340319",
+   "metricKG": "7105239035"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "260900",
+   "subHeading": "Minérios de estanho e seus concentrados",
+   "metricFOB": "20394987",
+   "metricKG": "2636559"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "261590",
+   "subHeading": "Minérios de nióbio, tântalo ou vanádio, e seus concentrados",
+   "metricFOB": "19622235",
+   "metricKG": "988352"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "260700",
+   "subHeading": "Minérios de chumbo e seus concentrados",
+   "metricFOB": "14247394",
+   "metricKG": "13344573"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "261800",
+   "subHeading": "Escória de altos-fornos granulada, proveniente da fabricação do ferro e aço",
+   "metricFOB": "11377122",
+   "metricKG": "668301573"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "261400",
+   "subHeading": "Minérios de titânio e seus concentrados",
+   "metricFOB": "5943717",
+   "metricKG": "40916793"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "261100",
+   "subHeading": "Minérios de tungstênio e seus concentrados",
+   "metricFOB": "2962274",
+   "metricKG": "245025"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "261610",
+   "subHeading": "Minérios de prata e seus concentrados",
+   "metricFOB": "2421959",
+   "metricKG": "1279533"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "261000",
+   "subHeading": "Minérios de cromo e seus concentrados",
+   "metricFOB": "2063722",
+   "metricKG": "4027347"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "260120",
+   "subHeading": "Piritas de ferro ustuladas (cinzas de piritas)",
+   "metricFOB": "1403839",
+   "metricKG": "69838900"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "261790",
+   "subHeading": "Outros minérios e seus concentrados",
+   "metricFOB": "548826",
+   "metricKG": "1291109"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "262030",
+   "subHeading": "Cinzas e resíduos contendo cobre",
+   "metricFOB": "478409",
+   "metricKG": "250000"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "261310",
+   "subHeading": "Minérios de molibdênio ustulados e seus concentrados",
+   "metricFOB": "423091",
+   "metricKG": "99705"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "262190",
+   "subHeading": "Outras escórias e cinzas, incluídas as cinzas de algas",
+   "metricFOB": "142642",
+   "metricKG": "1065564"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "260800",
+   "subHeading": "Minérios de zinco e seus concentrados",
+   "metricFOB": "92875",
+   "metricKG": "68839"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "262019",
+   "subHeading": "Outras cinzas e resíduos contendo zinco",
+   "metricFOB": "71700",
+   "metricKG": "2390000"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "262099",
+   "subHeading": "Cinzas e resíduos, contendo outros metais ou compostos de metais",
+   "metricFOB": "60865",
+   "metricKG": "260580"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "261900",
+   "subHeading": "Outras escórias e desperdícios da fabricação do ferro e aço",
+   "metricFOB": "16945",
+   "metricKG": "16191"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "260400",
+   "subHeading": "Minérios de níquel e seus concentrados",
+   "metricFOB": "10989",
+   "metricKG": "48845"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "261390",
+   "subHeading": "Minérios de molibdênio não ustulados e concentrados",
+   "metricFOB": "2827",
+   "metricKG": "227"
+  },
+  {
+   "year": "2019",
+   "subHeadingCode": "261690",
+   "subHeading": "Minérios de outros metais preciosos e seus concentrados",
+   "metricFOB": "1678",
+   "metricKG": "3058"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "260111",
+   "subHeading": "Minérios de ferro não aglomerados e seus concentrados",
+   "metricFOB": "16718804465",
+   "metricKG": "355070534546"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "260112",
+   "subHeading": "Minérios de ferro aglomerados e seus concentrados",
+   "metricFOB": "3501554967",
+   "metricKG": "34730090043"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "260300",
+   "subHeading": "Minérios de cobre e seus concentrados",
+   "metricFOB": "2640254464",
+   "metricKG": "1246567869"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "260200",
+   "subHeading": "Minérios de manganês e seus concentrados, incluídos os minérios de manganês ferruginosos e seus concentrados, de teor de manganês de => 20%, em peso, sobre o produto seco",
+   "metricFOB": "406787507",
+   "metricKG": "2614999645"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "260600",
+   "subHeading": "Minérios de alumínio e seus concentrados",
+   "metricFOB": "269280674",
+   "metricKG": "8472005183"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "261590",
+   "subHeading": "Minérios de nióbio, tântalo ou vanádio, e seus concentrados",
+   "metricFOB": "35575444",
+   "metricKG": "1137730"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "260900",
+   "subHeading": "Minérios de estanho e seus concentrados",
+   "metricFOB": "22877851",
+   "metricKG": "2745714"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "261800",
+   "subHeading": "Escória de altos-fornos granulada, proveniente da fabricação do ferro e aço",
+   "metricFOB": "17631879",
+   "metricKG": "1184243800"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "260700",
+   "subHeading": "Minérios de chumbo e seus concentrados",
+   "metricFOB": "16911907",
+   "metricKG": "16815003"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "261400",
+   "subHeading": "Minérios de titânio e seus concentrados",
+   "metricFOB": "15978874",
+   "metricKG": "111538588"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "261000",
+   "subHeading": "Minérios de cromo e seus concentrados",
+   "metricFOB": "9604624",
+   "metricKG": "51123678"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "260800",
+   "subHeading": "Minérios de zinco e seus concentrados",
+   "metricFOB": "5694625",
+   "metricKG": "26155631"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "261100",
+   "subHeading": "Minérios de tungstênio e seus concentrados",
+   "metricFOB": "4267181",
+   "metricKG": "549242"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "261610",
+   "subHeading": "Minérios de prata e seus concentrados",
+   "metricFOB": "3017506",
+   "metricKG": "1070286"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "261310",
+   "subHeading": "Minérios de molibdênio ustulados e seus concentrados",
+   "metricFOB": "1116848",
+   "metricKG": "157633"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "261390",
+   "subHeading": "Minérios de molibdênio não ustulados e concentrados",
+   "metricFOB": "277056",
+   "metricKG": "352503"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "260500",
+   "subHeading": "Minérios de cobalto e seus concentrados",
+   "metricFOB": "255446",
+   "metricKG": "148137"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "262099",
+   "subHeading": "Cinzas e resíduos, contendo outros metais ou compostos de metais",
+   "metricFOB": "155023",
+   "metricKG": "790976"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "261790",
+   "subHeading": "Outros minérios e seus concentrados",
+   "metricFOB": "94543",
+   "metricKG": "85937"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "262019",
+   "subHeading": "Outras cinzas e resíduos contendo zinco",
+   "metricFOB": "92505",
+   "metricKG": "12503000"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "262190",
+   "subHeading": "Outras escórias e cinzas, incluídas as cinzas de algas",
+   "metricFOB": "28572",
+   "metricKG": "208214"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "260400",
+   "subHeading": "Minérios de níquel e seus concentrados",
+   "metricFOB": "1584",
+   "metricKG": "5551"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "262030",
+   "subHeading": "Cinzas e resíduos contendo cobre",
+   "metricFOB": "522",
+   "metricKG": "30"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "261690",
+   "subHeading": "Minérios de outros metais preciosos e seus concentrados",
+   "metricFOB": "438",
+   "metricKG": "1808"
+  },
+  {
+   "year": "2018",
+   "subHeadingCode": "261900",
+   "subHeading": "Outras escórias e desperdícios da fabricação do ferro e aço",
+   "metricFOB": "3",
+   "metricKG": "1"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "260111",
+   "subHeading": "Minérios de ferro não aglomerados e seus concentrados",
+   "metricFOB": "16712952368",
+   "metricKG": "353261492196"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "260112",
+   "subHeading": "Minérios de ferro aglomerados e seus concentrados",
+   "metricFOB": "2486201832",
+   "metricKG": "30275679999"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "260300",
+   "subHeading": "Minérios de cobre e seus concentrados",
+   "metricFOB": "2485258236",
+   "metricKG": "1248346389"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "260200",
+   "subHeading": "Minérios de manganês e seus concentrados, incluídos os minérios de manganês ferruginosos e seus concentrados, de teor de manganês de => 20%, em peso, sobre o produto seco",
+   "metricFOB": "365636402",
+   "metricKG": "2683295234"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "260600",
+   "subHeading": "Minérios de alumínio e seus concentrados",
+   "metricFOB": "237835360",
+   "metricKG": "8969739876"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "260900",
+   "subHeading": "Minérios de estanho e seus concentrados",
+   "metricFOB": "39914667",
+   "metricKG": "4546028"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "260700",
+   "subHeading": "Minérios de chumbo e seus concentrados",
+   "metricFOB": "17248229",
+   "metricKG": "15357464"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "261590",
+   "subHeading": "Minérios de nióbio, tântalo ou vanádio, e seus concentrados",
+   "metricFOB": "15810584",
+   "metricKG": "719787"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "261000",
+   "subHeading": "Minérios de cromo e seus concentrados",
+   "metricFOB": "13804890",
+   "metricKG": "62793509"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "261400",
+   "subHeading": "Minérios de titânio e seus concentrados",
+   "metricFOB": "8311067",
+   "metricKG": "68264265"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "261800",
+   "subHeading": "Escória de altos-fornos granulada, proveniente da fabricação do ferro e aço",
+   "metricFOB": "6987664",
+   "metricKG": "596534374"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "261100",
+   "subHeading": "Minérios de tungstênio e seus concentrados",
+   "metricFOB": "4042032",
+   "metricKG": "372103"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "261610",
+   "subHeading": "Minérios de prata e seus concentrados",
+   "metricFOB": "2120796",
+   "metricKG": "936003"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "261510",
+   "subHeading": "Minérios de zircônio e seus concentrados",
+   "metricFOB": "424743",
+   "metricKG": "621000"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "261790",
+   "subHeading": "Outros minérios e seus concentrados",
+   "metricFOB": "302935",
+   "metricKG": "282200"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "260500",
+   "subHeading": "Minérios de cobalto e seus concentrados",
+   "metricFOB": "302179",
+   "metricKG": "73421"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "260800",
+   "subHeading": "Minérios de zinco e seus concentrados",
+   "metricFOB": "250332",
+   "metricKG": "913830"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "262190",
+   "subHeading": "Outras escórias e cinzas, incluídas as cinzas de algas",
+   "metricFOB": "165323",
+   "metricKG": "1089000"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "261390",
+   "subHeading": "Minérios de molibdênio não ustulados e concentrados",
+   "metricFOB": "140000",
+   "metricKG": "244600"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "262099",
+   "subHeading": "Cinzas e resíduos, contendo outros metais ou compostos de metais",
+   "metricFOB": "127838",
+   "metricKG": "319413"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "262040",
+   "subHeading": "Cinzas e resíduos contendo alumínio",
+   "metricFOB": "61411",
+   "metricKG": "98040"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "261310",
+   "subHeading": "Minérios de molibdênio ustulados e seus concentrados",
+   "metricFOB": "28004",
+   "metricKG": "25000"
+  },
+  {
+   "year": "2017",
+   "subHeadingCode": "261690",
+   "subHeading": "Minérios de outros metais preciosos e seus concentrados",
+   "metricFOB": "1",
+   "metricKG": "0"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "260111",
+   "subHeading": "Minérios de ferro não aglomerados e seus concentrados",
+   "metricFOB": "11575969998",
+   "metricKG": "344548049538"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "260300",
+   "subHeading": "Minérios de cobre e seus concentrados",
+   "metricFOB": "1928278471",
+   "metricKG": "1155476130"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "260112",
+   "subHeading": "Minérios de ferro aglomerados e seus concentrados",
+   "metricFOB": "1713370778",
+   "metricKG": "29414918488"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "260600",
+   "subHeading": "Minérios de alumínio e seus concentrados",
+   "metricFOB": "265340714",
+   "metricKG": "10449817870"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "260200",
+   "subHeading": "Minérios de manganês e seus concentrados, incluídos os minérios de manganês ferruginosos e seus concentrados, de teor de manganês de => 20%, em peso, sobre o produto seco",
+   "metricFOB": "201815070",
+   "metricKG": "2010141319"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "261590",
+   "subHeading": "Minérios de nióbio, tântalo ou vanádio, e seus concentrados",
+   "metricFOB": "37629698",
+   "metricKG": "998394"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "260900",
+   "subHeading": "Minérios de estanho e seus concentrados",
+   "metricFOB": "32716205",
+   "metricKG": "3085974"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "260400",
+   "subHeading": "Minérios de níquel e seus concentrados",
+   "metricFOB": "26379749",
+   "metricKG": "38961255"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "260700",
+   "subHeading": "Minérios de chumbo e seus concentrados",
+   "metricFOB": "14323417",
+   "metricKG": "18715926"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "261000",
+   "subHeading": "Minérios de cromo e seus concentrados",
+   "metricFOB": "13411605",
+   "metricKG": "54026847"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "261400",
+   "subHeading": "Minérios de titânio e seus concentrados",
+   "metricFOB": "3290054",
+   "metricKG": "25975057"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "261100",
+   "subHeading": "Minérios de tungstênio e seus concentrados",
+   "metricFOB": "2149843",
+   "metricKG": "225793"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "261610",
+   "subHeading": "Minérios de prata e seus concentrados",
+   "metricFOB": "617258",
+   "metricKG": "832734"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "261790",
+   "subHeading": "Outros minérios e seus concentrados",
+   "metricFOB": "413257",
+   "metricKG": "499500"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "262190",
+   "subHeading": "Outras escórias e cinzas, incluídas as cinzas de algas",
+   "metricFOB": "133120",
+   "metricKG": "1132392"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "261310",
+   "subHeading": "Minérios de molibdênio ustulados e seus concentrados",
+   "metricFOB": "90131",
+   "metricKG": "234256"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "262030",
+   "subHeading": "Cinzas e resíduos contendo cobre",
+   "metricFOB": "57623",
+   "metricKG": "98816"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "262099",
+   "subHeading": "Cinzas e resíduos, contendo outros metais ou compostos de metais",
+   "metricFOB": "54386",
+   "metricKG": "147250"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "261690",
+   "subHeading": "Minérios de outros metais preciosos e seus concentrados",
+   "metricFOB": "24921",
+   "metricKG": "64840"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "260800",
+   "subHeading": "Minérios de zinco e seus concentrados",
+   "metricFOB": "20030",
+   "metricKG": "64000"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "261510",
+   "subHeading": "Minérios de zircônio e seus concentrados",
+   "metricFOB": "6640",
+   "metricKG": "4700"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "261800",
+   "subHeading": "Escória de altos-fornos granulada, proveniente da fabricação do ferro e aço",
+   "metricFOB": "4725",
+   "metricKG": "53000"
+  },
+  {
+   "year": "2016",
+   "subHeadingCode": "260120",
+   "subHeading": "Piritas de ferro ustuladas (cinzas de piritas)",
+   "metricFOB": "1131",
+   "metricKG": "220"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "260111",
+   "subHeading": "Minérios de ferro não aglomerados e seus concentrados",
+   "metricFOB": "10339928216",
+   "metricKG": "313880626932"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "260112",
+   "subHeading": "Minérios de ferro aglomerados e seus concentrados",
+   "metricFOB": "3697175407",
+   "metricKG": "51173822893"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "260300",
+   "subHeading": "Minérios de cobre e seus concentrados",
+   "metricFOB": "1984113856",
+   "metricKG": "1084812417"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "260600",
+   "subHeading": "Minérios de alumínio e seus concentrados",
+   "metricFOB": "266502050",
+   "metricKG": "9334893306"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "260200",
+   "subHeading": "Minérios de manganês e seus concentrados, incluídos os minérios de manganês ferruginosos e seus concentrados, de teor de manganês de => 20%, em peso, sobre o produto seco",
+   "metricFOB": "149146661",
+   "metricKG": "1897703134"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "260400",
+   "subHeading": "Minérios de níquel e seus concentrados",
+   "metricFOB": "126301538",
+   "metricKG": "132303277"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "261590",
+   "subHeading": "Minérios de nióbio, tântalo ou vanádio, e seus concentrados",
+   "metricFOB": "44114841",
+   "metricKG": "960493"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "260900",
+   "subHeading": "Minérios de estanho e seus concentrados",
+   "metricFOB": "20858674",
+   "metricKG": "2147906"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "260700",
+   "subHeading": "Minérios de chumbo e seus concentrados",
+   "metricFOB": "14427945",
+   "metricKG": "18725554"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "261100",
+   "subHeading": "Minérios de tungstênio e seus concentrados",
+   "metricFOB": "4442114",
+   "metricKG": "533603"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "260800",
+   "subHeading": "Minérios de zinco e seus concentrados",
+   "metricFOB": "3091259",
+   "metricKG": "2858213"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "261400",
+   "subHeading": "Minérios de titânio e seus concentrados",
+   "metricFOB": "2384402",
+   "metricKG": "16590929"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "261610",
+   "subHeading": "Minérios de prata e seus concentrados",
+   "metricFOB": "532881",
+   "metricKG": "741146"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "262190",
+   "subHeading": "Outras escórias e cinzas, incluídas as cinzas de algas",
+   "metricFOB": "458366",
+   "metricKG": "1187759"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "261790",
+   "subHeading": "Outros minérios e seus concentrados",
+   "metricFOB": "433552",
+   "metricKG": "126702"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "261000",
+   "subHeading": "Minérios de cromo e seus concentrados",
+   "metricFOB": "260794",
+   "metricKG": "321340"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "261310",
+   "subHeading": "Minérios de molibdênio ustulados e seus concentrados",
+   "metricFOB": "87133",
+   "metricKG": "168958"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "261900",
+   "subHeading": "Outras escórias e desperdícios da fabricação do ferro e aço",
+   "metricFOB": "86360",
+   "metricKG": "782300"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "262099",
+   "subHeading": "Cinzas e resíduos, contendo outros metais ou compostos de metais",
+   "metricFOB": "46880",
+   "metricKG": "126000"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "262030",
+   "subHeading": "Cinzas e resíduos contendo cobre",
+   "metricFOB": "41285",
+   "metricKG": "45384"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "261390",
+   "subHeading": "Minérios de molibdênio não ustulados e concentrados",
+   "metricFOB": "680",
+   "metricKG": "20"
+  },
+  {
+   "year": "2015",
+   "subHeadingCode": "261690",
+   "subHeading": "Minérios de outros metais preciosos e seus concentrados",
+   "metricFOB": "331",
+   "metricKG": "50"
+  }
+ ],
+ "ferro_por_pais_2025": [
+  {
+   "year": "2025",
+   "country": "China",
+   "metricFOB": "19581100549",
+   "metricKG": "294508180764"
+  },
+  {
+   "year": "2025",
+   "country": "Malásia",
+   "metricFOB": "1368082347",
+   "metricKG": "19667883000"
+  },
+  {
+   "year": "2025",
+   "country": "Japão",
+   "metricFOB": "955636396",
+   "metricKG": "12627542479"
+  },
+  {
+   "year": "2025",
+   "country": "Omã",
+   "metricFOB": "879304837",
+   "metricKG": "12749338050"
+  },
+  {
+   "year": "2025",
+   "country": "Barein",
+   "metricFOB": "761167795",
+   "metricKG": "9395281020"
+  },
+  {
+   "year": "2025",
+   "country": "Países Baixos (Holanda)",
+   "metricFOB": "719630932",
+   "metricKG": "9861716591"
+  },
+  {
+   "year": "2025",
+   "country": "Coreia do Sul",
+   "metricFOB": "718730994",
+   "metricKG": "7789929150"
+  },
+  {
+   "year": "2025",
+   "country": "Índia",
+   "metricFOB": "441922136",
+   "metricKG": "6373480000"
+  },
+  {
+   "year": "2025",
+   "country": "Filipinas",
+   "metricFOB": "415347892",
+   "metricKG": "5676524000"
+  },
+  {
+   "year": "2025",
+   "country": "Egito",
+   "metricFOB": "399311985",
+   "metricKG": "3684268800"
+  },
+  {
+   "year": "2025",
+   "country": "Turquia",
+   "metricFOB": "371490131",
+   "metricKG": "5251364000"
+  },
+  {
+   "year": "2025",
+   "country": "Estados Unidos",
+   "metricFOB": "303445921",
+   "metricKG": "2531318183"
+  },
+  {
+   "year": "2025",
+   "country": "Uruguai",
+   "metricFOB": "264054703",
+   "metricKG": "5842615728"
+  },
+  {
+   "year": "2025",
+   "country": "Argentina",
+   "metricFOB": "256490924",
+   "metricKG": "3176606945"
+  },
+  {
+   "year": "2025",
+   "country": "Argélia",
+   "metricFOB": "230178580",
+   "metricKG": "2725003000"
+  },
+  {
+   "year": "2025",
+   "country": "Líbia",
+   "metricFOB": "216120479",
+   "metricKG": "1887677000"
+  },
+  {
+   "year": "2025",
+   "country": "Trinidad e Tobago",
+   "metricFOB": "215069353",
+   "metricKG": "1802372080"
+  },
+  {
+   "year": "2025",
+   "country": "México",
+   "metricFOB": "159059581",
+   "metricKG": "1977161218"
+  },
+  {
+   "year": "2025",
+   "country": "Itália",
+   "metricFOB": "110780931",
+   "metricKG": "1384748241"
+  },
+  {
+   "year": "2025",
+   "country": "Emirados Árabes Unidos",
+   "metricFOB": "107795172",
+   "metricKG": "789622075"
+  },
+  {
+   "year": "2025",
+   "country": "Bélgica",
+   "metricFOB": "82159416",
+   "metricKG": "793440800"
+  },
+  {
+   "year": "2025",
+   "country": "Alemanha",
+   "metricFOB": "81076360",
+   "metricKG": "923720106"
+  },
+  {
+   "year": "2025",
+   "country": "Espanha",
+   "metricFOB": "59043425",
+   "metricKG": "847981229"
+  },
+  {
+   "year": "2025",
+   "country": "Vietnã",
+   "metricFOB": "56205392",
+   "metricKG": "694940416"
+  },
+  {
+   "year": "2025",
+   "country": "Áustria",
+   "metricFOB": "51521454",
+   "metricKG": "1141793821"
+  },
+  {
+   "year": "2025",
+   "country": "Catar",
+   "metricFOB": "44386928",
+   "metricKG": "329999047"
+  },
+  {
+   "year": "2025",
+   "country": "França",
+   "metricFOB": "38290841",
+   "metricKG": "532415649"
+  },
+  {
+   "year": "2025",
+   "country": "Reino Unido",
+   "metricFOB": "31190257",
+   "metricKG": "406764148"
+  },
+  {
+   "year": "2025",
+   "country": "Suíça",
+   "metricFOB": "22317072",
+   "metricKG": "415203311"
+  },
+  {
+   "year": "2025",
+   "country": "Singapura",
+   "metricFOB": "13143808",
+   "metricKG": "196270000"
+  },
+  {
+   "year": "2025",
+   "country": "Taiwan (Formosa)",
+   "metricFOB": "9130736",
+   "metricKG": "82962000"
+  },
+  {
+   "year": "2025",
+   "country": "Indonésia",
+   "metricFOB": "8107715",
+   "metricKG": "104500000"
+  },
+  {
+   "year": "2025",
+   "country": "Arábia Saudita",
+   "metricFOB": "6636910",
+   "metricKG": "51703100"
+  },
+  {
+   "year": "2025",
+   "country": "Paraguai",
+   "metricFOB": "753388",
+   "metricKG": "25987800"
+  },
+  {
+   "year": "2025",
+   "country": "Suécia",
+   "metricFOB": "30243",
+   "metricKG": "25202"
+  },
+  {
+   "year": "2025",
+   "country": "Hong Kong",
+   "metricFOB": "16466",
+   "metricKG": "78007"
+  },
+  {
+   "year": "2025",
+   "country": "África do Sul",
+   "metricFOB": "6515",
+   "metricKG": "7719"
+  },
+  {
+   "year": "2025",
+   "country": "Canadá",
+   "metricFOB": "1314",
+   "metricKG": "6854"
+  },
+  {
+   "year": "2025",
+   "country": "Finlândia",
+   "metricFOB": "315",
+   "metricKG": "577"
+  },
+  {
+   "year": "2025",
+   "country": "Chile",
+   "metricFOB": "312",
+   "metricKG": "628"
+  },
+  {
+   "year": "2025",
+   "country": "Austrália",
+   "metricFOB": "5",
+   "metricKG": "250"
+  },
+  {
+   "year": "2025",
+   "country": "Sérvia",
+   "metricFOB": "0",
+   "metricKG": "50"
+  }
+ ],
+ "ferro_por_pais_2016": [
+  {
+   "year": "2016",
+   "country": "China",
+   "metricFOB": "7314834717",
+   "metricKG": "214557023831"
+  },
+  {
+   "year": "2016",
+   "country": "Japão",
+   "metricFOB": "1073452803",
+   "metricKG": "29042020000"
+  },
+  {
+   "year": "2016",
+   "country": "Países Baixos (Holanda)",
+   "metricFOB": "815674800",
+   "metricKG": "21472450001"
+  },
+  {
+   "year": "2016",
+   "country": "Malásia",
+   "metricFOB": "696632464",
+   "metricKG": "22776658000"
+  },
+  {
+   "year": "2016",
+   "country": "Coreia do Sul",
+   "metricFOB": "364728204",
+   "metricKG": "10276108200"
+  },
+  {
+   "year": "2016",
+   "country": "Omã",
+   "metricFOB": "285298448",
+   "metricKG": "8423791000"
+  },
+  {
+   "year": "2016",
+   "country": "Itália",
+   "metricFOB": "272822744",
+   "metricKG": "6674767000"
+  },
+  {
+   "year": "2016",
+   "country": "França",
+   "metricFOB": "263816812",
+   "metricKG": "7320514400"
+  },
+  {
+   "year": "2016",
+   "country": "Taiwan (Formosa)",
+   "metricFOB": "191003742",
+   "metricKG": "4974209000"
+  },
+  {
+   "year": "2016",
+   "country": "Argentina",
+   "metricFOB": "188760999",
+   "metricKG": "5119104865"
+  },
+  {
+   "year": "2016",
+   "country": "Egito",
+   "metricFOB": "181401842",
+   "metricKG": "2813339782"
+  },
+  {
+   "year": "2016",
+   "country": "Turquia",
+   "metricFOB": "168367291",
+   "metricKG": "5136759000"
+  },
+  {
+   "year": "2016",
+   "country": "Barein",
+   "metricFOB": "159472003",
+   "metricKG": "3733620000"
+  },
+  {
+   "year": "2016",
+   "country": "Estados Unidos",
+   "metricFOB": "153209878",
+   "metricKG": "2570999152"
+  },
+  {
+   "year": "2016",
+   "country": "Filipinas",
+   "metricFOB": "148507291",
+   "metricKG": "4230191000"
+  },
+  {
+   "year": "2016",
+   "country": "México",
+   "metricFOB": "139356045",
+   "metricKG": "3183019000"
+  },
+  {
+   "year": "2016",
+   "country": "Índia",
+   "metricFOB": "131936694",
+   "metricKG": "3172394000"
+  },
+  {
+   "year": "2016",
+   "country": "Reino Unido",
+   "metricFOB": "121921494",
+   "metricKG": "3930011097"
+  },
+  {
+   "year": "2016",
+   "country": "Alemanha",
+   "metricFOB": "114008366",
+   "metricKG": "2519036119"
+  },
+  {
+   "year": "2016",
+   "country": "Espanha",
+   "metricFOB": "105687651",
+   "metricKG": "3229222000"
+  },
+  {
+   "year": "2016",
+   "country": "Bélgica",
+   "metricFOB": "77212568",
+   "metricKG": "2012694100"
+  },
+  {
+   "year": "2016",
+   "country": "Trinidad e Tobago",
+   "metricFOB": "66438988",
+   "metricKG": "1172517000"
+  },
+  {
+   "year": "2016",
+   "country": "Líbia",
+   "metricFOB": "53611209",
+   "metricKG": "887914000"
+  },
+  {
+   "year": "2016",
+   "country": "Indonésia",
+   "metricFOB": "42758724",
+   "metricKG": "1274339000"
+  },
+  {
+   "year": "2016",
+   "country": "Eslovênia",
+   "metricFOB": "29300973",
+   "metricKG": "677182000"
+  },
+  {
+   "year": "2016",
+   "country": "Romênia",
+   "metricFOB": "28004126",
+   "metricKG": "834757000"
+  },
+  {
+   "year": "2016",
+   "country": "Emirados Árabes Unidos",
+   "metricFOB": "25258695",
+   "metricKG": "410259000"
+  },
+  {
+   "year": "2016",
+   "country": "Arábia Saudita",
+   "metricFOB": "21457568",
+   "metricKG": "351937000"
+  },
+  {
+   "year": "2016",
+   "country": "Catar",
+   "metricFOB": "12607618",
+   "metricKG": "155311579"
+  },
+  {
+   "year": "2016",
+   "country": "Polônia",
+   "metricFOB": "11237022",
+   "metricKG": "317186000"
+  },
+  {
+   "year": "2016",
+   "country": "África do Sul",
+   "metricFOB": "8394002",
+   "metricKG": "106510136"
+  },
+  {
+   "year": "2016",
+   "country": "Canadá",
+   "metricFOB": "8223439",
+   "metricKG": "249614000"
+  },
+  {
+   "year": "2016",
+   "country": "Vietnã",
+   "metricFOB": "5977508",
+   "metricKG": "114249000"
+  },
+  {
+   "year": "2016",
+   "country": "Austrália",
+   "metricFOB": "4606017",
+   "metricKG": "142557000"
+  },
+  {
+   "year": "2016",
+   "country": "Paraguai",
+   "metricFOB": "3347991",
+   "metricKG": "99703000"
+  },
+  {
+   "year": "2016",
+   "country": "Bolívia",
+   "metricFOB": "10000",
+   "metricKG": "1000000"
+  },
+  {
+   "year": "2016",
+   "country": "Dinamarca",
+   "metricFOB": "1131",
+   "metricKG": "220"
+  },
+  {
+   "year": "2016",
+   "country": "Chile",
+   "metricFOB": "28",
+   "metricKG": "564"
+  },
+  {
+   "year": "2016",
+   "country": "Áustria",
+   "metricFOB": "12",
+   "metricKG": "200"
+  }
+ ],
+ "ferro_por_uf_2025": [
+  {
+   "year": "2025",
+   "state": "Minas Gerais",
+   "metricFOB": "12240534635",
+   "metricKG": "184240083574"
+  },
+  {
+   "year": "2025",
+   "state": "Pará",
+   "metricFOB": "11640123551",
+   "metricKG": "169580579374"
+  },
+  {
+   "year": "2025",
+   "state": "Espírito Santo",
+   "metricFOB": "2962133806",
+   "metricKG": "27362966666"
+  },
+  {
+   "year": "2025",
+   "state": "Rio de Janeiro",
+   "metricFOB": "1541416046",
+   "metricKG": "22764875892"
+  },
+  {
+   "year": "2025",
+   "state": "Mato Grosso do Sul",
+   "metricFOB": "405899681",
+   "metricKG": "8980069138"
+  },
+  {
+   "year": "2025",
+   "state": "Maranhão",
+   "metricFOB": "78519908",
+   "metricKG": "804127308"
+  },
+  {
+   "year": "2025",
+   "state": "Não Declarada",
+   "metricFOB": "55327740",
+   "metricKG": "1349561550"
+  },
+  {
+   "year": "2025",
+   "state": "Piauí",
+   "metricFOB": "29800712",
+   "metricKG": "666205502"
+  },
+  {
+   "year": "2025",
+   "state": "Bahia",
+   "metricFOB": "20516096",
+   "metricKG": "422126358"
+  },
+  {
+   "year": "2025",
+   "state": "São Paulo",
+   "metricFOB": "1674225",
+   "metricKG": "52810801"
+  },
+  {
+   "year": "2025",
+   "state": "Ceará",
+   "metricFOB": "1423801",
+   "metricKG": "25200019"
+  },
+  {
+   "year": "2025",
+   "state": "Rio Grande do Norte",
+   "metricFOB": "1369809",
+   "metricKG": "1826832"
+  },
+  {
+   "year": "2025",
+   "state": "Rio Grande do Sul",
+   "metricFOB": "500",
+   "metricKG": "22"
+  },
+  {
+   "year": "2025",
+   "state": "Sergipe",
+   "metricFOB": "0",
+   "metricKG": "2"
+  }
+ ],
+ "cap26_por_uf_2025": [
+  {
+   "year": "2025",
+   "state": "Pará",
+   "metricFOB": "15731702747",
+   "metricKG": "176658058455"
+  },
+  {
+   "year": "2025",
+   "state": "Minas Gerais",
+   "metricFOB": "12370964278",
+   "metricKG": "184336874128"
+  },
+  {
+   "year": "2025",
+   "state": "Espírito Santo",
+   "metricFOB": "2962388704",
+   "metricKG": "27364486656"
+  },
+  {
+   "year": "2025",
+   "state": "Rio de Janeiro",
+   "metricFOB": "1543349527",
+   "metricKG": "22772217385"
+  },
+  {
+   "year": "2025",
+   "state": "Bahia",
+   "metricFOB": "564014812",
+   "metricKG": "682704864"
+  },
+  {
+   "year": "2025",
+   "state": "Goiás",
+   "metricFOB": "515204412",
+   "metricKG": "294629746"
+  },
+  {
+   "year": "2025",
+   "state": "Mato Grosso do Sul",
+   "metricFOB": "436791048",
+   "metricKG": "9229752410"
+  },
+  {
+   "year": "2025",
+   "state": "Alagoas",
+   "metricFOB": "225505658",
+   "metricKG": "114916960"
+  },
+  {
+   "year": "2025",
+   "state": "Mato Grosso",
+   "metricFOB": "215077003",
+   "metricKG": "71813460"
+  },
+  {
+   "year": "2025",
+   "state": "Maranhão",
+   "metricFOB": "79593272",
+   "metricKG": "805467742"
+  },
+  {
+   "year": "2025",
+   "state": "Não Declarada",
+   "metricFOB": "55375613",
+   "metricKG": "1349561824"
+  },
+  {
+   "year": "2025",
+   "state": "Rondônia",
+   "metricFOB": "53794983",
+   "metricKG": "53841412"
+  },
+  {
+   "year": "2025",
+   "state": "Santa Catarina",
+   "metricFOB": "40186749",
+   "metricKG": "409849201"
+  },
+  {
+   "year": "2025",
+   "state": "Piauí",
+   "metricFOB": "29801017",
+   "metricKG": "666206479"
+  },
+  {
+   "year": "2025",
+   "state": "São Paulo",
+   "metricFOB": "26893769",
+   "metricKG": "127950209"
+  },
+  {
+   "year": "2025",
+   "state": "Paraná",
+   "metricFOB": "12897224",
+   "metricKG": "84871800"
+  },
+  {
+   "year": "2025",
+   "state": "Amapá",
+   "metricFOB": "6601225",
+   "metricKG": "148845677"
+  },
+  {
+   "year": "2025",
+   "state": "Rio Grande do Norte",
+   "metricFOB": "5483694",
+   "metricKG": "2424242"
+  },
+  {
+   "year": "2025",
+   "state": "Ceará",
+   "metricFOB": "4055819",
+   "metricKG": "63296329"
+  },
+  {
+   "year": "2025",
+   "state": "Tocantins",
+   "metricFOB": "3800583",
+   "metricKG": "12098080"
+  },
+  {
+   "year": "2025",
+   "state": "Paraíba",
+   "metricFOB": "2707141",
+   "metricKG": "38673440"
+  },
+  {
+   "year": "2025",
+   "state": "Pernambuco",
+   "metricFOB": "1088382",
+   "metricKG": "14509266"
+  },
+  {
+   "year": "2025",
+   "state": "Amazonas",
+   "metricFOB": "498162",
+   "metricKG": "20889"
+  },
+  {
+   "year": "2025",
+   "state": "Rio Grande do Sul",
+   "metricFOB": "105537",
+   "metricKG": "625737"
+  },
+  {
+   "year": "2025",
+   "state": "Roraima",
+   "metricFOB": "3691",
+   "metricKG": "820"
+  },
+  {
+   "year": "2025",
+   "state": "Sergipe",
+   "metricFOB": "0",
+   "metricKG": "2"
+  }
+ ],
+ "ferro_ano": [
+  {
+   "year": "2025",
+   "metricFOB": "28978740510",
+   "metricKG": "416250433038"
+  },
+  {
+   "year": "2024",
+   "metricFOB": "29860185978",
+   "metricKG": "388716198122"
+  },
+  {
+   "year": "2023",
+   "metricFOB": "30593438988",
+   "metricKG": "378139382961"
+  },
+  {
+   "year": "2022",
+   "metricFOB": "28924347501",
+   "metricKG": "343999866962"
+  },
+  {
+   "year": "2021",
+   "metricFOB": "44660652234",
+   "metricKG": "357270573884"
+  },
+  {
+   "year": "2020",
+   "metricFOB": "25789230614",
+   "metricKG": "341511889618"
+  },
+  {
+   "year": "2019",
+   "metricFOB": "22682390645",
+   "metricKG": "350960140182"
+  },
+  {
+   "year": "2018",
+   "metricFOB": "20220359432",
+   "metricKG": "389800624589"
+  },
+  {
+   "year": "2017",
+   "metricFOB": "19199154200",
+   "metricKG": "383537172195"
+  },
+  {
+   "year": "2016",
+   "metricFOB": "13289341907",
+   "metricKG": "373962968246"
+  },
+  {
+   "year": "2015",
+   "metricFOB": "14037103623",
+   "metricKG": "365054449825"
+  },
+  {
+   "year": "2014",
+   "metricFOB": "25819090176",
+   "metricKG": "344384843999"
+  },
+  {
+   "year": "2013",
+   "metricFOB": "32491530731",
+   "metricKG": "329638705898"
+  },
+  {
+   "year": "2012",
+   "metricFOB": "30989292517",
+   "metricKG": "326528805927"
+  },
+  {
+   "year": "2011",
+   "metricFOB": "41817213855",
+   "metricKG": "330829576155"
+  },
+  {
+   "year": "2010",
+   "metricFOB": "28867719633",
+   "metricKG": "310687858549"
+  }
+ ],
+ "cap26_import_2025": [],
+ "pedras_7103_ncm_2025": [
+  {
+   "coNcm": "71039900",
+   "year": "2025",
+   "ncm": "Outras pedras preciosas (exceto diamantes) ou semipreciosas, trabalhadas de outro modo",
+   "state": "Rio Grande do Sul",
+   "metricFOB": "48591769",
+   "metricKG": "5460438"
+  },
+  {
+   "coNcm": "71039900",
+   "year": "2025",
+   "ncm": "Outras pedras preciosas (exceto diamantes) ou semipreciosas, trabalhadas de outro modo",
+   "state": "Minas Gerais",
+   "metricFOB": "36745024",
+   "metricKG": "3984"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "Minas Gerais",
+   "metricFOB": "36422599",
+   "metricKG": "1449752"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "Rio Grande do Sul",
+   "metricFOB": "25354195",
+   "metricKG": "9662490"
+  },
+  {
+   "coNcm": "71039100",
+   "year": "2025",
+   "ncm": "Rubis, safiras e esmeraldas, trabalhadas de outro modo",
+   "state": "Minas Gerais",
+   "metricFOB": "12472238",
+   "metricKG": "10"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "Bahia",
+   "metricFOB": "6777342",
+   "metricKG": "338340"
+  },
+  {
+   "coNcm": "71039900",
+   "year": "2025",
+   "ncm": "Outras pedras preciosas (exceto diamantes) ou semipreciosas, trabalhadas de outro modo",
+   "state": "Rio Grande do Norte",
+   "metricFOB": "4402531",
+   "metricKG": "4"
+  },
+  {
+   "coNcm": "71039100",
+   "year": "2025",
+   "ncm": "Rubis, safiras e esmeraldas, trabalhadas de outro modo",
+   "state": "São Paulo",
+   "metricFOB": "3093966",
+   "metricKG": "1"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "São Paulo",
+   "metricFOB": "1185527",
+   "metricKG": "145698"
+  },
+  {
+   "coNcm": "71039900",
+   "year": "2025",
+   "ncm": "Outras pedras preciosas (exceto diamantes) ou semipreciosas, trabalhadas de outro modo",
+   "state": "São Paulo",
+   "metricFOB": "1051867",
+   "metricKG": "91944"
+  },
+  {
+   "coNcm": "71039900",
+   "year": "2025",
+   "ncm": "Outras pedras preciosas (exceto diamantes) ou semipreciosas, trabalhadas de outro modo",
+   "state": "Espírito Santo",
+   "metricFOB": "1046408",
+   "metricKG": "75447"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "Rio de Janeiro",
+   "metricFOB": "1042692",
+   "metricKG": "393212"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "Rio Grande do Norte",
+   "metricFOB": "764746",
+   "metricKG": "16"
+  },
+  {
+   "coNcm": "71039100",
+   "year": "2025",
+   "ncm": "Rubis, safiras e esmeraldas, trabalhadas de outro modo",
+   "state": "Bahia",
+   "metricFOB": "599130",
+   "metricKG": "7"
+  },
+  {
+   "coNcm": "71039900",
+   "year": "2025",
+   "ncm": "Outras pedras preciosas (exceto diamantes) ou semipreciosas, trabalhadas de outro modo",
+   "state": "Rio de Janeiro",
+   "metricFOB": "401507",
+   "metricKG": "9627"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "Espírito Santo",
+   "metricFOB": "183261",
+   "metricKG": "3561"
+  },
+  {
+   "coNcm": "71039100",
+   "year": "2025",
+   "ncm": "Rubis, safiras e esmeraldas, trabalhadas de outro modo",
+   "state": "Rio de Janeiro",
+   "metricFOB": "123213",
+   "metricKG": "1"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "Rondônia",
+   "metricFOB": "77797",
+   "metricKG": "513"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "Alagoas",
+   "metricFOB": "49141",
+   "metricKG": "168"
+  },
+  {
+   "coNcm": "71039900",
+   "year": "2025",
+   "ncm": "Outras pedras preciosas (exceto diamantes) ou semipreciosas, trabalhadas de outro modo",
+   "state": "Piauí",
+   "metricFOB": "48014",
+   "metricKG": "0"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "Piauí",
+   "metricFOB": "40122",
+   "metricKG": "133"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "Paraná",
+   "metricFOB": "35979",
+   "metricKG": "402"
+  },
+  {
+   "coNcm": "71039900",
+   "year": "2025",
+   "ncm": "Outras pedras preciosas (exceto diamantes) ou semipreciosas, trabalhadas de outro modo",
+   "state": "Bahia",
+   "metricFOB": "22914",
+   "metricKG": "362"
+  },
+  {
+   "coNcm": "71039100",
+   "year": "2025",
+   "ncm": "Rubis, safiras e esmeraldas, trabalhadas de outro modo",
+   "state": "Santa Catarina",
+   "metricFOB": "21416",
+   "metricKG": "0"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "Amazonas",
+   "metricFOB": "15145",
+   "metricKG": "92"
+  },
+  {
+   "coNcm": "71039900",
+   "year": "2025",
+   "ncm": "Outras pedras preciosas (exceto diamantes) ou semipreciosas, trabalhadas de outro modo",
+   "state": "Goiás",
+   "metricFOB": "11490",
+   "metricKG": "0"
+  },
+  {
+   "coNcm": "71039100",
+   "year": "2025",
+   "ncm": "Rubis, safiras e esmeraldas, trabalhadas de outro modo",
+   "state": "Goiás",
+   "metricFOB": "9753",
+   "metricKG": "0"
+  },
+  {
+   "coNcm": "71039900",
+   "year": "2025",
+   "ncm": "Outras pedras preciosas (exceto diamantes) ou semipreciosas, trabalhadas de outro modo",
+   "state": "Paraná",
+   "metricFOB": "8331",
+   "metricKG": "71"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "Goiás",
+   "metricFOB": "5427",
+   "metricKG": "8"
+  },
+  {
+   "coNcm": "71039900",
+   "year": "2025",
+   "ncm": "Outras pedras preciosas (exceto diamantes) ou semipreciosas, trabalhadas de outro modo",
+   "state": "Amazonas",
+   "metricFOB": "5048",
+   "metricKG": "30"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "Mato Grosso do Sul",
+   "metricFOB": "2631",
+   "metricKG": "253"
+  },
+  {
+   "coNcm": "71039100",
+   "year": "2025",
+   "ncm": "Rubis, safiras e esmeraldas, trabalhadas de outro modo",
+   "state": "Rio Grande do Norte",
+   "metricFOB": "2253",
+   "metricKG": "0"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "Paraíba",
+   "metricFOB": "1460",
+   "metricKG": "0"
+  },
+  {
+   "coNcm": "71039100",
+   "year": "2025",
+   "ncm": "Rubis, safiras e esmeraldas, trabalhadas de outro modo",
+   "state": "Não Declarada",
+   "metricFOB": "1214",
+   "metricKG": "1"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "Santa Catarina",
+   "metricFOB": "1038",
+   "metricKG": "1"
+  },
+  {
+   "coNcm": "71031000",
+   "year": "2025",
+   "ncm": "Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas",
+   "state": "Mato Grosso",
+   "metricFOB": "720",
+   "metricKG": "0"
+  }
+ ],
+ "ouro_7108_2025": [
+  {
+   "year": "2025",
+   "country": "Canadá",
+   "metricFOB": "3248552331",
+   "metricKG": "37701"
+  },
+  {
+   "year": "2025",
+   "country": "Suíça",
+   "metricFOB": "1562022689",
+   "metricKG": "19292"
+  },
+  {
+   "year": "2025",
+   "country": "Reino Unido",
+   "metricFOB": "952369477",
+   "metricKG": "8584"
+  },
+  {
+   "year": "2025",
+   "country": "Emirados Árabes Unidos",
+   "metricFOB": "342317227",
+   "metricKG": "3072"
+  },
+  {
+   "year": "2025",
+   "country": "Índia",
+   "metricFOB": "165553727",
+   "metricKG": "1570"
+  },
+  {
+   "year": "2025",
+   "country": "Alemanha",
+   "metricFOB": "163063442",
+   "metricKG": "1538"
+  },
+  {
+   "year": "2025",
+   "country": "Estados Unidos",
+   "metricFOB": "119654049",
+   "metricKG": "1298"
+  },
+  {
+   "year": "2025",
+   "country": "Itália",
+   "metricFOB": "22891062",
+   "metricKG": "194"
+  },
+  {
+   "year": "2025",
+   "country": "Barbados",
+   "metricFOB": "1896278",
+   "metricKG": "22"
+  },
+  {
+   "year": "2025",
+   "country": "Coreia do Sul",
+   "metricFOB": "224863",
+   "metricKG": "2"
+  },
+  {
+   "year": "2025",
+   "country": "Israel",
+   "metricFOB": "88773",
+   "metricKG": "1"
+  },
+  {
+   "year": "2025",
+   "country": "Tcheca, República",
+   "metricFOB": "3032",
+   "metricKG": "0"
+  }
+ ],
+ "mg_cap26_2025": [],
+ "ferro_eua_ano": [
+  {
+   "year": "2025",
+   "metricFOB": "303445921",
+   "metricKG": "2531318183"
+  },
+  {
+   "year": "2024",
+   "metricFOB": "392465778",
+   "metricKG": "2816206108"
+  },
+  {
+   "year": "2023",
+   "metricFOB": "384372951",
+   "metricKG": "2887550737"
+  },
+  {
+   "year": "2022",
+   "metricFOB": "456172618",
+   "metricKG": "2620253642"
+  },
+  {
+   "year": "2021",
+   "metricFOB": "469505044",
+   "metricKG": "2340594169"
+  },
+  {
+   "year": "2020",
+   "metricFOB": "203743182",
+   "metricKG": "1987371152"
+  },
+  {
+   "year": "2019",
+   "metricFOB": "255075162",
+   "metricKG": "2619614188"
+  },
+  {
+   "year": "2018",
+   "metricFOB": "308025951",
+   "metricKG": "3033946031"
+  },
+  {
+   "year": "2017",
+   "metricFOB": "258358363",
+   "metricKG": "3167259750"
+  },
+  {
+   "year": "2016",
+   "metricFOB": "153209878",
+   "metricKG": "2570999152"
+  },
+  {
+   "year": "2015",
+   "metricFOB": "142126490",
+   "metricKG": "1557280133"
+  }
+ ]
+}
