@@ -408,3 +408,18 @@ Transcrição das linhas 1 a 41 da Certidão SG-ANM 53/2025, páginas 1 e 2. Man
 Foram lidos textos oficiais e conferidas visualmente as tabelas citadas da ANM, a publicação indicada do MPF e a página da OAB. A rodada não obteve a íntegra do contrato minerário, o conjunto de autos do Master ou da Rejeito, certidões societárias atuais ou o cruzamento eleitoral completo.
 
 O resultado permite avançar a apuração ambiental e corrigir a hipótese jurídica inicial. Ainda não comprova negócio concluído, comissão recebida, atuação irregular do assessor ou do deputado, nem que o ativo do áudio seja necessariamente a lavra da Topázio Imperial.
+
+## 10. Rodada Fable, 06/09/2026 (resumo, detalhes em `relatorio-fable-continuidade-2026-09-06.md`)
+
+Confirmado em fonte primária:
+- Escritório de Faria (CNPJ 56.902.629/0001-81) aberto em 19/08/2024 em Nova Lima, com ele na folha da Câmara. Titular nominal na Receita.
+- Gilberto Horta entrou como administrador formal da Gmais em 18/02/2025 (Receita, quadro atual).
+- Topázio Imperial tem 10 títulos na ANM, entre eles a concessão de lavra de FERRO 291701/1936, 78,78 ha, parada desde 2007. O grupo de Faria e Horta se chamava "Projeto Ferro" (hipótese aberta).
+- Certidão SG-ANM 53/2025 lida: 41 recursos de multa da Topázio distribuídos em 26/12/2025 ao diretor-geral Mauro Sousa, indiciado pela PF em 26/06/2026 (Parcours).
+- A PF, citada pelo Estado de Minas em 18/09/2025, identifica o ativo negociado como o grupamento ANM 930.096/2000 e confirma tutela de urgência na ACP 1000752-23.2023.4.06.3822.
+- Estabil e Topázio com quadros societários confirmados na Receita.
+- Parte 1 publicada conferida: não contém folha, Estabil, Projeto Ferro ou Mauro Sousa.
+
+Bloqueado neste ambiente: TSE (403), SCM da ANM (503), CMBH (sem resposta). Ver seção 4 do relatório.
+
+Próximo passo decisivo: obter a composição do grupamento 930.096/2000 na ANM. Se incluir o 291701/1936, o "ativo minerário" do áudio muda de topázio para ferro.
