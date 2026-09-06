@@ -5,7 +5,7 @@
 2. **Frase óbvia.** "O amigo tem nome." "A empresa também tem nome." "E era direto." "Agora a data." Toda pessoa tem nome e toda empresa tem nome. Se a frase pode ser dita para uma criança de três anos, não vai para o texto.
 3. **Spoiler.** Nenhuma frase que antecipe a seguinte ou resuma o parágrafo que vem depois. O parágrafo começa pelo fato.
 4. **Repetição de palavra** em frases vizinhas, inclusive de preposições ("de gado, de leite, de cultura"). Uma vez só.
-5. **Dois-pontos, ponto e vírgula, travessão** no corpo. Nunca.
+5. **Ponto e vírgula e travessão** no corpo, nunca. **Dois-pontos** só quando abrem uma fala ou uma citação ("O deputado emenda: ..."), e raramente. Proibido como vício, para introduzir explicação ou lista dentro da frase.
 
 ## Forma
 - **Duas frases por parágrafo, na média.** Um parágrafo de uma frase é permitido para dar peso. Três frases, raramente.
