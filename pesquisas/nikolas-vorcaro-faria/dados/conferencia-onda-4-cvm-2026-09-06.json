@@ -1,0 +1,55 @@
+{
+  "data_revisao": "2026-09-06",
+  "fonte_csv": "dados/cvm-cda-victoria-falls-itaminas-2024-09-a-2025-06.csv",
+  "blob_git_fonte": "5551a86d41fea34e98bf55333ff88173aa47d836",
+  "metodo": "Cálculos com Decimal a partir de campos selecionados da extração do Fable. Não é reexecução dos ZIPs integrais nem auditoria das demonstrações financeiras.",
+  "cnpj_declarante_fim": "15.779.618/0001-79",
+  "cnpj_investido_fip": "10.566.011/0001-97",
+  "reconciliacao": [
+    {
+      "competencia": "2024-09",
+      "investimentos_fip_brl": ["165000.00", "32584.39", "35096997.07", "3698350.40", "34731967.49"],
+      "disponibilidades_fip_brl": "48.71",
+      "a_receber_fip_brl": "30437213.06",
+      "a_pagar_fip_brl": "30672853.52",
+      "saldo_liquido_reconstruido_brl": "73489307.60",
+      "posicao_declarada_fim_brl": "73489307.61",
+      "diferenca_fim_menos_saldo_brl": "0.01"
+    },
+    {
+      "competencia": "2025-03",
+      "investimentos_fip_brl": ["2654910.79", "3578814.19", "36787000.00", "33865200.01"],
+      "disponibilidades_fip_brl": "2314.20",
+      "a_receber_fip_brl": "28595458.45",
+      "a_pagar_fip_brl": "29022066.28",
+      "saldo_liquido_reconstruido_brl": "76461631.36",
+      "posicao_declarada_fim_brl": "76461631.34",
+      "diferenca_fim_menos_saldo_brl": "-0.02"
+    },
+    {
+      "competencia": "2025-06",
+      "investimentos_fip_brl": ["2654910.79", "33865200.01", "3578814.19", "36787000.00"],
+      "disponibilidades_fip_brl": "914.73",
+      "a_receber_fip_brl": "28595458.45",
+      "a_pagar_fip_brl": "28616247.51",
+      "saldo_liquido_reconstruido_brl": "76866050.66",
+      "posicao_declarada_fim_brl": "76866050.63",
+      "diferenca_fim_menos_saldo_brl": "-0.03"
+    }
+  ],
+  "investimento_comum_junho_2025": {
+    "cnpj_destino": "60.715.887/0001-26",
+    "g5_f_itaminas_cnpj": "41.574.762/0001-89",
+    "g5_valor_posicao_brl": "45276038.94",
+    "whg_pcs_ii_itaminas_cnpj": "55.582.462/0001-56",
+    "whg_valor_posicao_brl": "144883324.68",
+    "soma_duas_posicoes_brl": "190159363.62",
+    "limite": "Posições de cotas declaradas, não prova de repasse à mineradora, financiamento do ativo de Faria ou propriedade de debêntures específicas."
+  },
+  "limites": [
+    "Saldo reconstruído não substitui o campo de patrimônio líquido da base original.",
+    "Conciliação até centavos reforça a coerência do cruzamento, mas não identifica beneficiário final ou titularidade durante todo o intervalo.",
+    "O CSV abreviado não preserva quantidades, custo e movimentos necessários para interpretar a posição zero do MCL B.",
+    "Não foram baixados novos ZIPs nesta revisão por falha DNS e de download."
+  ]
+}
