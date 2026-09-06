@@ -5,7 +5,7 @@ Quando o áudio de Nikolas Ferreira para Daniel Vorcaro vazou, em 3 de setembro,
 
 Com o passar dos dias, ficou mais claro.
 
-O amigo, Thiago Rodrigues de Faria, ganharia milhões de reais em comissão se o negócio saísse. E o deputado, ao que tudo indica, pegaria a comissão da comissão.
+O amigo, Thiago Rodrigues de Faria, ganharia milhões de reais em comissão se o negócio saísse. Se Nikolas ganharia a comissão da comissão, ainda não podemos saber, mas é uma suspeita plausível.
 
 Faria é advogado pessoal de Nikolas e, na época do áudio, era secretário parlamentar do gabinete dele, com salário de R$ 17 mil pago pela Câmara. Trabalhava no negócio para a Gmais Ambiental, que em 2023 arrendou com opção de compra a lavra da Topázio Imperial Mineração, em Rodrigo Silva, distrito de Ouro Preto.
 
