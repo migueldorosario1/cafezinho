@@ -39,3 +39,20 @@ Estado ao fim do lote 1-2 de capturas. Regras seguidas: sem contornar autentica�
 ## COMMITS EFETIVAMENTE GRAVADOS (lote 1-2)
 
 20 arquivos + MANIFEST.md em fontes-zm-master-onda-2-2026-09-06/ (commits 26a42f64, 2c55e83a, 2df24f7c, 0db93c09, 2f548f7b, 716efe88, abcf4b46, 2109ea68, a2d768bf, f0fecd35, 56ac8a72, f48cdb77, 1fdac997, 3e70abb3, a2465310, ffeac0c1, 1d663532, 923f3ec7, 592534de, 97b994c2, 3394fb15) + este relatório.
+
+## ATUALIZAÇÃO 06/09 ~10:35 BRT — TCU
+
+GRAVADO (original, via Conecta/Pesquisa Integrada, downloads do repórter): Acórdão 4592/2026-1C (PDF+RTF) e peças 13 (despacho de cautelar, Min. Cedraz), 24, 48, 53 (excerto) e 57 (despacho de conclusão das comunicações) + andamento integral do processo + página do processo.
+
+NOVOS FATOS DOCUMENTAIS:
+- CIÊNCIA da ANM do acórdão: 13/08/2026 (Ofício 30733/2026-Secomp-4, peça 57: expedição e ciência em 13/08; ciência registrada por Elenice Alves de Morais via Conecta; código de verificação TCU 80882420) → prazos de 90 dias do acórdão VENCEM 11/11/2026.
+- RECURSO interposto em 27/08/2026 contra o Acórdão 4592/2026-1C (R001) — relator designado Min. Benjamin Zymler; admissibilidade concluída com proposta de CONHECER; MPTCU: Júlio Marcelo. Recorrente ainda não identificado nos registros colados (pergunta aberta; provável 3D).
+- Processo teve CAUTELAR oficializada em 22/09/2025 (Min. Aroldo Cedraz, peça 13 baixada).
+- Relatório ENCCLA juntado como evidência em 16/03/2026.
+- Estado: ABERTO (fase recursal). Unidade técnica: AudRecursos; agir: AudPetróleo.
+
+INACESSÍVEL (bloqueio legítimo, NÃO contornado):
+- PEÇAS 34 (Nota Técnica SEI 51/2026/ANM/GETIL — tabela 1 com as 13 áreas inadimplentes) e 50 (instrução do acompanhamento): a aba "Peças" do Conecta exige perfil/cadastro ("você não tem perfil para acessar os autos"); apenas "Peças recentes — transparência ativa" são públicas.
+- Rotas legítimas registradas: (a) LAI à ANM pedindo a Nota Técnica 51/2026/ANM/GETIL (documento da própria ANM — dependendo de autorização do Miguel para preparar/enviar); (b) aguardar 11/11/2026 — o acórdão obriga a ANM a reportar TODAS as cessões com cessionários e CNPJs; (c) cadastro cidadão no Conecta (decisão pessoal do Miguel).
+
+COMMITS TCU LOTE 1: 21fedb65, ffb907c6, 15c1b829, b3816e0c, a3f0530a, 1172544a, 2108b22e, d922d2bc, 4e4ee7c3, 94f20d82, 779f8a5b, 08780173, b7ae87b1, c8e4b2a3, 9647acb4.
