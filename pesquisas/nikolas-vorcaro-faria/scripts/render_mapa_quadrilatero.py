@@ -10,7 +10,7 @@ mg=json.load(open('mg.json')); mun=json.load(open('mg_mun.json')); fV=mpimg.imre
 V="#7a1f14"; TP="#2f5d7c"; ORG="#b0730a"; KAL="#5b3f8c"
 fig=plt.figure(figsize=(15,11),dpi=150); fig.patch.set_facecolor("#faf6f0")
 ax=fig.add_axes([0.02,0.07,0.96,0.85]); ax.set_facecolor("#faf6f0"); draw(ax,mun,"#f8f4ee","#e3dccf",0.5,1)
-xmin,xmax,ymin,ymax=-44.55,-42.90,-20.85,-19.40
+xmin,xmax,ymin,ymax=-44.55,-42.90,-20.92,-19.40
 qf=[(-44.05,-19.85),(-43.70,-19.55),(-43.20,-19.55),(-43.05,-20.05),(-43.35,-20.55),(-43.90,-20.55),(-44.15,-20.30)]
 ax.add_patch(Polygon(qf,closed=True,facecolor="#c98a4b",edgecolor="none",alpha=0.08,zorder=2))
 ax.text(-43.25,-19.98,"QUADRILÁTERO FERRÍFERO",fontsize=11,fontweight="bold",color="#8a5a25",ha="center",zorder=6,alpha=0.5)
@@ -31,11 +31,11 @@ D={"Rodrigo Silva":((-43.65,-20.42),(-43.72,-20.24)),"Botafogo":((-43.59,-20.37)
 for n,(p,t) in D.items(): ax.plot(p[0],p[1],"o",ms=4,color="#555",zorder=8); lab(n,p,t,color="#555",fs=8.5)
 ax.plot(-43.70,-20.43,"^",ms=8,color="#9a9a9a",zorder=7); lab("Gerdau: Miguel Burnier\n476 milhões de t, a 1,3 km",(-43.70,-20.43),(-43.93,-20.60),color="#777",fs=7.8,lw=0.6)
 blob(-43.63,-20.42,0.11,0.085,TP,0.25); ax.plot(-43.63,-20.42,"*",ms=36,color="#1f6fb2",mec="white",mew=1.2,zorder=9)
-foto(fN,-43.52,-20.75,zoom=0.26); lab2("NIKOLAS FERREIRA","TOPÁZIO IMPERIAL, a lavra do áudio\nferro, manganês e topázio. Embargada",(-43.63,-20.42),(-43.41,-20.75),NN,TP,fs=11.5,lw=1.4,target=(-43.52,-20.71))
+foto(fN,-43.52,-20.79,zoom=0.26); lab2("NIKOLAS FERREIRA","TOPÁZIO IMPERIAL, a lavra do áudio\nferro, manganês e topázio. Embargada",(-43.63,-20.42),(-43.41,-20.79),NN,TP,fs=11.5,lw=1.4,target=(-43.52,-20.75))
 for lo,la in [(-43.715,-20.394),(-43.52,-20.445)]: ax.plot(lo,la,"s",ms=14,color="#b8261a",mec="white",mew=0.8,zorder=8)
 blob(-43.715,-20.394,0.09,0.065,V,0.22); blob(-43.52,-20.445,0.09,0.065,V,0.22)
 foto(fV,-44.47,-20.70); lab2("DANIEL VORCARO","3D MINERALS: Vorcaro emprestou R$ 152,9 milhões\ne ficou com metade das cotas em garantia\nferro, a 4,5 km da Topázio",(-43.715,-20.394),(-44.36,-20.70),NV,V,fs=10,target=(-44.47,-20.66))
-foto(fV,-43.27,-20.64); lab2("DANIEL VORCARO","3D MINERALS: Vorcaro emprestou R$ 152,9 milhões\ne ficou com metade das cotas em garantia\nferro, a 7 km da Topázio",(-43.52,-20.445),(-43.16,-20.64),NV,V,fs=10,target=(-43.27,-20.60))
+foto(fV,-43.27,-20.56); lab2("DANIEL VORCARO","3D MINERALS: Vorcaro emprestou R$ 152,9 milhões\ne ficou com metade das cotas em garantia\nferro, a 7 km da Topázio",(-43.52,-20.445),(-43.16,-20.56),NV,V,fs=10,target=(-43.27,-20.52))
 blob(-43.90,-19.98,0.10,0.075,V,0.2); ax.plot(-43.90,-19.98,"D",ms=18,color="#b8261a",mec="white",mew=1.2,zorder=9)
 foto(fV,-43.69,-19.50); lab2("DANIEL VORCARO","TAMISA: controlada por fundo do Master (93%)\nSerra do Curral, ao lado das minas de Lages\n(Fleurs e Gute) e da Empabra (Kallas)",(-43.90,-19.98),(-43.58,-19.50),NV,V,fs=10,target=(-43.69,-19.54))
 blob(-44.12,-20.05,0.10,0.075,V,0.2); ax.plot(-44.12,-20.05,"D",ms=18,color="#b8261a",mec="white",mew=1.2,zorder=9)
@@ -48,7 +48,7 @@ ax.plot([],[],"s",color=V,ms=9,label="3D Minerals: financiada pelo Master"); ax.
 ax.set_xlim(xmin,xmax); ax.set_ylim(ymin,ymax); ax.set_aspect(1/0.94); ax.set_xticks([]); ax.set_yticks([])
 for s in ax.spines.values(): s.set_edgecolor("#b0b0b0")
 ax.legend(loc="upper right",bbox_to_anchor=(0.995,0.80),fontsize=8.5,frameon=True,facecolor="#faf6f0",edgecolor="#b0b0b0")
-ax.plot([-43.10,-43.10+20/104],[-20.45,-20.45],color="#222",lw=3); ax.text(-43.10+10/104,-20.435,"20 km",ha="center",fontsize=8)
+ax.plot([-43.10,-43.10+20/104],[-20.40,-20.40],color="#222",lw=3); ax.text(-43.10+10/104,-20.385,"20 km",ha="center",fontsize=8)
 ins=fig.add_axes([0.035,0.68,0.19,0.24]); ins.set_facecolor("#faf6f0"); draw(ins,mg,"#f3ece1","#6b4226",1.0,1)
 ins.add_patch(Rectangle((xmin,ymin),xmax-xmin,ymax-ymin,fill=False,edgecolor=TP,lw=2)); ins.plot(-43.63,-20.42,"*",ms=9,color=TP); ins.plot(-43.94,-19.92,"o",ms=3,color="#222"); ins.text(-43.7,-19.55,"BH",fontsize=7)
 ins.set_xlim(-51.2,-39.7); ins.set_ylim(-23,-14.1); ins.set_aspect(1/0.94); ins.axis("off"); ins.set_title("Minas Gerais",fontsize=8,color="#3b2213")
