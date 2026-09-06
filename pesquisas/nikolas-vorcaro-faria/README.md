@@ -2,6 +2,20 @@
 
 Material de apuração do jornal O Cafezinho (ocafezinho.com), reunido em 05/09/2026. Fase de pesquisa em andamento. Nenhum dado desta pasta foi publicado ainda, exceto o que consta no artigo da parte 1.
 
+## Última gravação confirmada
+
+A nova tentativa de gravação do pacote pós-Fable foi aceita. Os seis arquivos que haviam sido entregues localmente agora estão nesta pasta, preservados integralmente, e também foram copiados para o Google Drive.
+
+Leia [00-LEIA-ME-salvamento-2026-09-06.md](00-LEIA-ME-salvamento-2026-09-06.md) para o registro dos commits e do escopo da cópia. As referências a bloqueio no pacote original descrevem a primeira tentativa e não o estado atual.
+
+Depois do briefing e do [relatório do Fable](relatorio-fable-continuidade-2026-09-06.md), leia o [relatório integral pós-Fable](relatorio-gpt-pos-fable-2026-09-06.md) e o [adendo ao briefing](adendo-briefing-pos-fable-2026-09-06.md). Esses documentos acrescentam os achados posteriores, as correções de interpretação e as pendências de acesso, sem substituir o histórico.
+
+Os dados estão em [dados/anm-topazio-pauta-88-2026.json](dados/anm-topazio-pauta-88-2026.json), com verificador em [scripts/conferir_recursos_anm.py](scripts/conferir_recursos_anm.py). A pauta não comprova julgamento, e a ligação entre o ativo do áudio e os títulos minerários continua pendente.
+
+Cópia do pacote completo desta última rodada no Google Drive, com arquivos separados e ZIP original
+
+https://drive.google.com/drive/folders/1ylwR1hoQyKlJQqE_Gt3KPE9vgR6Bk9lQ
+
 ## Objetivo
 
 Produzir a parte 2 de uma reportagem sobre o áudio em que o deputado Nikolas Ferreira (PL-MG) pediu ao banqueiro Daniel Vorcaro ajuda para um "ativo minerário" de seu advogado e assessor Thiago Rodrigues de Faria. A parte 2 deve trazer informação inédita, verificada em fonte primária, com direito de resposta aos citados.
