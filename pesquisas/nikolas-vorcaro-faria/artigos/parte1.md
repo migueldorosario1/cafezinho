@@ -9,7 +9,7 @@ O amigo, Thiago Rodrigues de Faria, ganharia milhões de reais em comissão se o
 
 Faria é advogado pessoal de Nikolas e, na época do áudio, era secretário parlamentar do gabinete dele, com salário de R$ 17 mil pago pela Câmara. Trabalhava no negócio para a Gmais Ambiental, que em 2023 arrendou com opção de compra a lavra da Topázio Imperial Mineração, em Rodrigo Silva, distrito de Ouro Preto.
 
-Em janeiro de 2025, segundo o Estado de Minas, que teve acesso ao inquérito da Operação Rejeito, a Gmais contratou o escritório de Faria para achar quem comprasse a lavra por até US$ 45 milhões, R$ 250 milhões. Prometeu ao advogado um quarto da comissão de 20%, até R$ 12,4 milhões.
+Em janeiro de 2025, segundo o Estado de Minas, que teve acesso ao inquérito da Operação Rejeito, a Gmais contratou o escritório de Faria para achar quem comprasse a lavra por até US$ 45 milhões, R$ 250 milhões. A comissão total seria de 20% do preço, R$ 50 milhões no teto, e o escritório de Faria ficaria com um quarto dela, ou seja, 5% da venda, até R$ 12,4 milhões.
 
 Dois meses depois, num domingo, Nikolas gravou o áudio para o banqueiro. Faria confirmou tudo isso em nota, na qual disse que representava um direito minerário e que, ao saber do interesse do grupo de Vorcaro no setor, "apresentou a oportunidade a ele e a seus advogados".
 
