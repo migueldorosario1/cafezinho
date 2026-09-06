@@ -1,0 +1,26 @@
+{
+  "csv_git_blob_sha": "e337ba35b86eab373fb12fcaa843debed6bd7c19",
+  "corresponde_ao_csv_original": true,
+  "competencias": 37,
+  "componentes_brl": {
+    "cargo_comissao_brl": "603828.85",
+    "ferias_terco_brl": "11182.94",
+    "auxilios_brl": "94412.24"
+  },
+  "total_csv_brl": "709424.03",
+  "total_condicional_com_eventual_informada_brl": "710022.83",
+  "ressalva_total": "A parcela eventual foi informada pela equipe e não pertence ao CSV. O resultado não abrange todas as folhas ou rubricas.",
+  "dias_publicacao_embargo_ate_audio": 38,
+  "dias_publicacao_oito_autos_ate_audio": 6,
+  "areas_cadastrais_ha": {
+    "800.214/1978": "163.48",
+    "804.805/1976": "44.37",
+    "830.687/1980": "22.77",
+    "830.689/1980": "4.29",
+    "827.501/1972": "62.78",
+    "800.645/1971": "349.10",
+    "291.701/1936": "78.78"
+  },
+  "soma_areas_cadastrais_ha": "725.57",
+  "ressalva_area": "Soma dos campos cadastrais. Não mede a união espacial de polígonos nem prova área contínua sem sobreposições."
+}
