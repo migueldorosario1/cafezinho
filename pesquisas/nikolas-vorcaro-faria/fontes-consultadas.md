@@ -27,3 +27,24 @@
 
 ## Descartado
 - CNPJ 30.273.645/0001-69 (Thiago Rodrigues Sociedade Individual de Advocacia, São Paulo): homônimo, titular Thiago Rogério de Jesus Rodrigues. Não é o advogado de Nikolas.
+
+# Rodada 2 (Fable, 06/09/2026)
+
+## Primárias
+- Receita Federal, dados abertos do CNPJ (espelho minhareceita.org): https://minhareceita.org/56902629000181 | /11030358000183 | /16857294000102 | /41332820000168
+- ANM, dados abertos SIGMINE, shapefile MG (gerado 05/09/2026): https://dadosabertos.anm.gov.br/SIGMINE/PROCESSOS_MINERARIOS/MG.zip
+- ANM, Certidão SG-ANM 53/2025 (26/12/2025): https://www.gov.br/anm/pt-br/acesso-a-informacao/processos/distribuicao-de-processos-aos-diretores/documentos/2025/2025-12-26-certidao-sg-anm200b-no-53.pdf
+- Parte 1 publicada: https://www.ocafezinho.com/2026/09/05/o-escandalo-por-tras-do-audio-de-nikolas-para-vorcaro
+
+## Secundárias com citação de documento da PF
+- Estado de Minas, Mateus Parreiras, 18/09/2025, diálogos do inquérito e processo 930.096/2000: https://www.em.com.br/gerais/2025/09/7251270-dialogo-indica-que-organizacao-criminosa-ignorou-risco-critico-de-barragem.html
+- Poder360, 27/06/2026, indiciamento de Mauro Sousa: https://www.poder360.com.br/poder-justica/pf-indicia-presidente-da-anm-por-corrupcao-na-mineracao/
+- Observatório da Mineração, 07/07/2026: https://observatoriodamineracao.com.br/policia-federal-indicia-empresarios-diretor-geral-e-alto-escalao-da-anm-por-organizacao-criminosa-e-outras-acusacoes-em-novos-relatorios/
+- Observatório da Mineração, 09/07/2026, "Obra do Mauro": https://observatoriodamineracao.com.br/obra-do-mauro-pf-aponta-favorecimento-de-mineradora-investigada-na-operacao-parcours-por-diretor-geral-da-anm/
+- Agência iNFRA, 30/06/2026: https://agenciainfra.com/blog/pf-indicia-diretor-geral-da-anm-em-caso-de-mineracao-ilegal-em-mg/
+
+## Tentadas e bloqueadas
+- cdn.tse.jus.br e divulgacandcontas.tse.jus.br: HTTP 403
+- sistemas.anm.gov.br/SCM: HTTP 503
+- geo.anm.gov.br (ArcGIS REST): timeout
+- cmbh.mg.gov.br/transparencia: sem resposta
