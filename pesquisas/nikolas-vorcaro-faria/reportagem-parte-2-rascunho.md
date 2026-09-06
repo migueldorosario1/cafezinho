@@ -23,7 +23,7 @@ O áudio de Nikolas não diz o nome do ativo. O inquérito da Operação Rejeito
 
 O histórico desse processo no Cadastro Mineiro, consultado pela equipe do Cafezinho em 6 de setembro, registra o que a agência fazia com a empresa nos meses anteriores ao áudio.
 
-Em 23 e 27 de janeiro de 2025, a ANM negou as defesas da Topázio e aplicou multas em 25 autos de infração da barragem Água Fria, lavrados em 2021 e 2022. Foi nesse mês que o escritório de Faria assinou o contrato com a Gmais Ambiental para intermediar a venda da lavra.
+Entre 14 e 27 de janeiro de 2025, a ANM negou as defesas da Topázio e aplicou multas em 92 autos de infração da barragem Água Fria, lavrados em 2021 e 2022 — quarenta deles num único dia, 21 de janeiro. Foi nesse mês que o escritório de Faria assinou o contrato com a Gmais Ambiental para intermediar a venda da lavra.
 
 Em 10 de fevereiro, a agência negou a prorrogação de 25 itens de exigências técnicas. Em 14 de fevereiro, indeferiu pedido de prazo adicional para a revisão de segurança da barragem.
 
@@ -38,7 +38,7 @@ Em 30 de março, Nikolas gravou o áudio.
 
 Os registros mostram datas de publicação, não de lavratura. Não provam que Nikolas soubesse de cada auto, nem que o pedido ao banqueiro visasse a ANM. O que provam é o estado do ativo no dia em que o deputado disse que ele estava "pendente".
 
-A fiscalização não parou depois. Em 3 de julho de 2025, segundo embargo, Auto 59/2025. Em 16 de setembro, véspera da Operação Rejeito, mais três autos de infração. Em 10 de abril de 2026, terceiro embargo, Auto 13/2026, publicado no Diário Oficial da União.
+A fiscalização não parou depois. Em 3 de julho de 2025, novo embargo, Auto 59/2025. Em 16 de setembro, véspera da Operação Rejeito, mais três autos de infração. Em 10 de abril de 2026, outro embargo, Auto 13/2026, publicado no Diário Oficial da União. O registro guarda ainda um embargo anterior, de julho de 2022, Auto 41/2022.
 
 ![Embargo da barragem Água Fria no Diário Oficial da União](imagens/print-dou-embargo-agua-fria-2026-04-10.png)
 *Diário Oficial da União de 10 de abril de 2026, Seção 1, página 59. Reprodução*
@@ -78,8 +78,11 @@ O nome da empresa levou a cobertura a tratar o negócio como uma lavra de topáz
 
 O grupamento 930.096/2000 reúne sete concessões de lavra da Topázio Imperial, com 725 hectares somados. Seis são de topázio e gemas. A sétima, processo 291.701/1936, tem 78,78 hectares e quatro substâncias registradas, nesta ordem. Ferro, manganês, topázio e calcário.
 
-![Composição do grupamento 930.096/2000 e substâncias do processo 291.701/1936](imagens/repro-anm-scm-grupamento-930096-composicao.png)
-*Composição do grupamento 930.096/2000 e substâncias do processo 291.701/1936. Reprodução textual dos registros do Cadastro Mineiro da ANM consultados em 6 de setembro de 2026*
+![Registro do processo 291.701/1936 no Cadastro Mineiro da ANM](imagens/print-anm-scm-291701-1936-substancias.png)
+*Processo 291.701/1936: requerimento de manifesto de mina protocolado em 1936, hoje concessão de lavra ativa com 78,78 hectares e quatro substâncias registradas. Captura de tela do Cadastro Mineiro (SCM/ANM) em 6 de setembro de 2026*
+
+![Composição do grupamento 930.096/2000 no Cadastro Mineiro da ANM](imagens/print-anm-scm-grupamento-930096-composicao.png)
+*Processos que compõem o grupamento mineiro 930.096/2000, todos da Topázio Imperial. Captura de tela do Cadastro Mineiro (SCM/ANM) em 6 de setembro de 2026*
 
 Um boletim da FIPE de outubro de 2021, baseado no Diagnóstico do Setor Mineral de Minas Gerais e no SIGMINE, lista os "principais titulares de grupamento mineiro por substâncias metálicas em Minas Gerais, ferro". São nove empresas. Vale, MBR, Gerdau Açominas, Samarco, Usiminas e, com um grupamento, a Topázio Imperial.
 
@@ -137,7 +140,7 @@ Nikolas e Faria têm razão em um ponto. Faria é mesmo um ex-assessor. Desde 30
 
 **Fontes primárias.** Portal da Câmara (ficha Rw29VM35KZe6WyY8yEb4 e histórico funcional em camara.leg.br/deputados/209787/pessoal-gabinete). Receita Federal, dados abertos do CNPJ via espelho minhareceita.org (06/09/2026). SCM/ANM, registros textuais em `fontes-zm-2026-09-06/` (captura 06/09/2026, 0h27 e 0h29). Certidão SG-ANM 53/2025. Pauta da 88ª ROP (SEI 20613489). DOU 10/04/2026 S1 p. 59 (autenticação informada pela ZM, PDF oficial ainda não preservado). FIPE bif493 out/2021.
 
-**Imagens.** As duas imagens `repro-anm-scm-*.png` são reproduções tipográficas dos registros textuais, produzidas pela reportagem porque o SCM devolvia erro 503 a este ambiente e o print obtido pela ZM saiu corrompido. Estão identificadas como reprodução, não como captura de tela. Se o SCM voltar, substituir por captura real.
+**Imagens.** As imagens `print-anm-scm-*.png` são capturas de tela reais do Cadastro Mineiro (SCM/ANM), obtidas em 6 de setembro de 2026: a composição do grupamento e o registro do processo 291.701/1936. A imagem `repro-anm-scm-eventos-2025-antes-do-audio.png` permanece como reprodução tipográfica do registro textual, identificada como tal na legenda; os eventos completos, verificados linha a linha, estão transcritos no adendo da pasta fontes-zm-2026-09-06.
 
 **Limites já incorporados no texto.** Datas do SCM são de publicação. "Empresa de fachada" é conclusão da PF. Horta "consta como administrador desde". Ferro presente, não predominante. Mauro Sousa indiciado na Parcours. Nenhuma afirmação de que o Cafezinho já procurou alguém. O total de R$ 709.424,03 exclui 13º e a parcela eventual de R$ 598,80 de março de 2026.
 
