@@ -34,6 +34,10 @@ d) Notas Técnicas nºs 20, 55, 56, 79, 80 e 108, todas de 2024, da CED/SOD-ANM/
 
 Solicito resposta em formato digital aberto. Interesse jornalístico, sem caráter comercial.
 
+## PROTOCOLOS REGISTRADOS
+- 48003.018654/2026-33 — ANM — Pedido 1 (Nota Técnica 51/2026 + cessões + sanções) — postado 06/09/2026, prazo até 28/09/2026 — AGUARDANDO
+- Pedido 2 — a postar
+
 ## ROTINA LAI (ideia do Miguel 06/09 — a institucionalizar)
 - Meta: 1 pedido LAI por dia, atrelado às pautas vivas (reportagem Nikolas/Master; robôs do Cafezinho podem rastrear protocolos)
 - Registrar TODO protocolo no Cérebro (nó próprio ou seção da reportagem) com: número, órgão, data, objeto, prazo-limite
