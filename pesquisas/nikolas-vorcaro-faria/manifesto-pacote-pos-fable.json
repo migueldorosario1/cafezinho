@@ -1,0 +1,33 @@
+{
+  "data": "2026-09-06",
+  "commit_partida": "b065f010fbdd4ad4125e9f38d4eacabe08106cb5",
+  "commit_desta_rodada": null,
+  "situacao_github": "Tentativa de escrita bloqueada pela ferramenta. Nenhum commit confirmado.",
+  "arquivos": [
+    {
+      "caminho": "pesquisas/nikolas-vorcaro-faria/LEIA-ME-pacote-pos-fable.md",
+      "bytes": 1387,
+      "sha256": "7a1e990a5e09c23ff79ace7eefc60e8b416bdc378513afb544df3e18e4d33a7f"
+    },
+    {
+      "caminho": "pesquisas/nikolas-vorcaro-faria/adendo-briefing-pos-fable-2026-09-06.md",
+      "bytes": 1968,
+      "sha256": "b4d4ae46c3478397aae7554dc4c1c7c7b61491d47169667749c6c5144c203ee4"
+    },
+    {
+      "caminho": "pesquisas/nikolas-vorcaro-faria/dados/anm-topazio-pauta-88-2026.json",
+      "bytes": 6516,
+      "sha256": "1bf33fbb1a332bc6e39ca0d20f7dff1096bf6c6d8bb5397a4469bdfcfc5d7550"
+    },
+    {
+      "caminho": "pesquisas/nikolas-vorcaro-faria/relatorio-gpt-pos-fable-2026-09-06.md",
+      "bytes": 18016,
+      "sha256": "f1135f02733e33892dedc8903aea074cbe29003c7cf0a421cae22b1f0fad4858"
+    },
+    {
+      "caminho": "pesquisas/nikolas-vorcaro-faria/scripts/conferir_recursos_anm.py",
+      "bytes": 2102,
+      "sha256": "2b86b0ddc0ad45a96205cf34610a60b11ae0b03d16ea4af74055900e7db59814"
+    }
+  ]
+}
