@@ -36,7 +36,7 @@ lab("ITAMINAS\nVorcaro comprou metade\nem 2024, com AVG e Ageo",(-44.12,-20.05),
 blob(-43.585,-20.375,0.09,0.065,ORG,0.25); ax.plot(-43.595,-20.38,"P",ms=13,color=ORG,mec="white",mew=1,zorder=9); ax.plot(-43.5827,-20.3729,"P",ms=13,color=ORG,mec="white",mew=1,zorder=9)
 lab("PATRIMÔNIO MINERAÇÃO e HG MINERAÇÃO\nmineradoras do grupo de João Alberto Lages\n(Operação Rejeito), Serra do Botafogo, a 5 e 7 km\nlicença comprada com R$ 500 mil de propina\nem fevereiro de 2025, segundo a PF",(-43.585,-20.375),(-43.32,-20.10),color=ORG,fs=10.5,bold=True,lw=1.4)
 blob(-43.6899,-20.4662,0.09,0.065,KAL,0.25); ax.plot(-43.6899,-20.4662,"h",ms=14,color=KAL,mec="white",mew=1,zorder=9)
-lab("EMPABRA, de Lucas Kallas\nacionista da Biomm ao lado de Vorcaro\nconcessão de bauxita, a 8 km da Topázio",(-43.6899,-20.4662),(-44.44,-20.36),color=KAL,fs=10.5,bold=True,lw=1.4)
+lab("EMPABRA, de Lucas Kallas\nKallas é sócio de Vorcaro em outra empresa (Biomm)\nconcessão de bauxita, a 8 km da Topázio",(-43.6899,-20.4662),(-44.36,-20.36),color=KAL,fs=10.5,bold=True,lw=1.4); foto(fV,-44.46,-20.36,zoom=0.17)
 ax.plot([],[],"s",color=V,ms=9,label="3D Minerals: financiada pelo Master"); ax.plot([],[],"D",color=V,ms=9,label="Controladas ou compradas por Vorcaro"); ax.plot([],[],"P",color=ORG,ms=10,label="Grupo de Lages (Operação Rejeito)"); ax.plot([],[],"h",color=KAL,ms=10,label="Empabra (Kallas)"); ax.plot([],[],"*",ms=16,color=TP,label="Lavra da Topázio (Nikolas e Faria)")
 ax.set_xlim(xmin,xmax); ax.set_ylim(ymin,ymax); ax.set_aspect(1/0.94); ax.set_xticks([]); ax.set_yticks([])
 for s in ax.spines.values(): s.set_edgecolor("#b0b0b0")
