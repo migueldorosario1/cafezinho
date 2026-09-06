@@ -1,0 +1,82 @@
+{
+ "deputado_id": 209787,
+ "total_proposicoes": 1662,
+ "filtro": [
+  "miner",
+  "lavra",
+  "barrag",
+  "ambient",
+  "licenc",
+  "serra",
+  "garimp",
+  "rejeit",
+  "cfem",
+  "terras raras",
+  "negócios"
+ ],
+ "resultados": [
+  {
+   "id": 2398044,
+   "siglaTipo": "REQ",
+   "numero": 417,
+   "ano": 2023,
+   "ementa": "Requer a convocação da Excelentíssima Ministra do Meio Ambiente e Mudança do Clima, Sra. Marina Silva, a fim de prestar esclarecimentos sobre as 22 (vinte e duas viagens) em jatinhos da FAB em apenas dez meses de governo.  NOVA EMENTA: Requer informação da Excelentíssima Ministra do Meio Ambiente e Mudança do Clima, Sra. Marina Silva, a fim de prestar esclarecimentos sobre as 22 (vinte e duas viagens) em jatinhos da FAB em apenas dez meses de governo. (Transformado em Requerimento de Informação)."
+  },
+  {
+   "id": 2401258,
+   "siglaTipo": "REQ",
+   "numero": 3804,
+   "ano": 2023,
+   "ementa": "Requer a aprovação de moção de repúdio contra o Ministro da Fazenda, Fernando Haddad, o Presidente da Caixa Econômica Federal, Rita Serrano, a Superintendente Nacional de Patrocínio, Eventos e Promoção da Caixa, Ana Luiza Fraga e a artista militante que realizou o ato, Marília Scarabello, responsáveis pela exposição \"O grito!\" realizada na Caixa Cultural em Brasília, que incluiu obras desrespeitosas e ultrajantes, atacando a honra e a dignidade dos Poderes Executivo e Legislativo nas pessoas do ex-presidente da República, do atual Presidente da Câmara dos Deputados, da Senadora Damares Alves e do ex-Ministro Paulo Guedes."
+  },
+  {
+   "id": 2431001,
+   "siglaTipo": "REQ",
+   "numero": 1459,
+   "ano": 2024,
+   "ementa": "Requer regime de urgência na apreciação do Projeto de Lei nº 1550, de 2024, que “Altera a Lei nº 9.250, de 26 de dezembro de 1995, que “dispõe sobre imposto de renda das pessoas físicas” para incluir como prioridade para recebimento da restituição do IRPF os contribuintes que residam em áreas atingidas por desastres ambientais"
+  },
+  {
+   "id": 2478427,
+   "siglaTipo": "PEC",
+   "numero": 48,
+   "ano": 2024,
+   "ementa": "Altera o art. 53 da Constituição Federal para deixar explícito que a imunidade material de Deputados e Senadores se aplica independentemente do local em que forem proferidas opiniões, palavras e votos, e para determinar ao Ministro do Supremo Tribunal Federal que, no exercício de suas funções, contrariar esta disposição, a pena de perda do cargo, sem vencimentos e com inabilitação, por até cinco anos, para o exercício de qualquer função pública."
+  },
+  {
+   "id": 2484435,
+   "siglaTipo": "EMP",
+   "numero": 1,
+   "ano": 0,
+   "ementa": "\"Altera a Leis 9.605, de 12 de fevereiro de 1998 (Lei de Crimes Ambientais) e a Lei 12.651, de 25 de maio de 2012 (Código Florestal), para caracterizar circunstância agravante a prática de infrações que dificultem a plena prestação de serviços públicos e em concurso de pessoas; aumentar penas para crimes de incêndio em floresta e de poluição de qualquer natureza; e proibir aquele que fizer uso irregular do fogo em terras públicas ou particulares de contratar com o Poder Público ou receber recursos públicos. \""
+  },
+  {
+   "id": 2589467,
+   "siglaTipo": "RIC",
+   "numero": 8003,
+   "ano": 2025,
+   "ementa": "Solicita informações à Ministra de Meio Ambiente e Mudança do Clima acerca dos impactos ambientais, econômicos e produtivos decorrentes da inclusão da tilápia na lista de espécies exóticas invasoras e da autorização para importação da\nmesma espécie de outros países."
+  },
+  {
+   "id": 2596948,
+   "siglaTipo": "PRL",
+   "numero": 1,
+   "ano": 0,
+   "ementa": "Parecer do Relator, Dep. Nikolas Ferreira (PL-MG), pela constitucionalidade, juridicidade e técnica legislativa deste, dos Projetos de Lei n°s 3.306/2019 e 3.979/2020, apensados, e do Substitutivo da Comissão de Meio Ambiente e Desenvolvimento Sustentável."
+  },
+  {
+   "id": 2598197,
+   "siglaTipo": "REQ",
+   "numero": 6008,
+   "ano": 2025,
+   "ementa": "Requer a criação e registro da Frente Parlamentar Mista do Ambiente de Negócios (FPN)."
+  },
+  {
+   "id": 2613091,
+   "siglaTipo": "PL",
+   "numero": 1575,
+   "ano": 2026,
+   "ementa": "Institui a Política Nacional de Pesquisa, Desenvolvimento e Inovação em Prospecção, Lavra, Beneficiamento e Aplicações de Minerais Estratégicos."
+  }
+ ]
+}
