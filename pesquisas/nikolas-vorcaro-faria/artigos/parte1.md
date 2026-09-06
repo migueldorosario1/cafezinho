@@ -13,7 +13,7 @@ Em janeiro de 2025, segundo o Estado de Minas, que teve acesso ao inquérito da 
 
 Dois meses depois, no domingo 30 de março de 2025, Nikolas gravou o áudio para o banqueiro. As mensagens, extraídas do celular apreendido de Vorcaro, foram reveladas pela jornalista Juliana Dal Piva, do ICL Notícias, em 3 de setembro.
 
-"Ei Dani, tudo bom? Desculpa te incomodar num domingo, é jogo rápido." O deputado emenda. "Meu amigo, meu advogado, enfim, irmão meu aqui, comentou comigo e falou do seu nome. Ele falou, cara, tô com um ativo minerário lá, inclusive já passou pela ficha técnica, o pessoal técnico dele, enfim, tá pendente lá."
+"Ei Dani, tudo bom? Desculpa te incomodar num domingo, é jogo rápido." O deputado emenda: "Meu amigo, meu advogado, enfim, irmão meu aqui, comentou comigo e falou do seu nome. Ele falou, cara, tô com um ativo minerário lá, inclusive já passou pela ficha técnica, o pessoal técnico dele, enfim, tá pendente lá."
 
 Nikolas pede que Vorcaro receba Faria e aproveita para se desculpar por ter criticado, um ano antes, um evento do Master em Londres com ministros do Supremo. Segundo a transcrição do ICL, despede-se com "um abraço, lindão", expressão que o deputado nega ter usado.
 
