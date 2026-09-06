@@ -1,0 +1,53 @@
+digraph G {
+  graph [bgcolor="#faf6f0", rankdir=TB, splines=true, nodesep=0.35, ranksep=0.7, fontname="DejaVu Sans", pad=0.4, dpi=160,
+         label="Quem é quem no caso do áudio de Nikolas a Vorcaro\nElaboração: O Cafezinho, 06/09/2026. Setas tracejadas indicam relação sem documento primário.", labelloc=t, fontsize=16, fontcolor="#3b2213"];
+  node [shape=box, style="rounded,filled", fontname="DejaVu Sans", fontsize=11, color="#8a5a25", penwidth=1.2];
+  edge [fontname="DejaVu Sans", fontsize=9, color="#3b2213", fontcolor="#3b2213"];
+
+  subgraph cluster_gab { label="Gabinete de Nikolas (Câmara)"; fontcolor="#3b2213"; color="#b0b0b0"; style="rounded"; bgcolor="#f3ece1";
+    NIK [label="Nikolas Ferreira\ndeputado federal (PL-MG)", fillcolor="#6b4226", fontcolor="white"];
+    FAR [label="Thiago Rodrigues de Faria\nsecretário parlamentar SP24\n09/03/2023 a 30/03/2026\nadvogado, escritório aberto 19/08/2024", fillcolor="#c98a4b", fontcolor="#1a0f08"];
+    PAB [label="Pablo Almeida\nex-chefe de gabinete\nvereador BH (PL)", fillcolor="#e8dccb"];
+  }
+  subgraph cluster_gmais { label="Grupo da Gmais (Operação Rejeito, PF)"; fontcolor="#3b2213"; color="#b0b0b0"; style="rounded"; bgcolor="#f3ece1";
+    GMA [label="Gmais Ambiental Ltda\n'empresa de fachada' (PF)\nsede em clínica de estética, BH", fillcolor="#c98a4b", fontcolor="#1a0f08"];
+    HOR [label="Gilberto Horta de Carvalho\nlobista, administrador da Gmais\ndesde 18/02/2025\npreso em set/2025, indiciado", fillcolor="#e8dccb"];
+    TEI [label="Rodrigo de Melo Teixeira\ndelegado, ex-diretor da PF\ngestor oculto da Gmais (PF)\npreso em set/2025", fillcolor="#e8dccb"];
+    LAG [label="João Alberto Paixão Lages\nex-deputado (MDB)\nlíder da organização (PF)", fillcolor="#e8dccb"];
+    EST [label="Estabil Escritório Contábil\n25% da comissão", fillcolor="#e8dccb"];
+  }
+  subgraph cluster_ativo { label="O ativo"; fontcolor="#3b2213"; color="#b0b0b0"; style="rounded"; bgcolor="#f3ece1";
+    TOP [label="Topázio Imperial Mineração\ngrupamento ANM 930.096/2000\nRodrigo Silva, Ouro Preto\n7 concessões, uma com FERRO (291.701/1936)", fillcolor="#6b4226", fontcolor="white"];
+    BAR [label="Barragem Água Fria\n2 mi m³, método a montante\n25 multas jan/2025\nembargo 20/02/2025\n8 autos 24/03/2025", fillcolor="#c98a4b", fontcolor="#1a0f08"];
+  }
+  subgraph cluster_master { label="Ecossistema Vorcaro / Banco Master"; fontcolor="#3b2213"; color="#b0b0b0"; style="rounded"; bgcolor="#f3ece1";
+    VOR [label="Daniel Vorcaro\nBanco Master (liquidado nov/2025)\npreso", fillcolor="#6b4226", fontcolor="white"];
+    VF  [label="Victoria Falls FIP\nfundo administrado pelo Master\nliquidado set/2025", fillcolor="#e8dccb"];
+    TAM [label="Tamisa (Taquaril Mineração)\nSerra do Curral, Nova Lima\nferro", fillcolor="#e8dccb"];
+    W3D [label="3D Minerals (família Wanderley)\n291 títulos, 9.731 km²\n4 áreas de FERRO em Ouro Preto\nempréstimo Master R$ 152,9 mi (nov/2024)\ncedido ao BRB (jul/2025)", fillcolor="#c98a4b", fontcolor="#1a0f08"];
+    KAL [label="Lucas Kallas\nsócio de Vorcaro\nEmpabra (Serra do Curral)\nindiciado, Parcours", fillcolor="#e8dccb"];
+  }
+  subgraph cluster_anm { label="Regulador"; fontcolor="#3b2213"; color="#b0b0b0"; style="rounded"; bgcolor="#f3ece1";
+    ANM [label="Mauro Sousa\ndiretor-geral da ANM\nrelator de 90 recursos da Topázio\nindiciado jun/2026 (Parcours)", fillcolor="#e8dccb"];
+  }
+
+  NIK -> FAR [label="paga R$ 17 mil/mês\n(Câmara)"];
+  NIK -> VOR [label="áudio 30/03/2025\n'destravar ativo minerário'", penwidth=2.2, color="#a0261c", fontcolor="#a0261c"];
+  VOR -> NIK [label="'estamos na guerra juntos'\n'deixa comigo'\nbancou voos em 2022", style=dashed];
+  NIK -> HOR [label="vídeo de apoio\nCREA-MG 2023"];
+  NIK -> PAB;
+  PAB -> VOR [label="'assessor Nikolas'\nna agenda de Vorcaro", style=dashed];
+  FAR -> GMA [label="contrato jan/2025\n25% da comissão\n(até US$ 2,25 mi)", penwidth=2];
+  FAR -> HOR [label="grupo 'Projeto Ferro'\nabr/2024"];
+  FAR -> LAG [label="notícia-crime contra\nDuda Salabert"];
+  GMA -> EST;
+  HOR -> GMA; TEI -> GMA [style=dashed, label="gestor oculto (PF)"]; LAG -> HOR;
+  GMA -> TOP [label="arrendamento/opção\n2023, venda US$ 30-45 mi", penwidth=2];
+  TOP -> BAR;
+  BAR -> ANM [label="multas e embargos\nrecursos"];
+  FAR -> VOR [label="'ficha técnica,\npessoal técnico dele'", style=dashed, color="#a0261c", fontcolor="#a0261c"];
+  VOR -> VF; VF -> TAM; VF -> W3D [style=dashed, label="via 5W"]; VOR -> W3D [label="financia"]; VOR -> KAL;
+  W3D -> TOP [label="áreas de ferro\na 9 e 12 km", style=dashed, color="#a0261c", fontcolor="#a0261c"];
+  KAL -> ANM [label="'canal privilegiado' (PF)", style=dashed];
+  LAG -> TAM [label="mesma serra,\n'conluio' (CPI BH 2019)", style=dashed];
+}
