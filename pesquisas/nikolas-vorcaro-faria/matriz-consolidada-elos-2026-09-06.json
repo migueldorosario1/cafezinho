@@ -1,0 +1,232 @@
+{
+  "titulo": "Matriz consolidada de elos e pendências",
+  "data": "2026-09-06",
+  "base_commit": "fe5b0f9b2dbfe9bfddb51fa84d33d2a3cbac7a29",
+  "documento_central": "00-CONSOLIDACAO-MESTRA-2026-09-06.md",
+  "natureza": "Pesquisa para revisão humana. Não é reportagem nem auditoria independente integral dos autos e bases.",
+  "categorias": {
+    "registro_documental": "Informação com registro identificado. Verificar no campo fonte se houve consulta direta ou uso de reprodução da equipe.",
+    "declaracao_atribuida": "Declaração do citado ou de terceiro com atribuição obrigatória.",
+    "pista_documental": "Indício verificável cujo alcance não fecha o elo procurado.",
+    "pendente": "Ausência de comprovação no acervo examinado, sem afirmar inexistência do vínculo."
+  },
+  "elos": [
+    {
+      "id": "E01",
+      "origem": "Thiago Rodrigues de Faria",
+      "destino": "Gabinete de Nikolas Ferreira",
+      "relacao": "Vínculo de secretário parlamentar",
+      "intervalo": ["2023-03-09", "2026-03-30"],
+      "status": "registro_documental",
+      "fonte": "https://www.camara.leg.br/deputados/209787/pessoal-gabinete",
+      "acervo": "nota-apuracao-revisao-zm-2026-09-06.md",
+      "limite": "Não comprova uso irregular do cargo nem causa da exoneração. Reenquadramento para SP22 em 18/02/2026."
+    },
+    {
+      "id": "E02",
+      "origem": "Thiago Rodrigues de Faria",
+      "destino": "Daniel Vorcaro e seus advogados",
+      "relacao": "Apresentação de oportunidade minerária reconhecida em nota",
+      "data_da_manifestacao": "2026-09-03",
+      "status": "declaracao_atribuida",
+      "fonte": "https://ofator.com.br/informacao/advogado-diz-que-nikolas-apenas-forneceu-contato-de-vorcaro-mas-nao-participou-de-negociacao-que-acabou-encerrada/",
+      "limite": "Faria afirma insucesso e encerramento. Não identifica título ANM, destinatários, pessoa jurídica ou data de encerramento."
+    },
+    {
+      "id": "E03",
+      "origem": "Escritório de Faria",
+      "destino": "Gmais Ambiental",
+      "relacao": "Contrato de intermediação de janeiro de 2025 descrito em reportagens sobre inquérito",
+      "status": "declaracao_atribuida",
+      "acervo": "fontes-consultadas.md",
+      "limite": "Íntegra contratual não obtida. Comissão prevista não equivale a comissão recebida."
+    },
+    {
+      "id": "E04",
+      "origem": "Grupamento 930.096/2000",
+      "destino": "Processo 291.701/1936",
+      "relacao": "Associação no Cadastro Mineiro",
+      "status": "registro_documental",
+      "acervo": ["fontes-zm-2026-09-06/anm_930096_2000_dadosprocesso.txt", "fontes-zm-2026-09-06/anm_291701_1936_dadosprocesso.txt"],
+      "substancias_processo_individual": ["ferro", "manganês", "topázio", "calcário"],
+      "limite": "Reproduções de consulta da equipe. Não identifica o ativo apresentado a Vorcaro nem prova predominância de ferro ou operação liberada."
+    },
+    {
+      "id": "E05",
+      "origem_cnpj": "15.779.618/0001-79",
+      "origem": "Victoria Falls FIM IE",
+      "destino_cnpj": "10.566.011/0001-97",
+      "destino": "Victoria Falls FIP",
+      "relacao": "Declaração de investimento em cotas",
+      "status": "registro_documental",
+      "posicoes_brl": {"2024-09": "73489307.61", "2025-03": "76461631.34", "2025-06": "76866050.63"},
+      "acervo": "dados/cvm-cda-victoria-falls-itaminas-2024-09-a-2025-06.csv",
+      "blob_fonte": "5551a86d41fea34e98bf55333ff88173aa47d836",
+      "limite": "Extração da equipe. Não houve nova execução integral dos ZIPs. Beneficiário final acima do FIM não identificado."
+    },
+    {
+      "id": "E06",
+      "origem": "Victoria Falls FIP",
+      "destino": "Taquaril Mineração",
+      "relacao": "Participação declarada no capital da investida",
+      "participacao_percentual": "93.31",
+      "data_base": "2024-12-31",
+      "status": "registro_documental",
+      "acervo": "fontes-zm-master-onda-2-2026-09-06/cvm-df-jul2024-dez2024-demo.txt",
+      "localizador": "Nota 4, especialmente página 15",
+      "limite": "Não atribuir propriedade direta ao administrador, gestor ou Vorcaro sem a cadeia. Não retroagir ou prorrogar indefinidamente a data-base."
+    },
+    {
+      "id": "E07",
+      "origem": "Victoria Falls FIP",
+      "destino": "5W Participações",
+      "relacao": "Participação declarada no capital da investida",
+      "participacao_percentual": "100.00",
+      "data_base": "2024-12-31",
+      "status": "registro_documental",
+      "acervo": "fontes-zm-master-onda-2-2026-09-06/cvm-df-jul2024-dez2024-demo.txt",
+      "localizador": "Nota 4(c)(iv), página 16",
+      "limite": "Não identifica equipe técnica, Way Minerals ou destinação à 3D."
+    },
+    {
+      "id": "E08",
+      "origem": "Dividendos da Tropical destinados ao Victoria Falls FIP",
+      "destino": "Integralização de quotas da 5W",
+      "relacao": "Aplicação de dividendos descrita em nota explicativa",
+      "valor_brl": "1887000.00",
+      "status": "registro_documental",
+      "acervo": "fontes-zm-master-onda-2-2026-09-06/cvm-df-jul2024-dez2024-demo.txt",
+      "localizador": "Nota 4(c)(i), página 15, valores em milhares de reais",
+      "limite": "Não comprova financiamento de 3D, Topázio ou proposta de Faria."
+    },
+    {
+      "id": "E09",
+      "origem": "MCL B FIM Crédito Privado",
+      "origem_cnpj": "57.717.000/0001-24",
+      "destino": "FIP Itaminas",
+      "destino_cnpj": "53.263.484/0001-28",
+      "relacao": "Linha de cotas declaradas com valor zero",
+      "status": "pista_documental",
+      "competencias": ["2025-03", "2025-06"],
+      "valor_declarado_brl": "0.00",
+      "acervo": "dados/cvm-cda-victoria-falls-itaminas-2024-09-a-2025-06.csv",
+      "limite": "Recuperar quantidade, custo, compras, vendas e linha bruta. Não prova participação integral nem explica a marcação zero."
+    },
+    {
+      "id": "E10",
+      "origem": "G5 F Itaminas Minérios",
+      "origem_cnpj": "41.574.762/0001-89",
+      "destino": "PCS II PPE Feeder Brasil",
+      "destino_cnpj": "60.715.887/0001-26",
+      "relacao": "Cotas declaradas",
+      "competencia": "2025-06",
+      "valor_brl": "45276038.94",
+      "status": "registro_documental",
+      "acervo": "dados/cvm-cda-victoria-falls-itaminas-2024-09-a-2025-06.csv",
+      "identificacao_destino": "https://www.fiddgroup.com/fundo-investimentos/",
+      "limite": "Nome do destino consultado por indexação do site da administradora. Não prova repasse à mineradora."
+    },
+    {
+      "id": "E11",
+      "origem": "WHG PCS II Itaminas",
+      "origem_cnpj": "55.582.462/0001-56",
+      "destino": "PCS II PPE Feeder Brasil",
+      "destino_cnpj": "60.715.887/0001-26",
+      "relacao": "Cotas declaradas",
+      "competencia": "2025-06",
+      "valor_brl": "144883324.68",
+      "status": "registro_documental",
+      "acervo": "dados/cvm-cda-victoria-falls-itaminas-2024-09-a-2025-06.csv",
+      "limite": "Não equivale a debênture da Itaminas sem examinar a cadeia seguinte."
+    },
+    {
+      "id": "E12",
+      "origem": "Grupo comprador com Vorcaro, Gontijo e Argeu Géo",
+      "destino": "RDA e aquisição da Itaminas",
+      "relacao": "Aquisição anunciada por participantes",
+      "periodo": "2024-11",
+      "status": "declaracao_atribuida",
+      "natureza_fonte": "Fonte primária empresarial",
+      "fontes": ["https://avg.com.br/cade-aprova-aquisicao-da-itaminas/", "https://www.azevedosette.com.br/news/pt/azevedo-sette-assessora-rda-mineracao-na-aquisicao-de-itaminas/7668"],
+      "limite": "Não substitui ato do Cade, histórico societário completo ou contrato da proposta de Faria."
+    },
+    {
+      "id": "E13",
+      "origem": "Azevedo Sette",
+      "destino": "Aquisição da Itaminas",
+      "relacao": "Assessoria informada pelo próprio escritório",
+      "status": "registro_documental",
+      "fonte": "https://www.azevedosette.com.br/news/pt/azevedo-sette-assessora-rda-mineracao-na-aquisicao-de-itaminas/7668",
+      "limite": "Não foi demonstrado recebimento da proposta de Faria nem representação pessoal de Vorcaro nessa proposta."
+    },
+    {
+      "id": "E14",
+      "origem": "3D Minerals",
+      "destino": "Duas cessões homologadas, 44 propostas e treze áreas com inadimplemento",
+      "relacao": "Registros nos considerandos do Acórdão 4592/2026-1C",
+      "status": "registro_documental",
+      "acervo": "fontes-zm-master-onda-2-2026-09-06/tcu-acordao-4592-2026-1a-camara.txt",
+      "limite": "Tabela de títulos, cessionários e credores ainda não obtida. Não vincular automaticamente a Ouro Preto ou Faria."
+    },
+    {
+      "id": "E15",
+      "origem": "5W Participações",
+      "destino": "Way Minerals e 3D Minerals",
+      "relacao": "Identidade ou ligação societária pretendida",
+      "status": "pendente",
+      "limite": "Sem comprovação por nomes parecidos, titulares, capital ou datas."
+    },
+    {
+      "id": "E16",
+      "origem": "Proposta de Faria",
+      "destino": "Grupamento da Topázio apresentado a entidade ligada a Vorcaro",
+      "relacao": "Identificação do ativo e da contraparte",
+      "status": "pendente",
+      "documento_necessario": "Proposta ou comunicação que contenha título minerário, remetente, destinatários, pessoa jurídica e data"
+    },
+    {
+      "id": "E17",
+      "origem": "Daniel Vorcaro",
+      "destino": "Participação direta na Empabra",
+      "relacao": "Vínculo societário em período relevante",
+      "status": "pendente",
+      "limite": "Relações noticiadas com Kallas em outras empresas não demonstram propriedade da Empabra. Histórico e defesas devem ser preservados."
+    }
+  ],
+  "fatos_que_exigem_conciliacao": [
+    {"tema": "Classe FIP Itaminas", "cnpj": "53.263.484/0001-28", "pl_brl": "-234140380.86", "data_base": "2025-12-31", "acervo": "dados/cvm-registro-classe-fip-itaminas-victoria-falls.csv", "limite": "Campo cadastral da classe. Não equivale ao passivo da mineradora, perda comprovada do Master ou causa identificada."},
+    {"tema": "Carteira Victoria Falls em agosto de 2025", "a_pagar_brl": "105348695.31", "saldo_aritmetico_brl": "0.00", "limite": "Natureza das obrigações, resgate e destino dos ativos não identificados."},
+    {"tema": "Valor reduzido da 3D", "variantes_brl": ["3756100.00", "3776100.00", "3757610.00"], "limite": "Algarismos da ata, extenso da ata e manifestação descrita da empresa diferem. Contagem de ocorrências não resolve."}
+  ],
+  "calculos_refeitos": {
+    "metodo": "Decimal e datetime a partir de campos já identificados no acervo. Não é reexecução dos ZIPs.",
+    "total_csv_remuneracao_brl": "709424.03",
+    "total_condicional_com_eventual_brl": "710022.83",
+    "soma_campos_areas_ha": "725.57",
+    "dias_publicacao_embargo_ate_audio": 38,
+    "dias_publicacao_oito_autos_ate_audio": 6,
+    "soma_g5_whg_no_pcs_brl": "190159363.62",
+    "decima_parte_lance_37576100_brl": "3757610.00",
+    "data_aritmetica_ciencia_mais_90_dias": "2026-11-11",
+    "ressalva_prazo": "Não certifica exigibilidade ou publicidade. Verificar espécie, objeto e efeitos do R001 e decisões posteriores."
+  },
+  "diligencias": [
+    {"id": "P01", "prioridade": 1, "objeto": "Proposta e destinatários de Faria", "status": "pendente", "responsavel_sugerido": "Redação, com autorização para contato", "envio_confirmado": false},
+    {"id": "P02", "prioridade": 2, "objeto": "Manifestações e registros funcionais", "status": "pendente", "envio_confirmado": false},
+    {"id": "P03", "prioridade": 3, "objeto": "Auto de fevereiro de 2025 e decisões da ACP", "status": "pendente"},
+    {"id": "P04", "prioridade": 4, "objeto": "NT 51/2026 e cessões da 3D", "protocolo": "48003.018654/2026-33", "status": "envio_registrado_pela_equipe", "data_envio_informada": "2026-09-06", "prazo_indicado_pela_equipe": "2026-09-28", "recibo_conferido_pelo_gpt": false, "fonte": "fontes-zm-master-onda-2-2026-09-06/lai-anm-textos-prontos.md"},
+    {"id": "P05", "prioridade": 4, "objeto": "R001 do TC 016.970/2025-0", "status": "pendente", "campos": ["recorrente", "espécie", "itens impugnados", "decisão de admissibilidade", "efeitos", "processo de acompanhamento"]},
+    {"id": "P06", "prioridade": 5, "objeto": "Atos da 5W e Way, contratos Master–3D e cessão BRB, cotistas finais", "status": "pendente"},
+    {"id": "P07", "prioridade": 6, "objeto": "TSE e demonstrações FIP Itaminas", "status": "pendente"},
+    {"id": "P08", "objeto": "DOU de 10/04/2026, página 59", "status": "preservado_pela_equipe", "repetir_download_generico": false},
+    {"id": "P09", "objeto": "Pedido LAI 2 sobre votos e decisões ANM", "status": "redigido_nao_enviado"}
+  ],
+  "limites_globais": [
+    "Nenhuma publicação no portal realizada nesta rodada.",
+    "Nenhuma mensagem ou pedido de manifestação enviado pelo GPT.",
+    "Nenhum alerta automático criado.",
+    "Original da ata ANM conferido visualmente. Novos PDFs TCU examinados por transcrições, sem nova renderização.",
+    "Não houve nova auditoria integral de hashes nem execução das bases CVM.",
+    "Cópias históricas permanecem preservadas. A redação final depende de decisão de Miguel."
+  ]
+}
