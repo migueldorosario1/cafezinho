@@ -3,7 +3,12 @@
 Documento interno. Resume em linguagem simples o estado da apuração. Imagens: `imagens/diagrama-quem-e-quem-nikolas-vorcaro-faria.png` e `imagens/cronologia-caso-nikolas-vorcaro-faria.png`.
 
 ## Tese
-Nikolas Ferreira usou seu prestígio junto ao banqueiro Daniel Vorcaro para tentar destravar um negócio de mineração de até US$ 45 milhões que beneficiava um funcionário do seu próprio gabinete, pago pela Câmara, numa lavra embargada e multada pela ANM, cujo grupo negociador era, segundo a PF, uma organização criminosa.
+Nikolas Ferreira usou seu prestígio junto ao banqueiro Daniel Vorcaro para tentar destravar um negócio de mineração de até US$ 45 milhões que beneficiava um funcionário do seu próprio gabinete, pago pela Câmara, numa lavra embargada e multada pela ANM. O ativo estava nas mãos, por contrato, de uma empresa que a PF descreve como fachada de uma organização criminosa.
+
+### Quem é "o grupo negociador"
+O negócio tinha três pontas. A vendedora, Topázio Imperial (dona da lavra, não é acusada). A intermediária, Gmais Ambiental, que tinha contrato de arrendamento com opção de compra da Topázio desde 2023 e contratou Faria e a Estabil em jan/2025 para achar comprador. E os donos de fato da Gmais, segundo a PF: o delegado Rodrigo de Melo Teixeira e o lobista Gilberto Horta, integrantes do núcleo de articulação institucional da organização liderada por Alan Cavalcante, Helder Freitas e João Alberto Lages. Lages aparece pessoalmente nas conversas de 2023 sobre a Topázio e a barragem. "Grupo negociador" = Gmais + Teixeira + Horta + Lages. Metade da comissão iria para a Gmais, ou seja, para eles.
+
+O que a expressão não pode sugerir: que Nikolas ou Faria integrem a organização. A PF não diz isso e Faria não foi indiciado. Frase segura: "o advogado tinha contrato com uma empresa que a PF descreve como fachada de uma organização criminosa".
 
 ## Quem é Thiago Rodrigues de Faria
 Advogado de Belo Horizonte, "relações governamentais". Assessor jurídico de Nikolas vereador (2021-22, a confirmar na CMBH). Secretário parlamentar SP24 no gabinete federal de 09/03/2023 a 30/03/2026 (R$ 16 a 18 mil/mês, mais de R$ 700 mil no total). Advogado pessoal do deputado em 94 processos. Assinou a notícia-crime contra Duda Salabert com material de João Alberto Lages. Criou com Gilberto Horta o grupo "Projeto Ferro" (abr/2024). Abriu escritório em Nova Lima em 19/08/2024. O escritório assinou contrato com a Gmais em jan/2025 (25% de uma comissão de 20% sobre US$ 30 a 45 mi). Não foi indiciado.
