@@ -11,7 +11,21 @@ Faria é advogado pessoal de Nikolas e, na época do áudio, era secretário par
 
 Em janeiro de 2025, segundo o Estado de Minas, que teve acesso ao inquérito da Operação Rejeito, a Gmais contratou o escritório de Faria para achar quem comprasse a lavra por até US$ 45 milhões, R$ 250 milhões. A comissão total seria de 20% do preço, R$ 50 milhões no teto, e o escritório de Faria ficaria com um quarto dela, ou seja, 5% da venda, até R$ 12,4 milhões.
 
-Dois meses depois, num domingo, Nikolas gravou o áudio para o banqueiro. Faria confirmou tudo isso em nota, na qual disse que representava um direito minerário e que, ao saber do interesse do grupo de Vorcaro no setor, "apresentou a oportunidade a ele e a seus advogados".
+Dois meses depois, no domingo 30 de março de 2025, Nikolas gravou o áudio para o banqueiro. As mensagens, extraídas do celular apreendido de Vorcaro, foram reveladas pela jornalista Juliana Dal Piva, do ICL Notícias, em 3 de setembro.
+
+"Ei Dani, tudo bom? Desculpa te incomodar num domingo, é jogo rápido." O deputado emenda. "Meu amigo, meu advogado, enfim, irmão meu aqui, comentou comigo e falou do seu nome. Ele falou, cara, tô com um ativo minerário lá, inclusive já passou pela ficha técnica, o pessoal técnico dele, enfim, tá pendente lá."
+
+Nikolas pede que Vorcaro receba Faria e aproveita para se desculpar por ter criticado, um ano antes, um evento do Master em Londres com ministros do Supremo. Segundo a transcrição do ICL, despede-se com "um abraço, lindão", expressão que o deputado nega ter usado.
+
+Vorcaro responde "estamos na guerra juntos". Em 1º de abril Nikolas avisa que Faria estará em Brasília, e no dia seguinte o banqueiro escreve "deixa comigo".
+
+Um ano depois, em março de 2026, quando a PF entregou à CPMI do INSS a agenda do celular de Vorcaro com o seu número, Nikolas disse à Folha que nunca havia encontrado o banqueiro e que não se lembrava de ter falado com ele por telefone ou mensagem. Em setembro, com o áudio na rua, a versão mudou de forma. "Eu nunca neguei que tinha falado com Vorcaro. Nunca falei porque elas são irrelevantes."
+
+O contato, explicou, veio em 2023 do pastor André Valadão, da Lagoinha, amigo dos dois. "Nunca salve o contato com o nome que a pessoa mandou, porque o pastor Valadão me mandou o contato como Dani Vorcaro, e eu achei que o nome dele era Dani."
+
+Sobre o pedido, admitiu ter "feito a ponte", mas disse que a demanda era do advogado. "Eu não faço parte dessa putaria de Brasília, eu não recebi um tostão do Vorcaro e nunca encontrei com ele." Confirmou ainda que o banqueiro ajudou na logística dos voos de sua campanha em 2022, quando, segundo ele, não havia suspeita pública sobre o nome de Vorcaro.
+
+Faria confirmou tudo isso em nota, na qual disse que representava um direito minerário e que, ao saber do interesse do grupo de Vorcaro no setor, "apresentou a oportunidade a ele e a seus advogados".
 
 Vorcaro também tinha interesse na lavra. Ela está rodeada por minas e projetos administrados, comprados ou financiados pelo dono do Banco Master e por gente da sua órbita, como revela o cruzamento dos títulos minerários da Agência Nacional de Mineração com as carteiras dos fundos na CVM, o cadastro da Receita Federal, os registros das juntas comerciais e as reportagens da Folha e de A Investigação sobre os negócios do banqueiro em Minas.
 
@@ -60,10 +74,6 @@ A Topázio exigia algo mais caro. Uma barragem do tipo de Brumadinho não se res
 A hipótese que este levantamento sustenta, e que os documentos disponíveis ainda não fecham, é que a Gmais buscou no Banco Master o que lhe faltava para destravar a lavra, dinheiro e influência, e que Vorcaro tinha razões próprias para ouvir, porque seus projetos e os de seus sócios cercavam a mina. Nenhum contrato, mensagem ou registro liga a 3D, a Itaminas ou os advogados de Vorcaro à proposta que Faria diz ter apresentado, e nada mostra o Master pagando propina ou avaliando a Topázio.
 
 O que está provado é o cerco, o dinheiro, o método do grupo e as datas. O que falta é a resposta que veio depois do "deixa comigo".
-
-O áudio, revelado pela jornalista Juliana Dal Piva, do ICL Notícias, a partir do celular apreendido do banqueiro, é curto. "Ei Dani, tudo bom? Desculpa te incomodar num domingo, é jogo rápido. Meu amigo, meu advogado, enfim, irmão meu aqui, comentou comigo e falou do seu nome. Ele falou, cara, tô com um ativo minerário lá, inclusive já passou pela ficha técnica, o pessoal técnico dele, enfim, tá pendente lá."
-
-Nikolas pede que Vorcaro receba Faria, desculpa-se por ter criticado um ano antes um evento do Master em Londres com ministros do Supremo e despede-se com "um abraço, lindão". Vorcaro responde "estamos na guerra juntos", e em 2 de abril, avisado de que Faria estará em Brasília, escreve "deixa comigo".
 
 O áudio não nomeia a lavra. O contrato de Faria com a Gmais, que está no inquérito da Rejeito, tratava da Topázio, o único direito minerário que ele estava contratado para vender naquele momento, e a proposta apresentada a Vorcaro ainda não foi obtida.
 
