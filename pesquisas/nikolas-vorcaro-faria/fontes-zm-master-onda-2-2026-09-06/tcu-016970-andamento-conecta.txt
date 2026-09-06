@@ -1,0 +1,51 @@
+ANDAMENTO COMPLETO do processo TC 016.970/2025-0 — Conecta TCU, colado pelo repórter em 06/09/2026 ~10:0x BRT
+LINHA DO TEMPO CRÍTICA EXTRAÍDA (ver abaixo o andamento integral colado):
+- 19-21/08/2025: distribuição ao Min. Aroldo Cedraz (MIN-AC); MPTCU Rodrigo Lima; juntadas de evidências (Edital ANM 1/2024 8ª Rodada, cronograma, Resultado Final do Leilão, Homologação e Adjudicação, "3D áreas minerais críticos")
+- 22/09/2025: DESPACHO DE CAUTELAR oficializado (MIN-AC)
+- set/2025-mar/2026: ciclos de ofícios Seproc ↔ ANM (40584/2025, 40646/2025, 51343/2025, 11297/2026) com respostas da ANM e ciências registradas via CONECTA por servidores ANM (Milena Marques Sousa; Elenice Alves de Morais)
+- 16/03/2026: juntada de "Elementos comprobatórios/Evidências (Relatório ENCCLA)"
+- 20/05/2026: relatoria alterada de MIN-AC para MIN-OJC (Odair Cunha)
+- 11/08/2026: apreciado na Sessão Ordinária da 1ª Câmara → ACÓRDÃO 4592/2026-1C
+- 12/08/2026 11:26: juntada da comunicação Ofício 30733/2026-TCU/Seproc (expedição)
+- *** 13/08/2026 16:59:50: REGISTRADA CIÊNCIA da comunicação do Ofício 30733/2026 pela ANM (Elenice Alves de Morais, via CONECTA) → os prazos de 90 dias do acórdão (plano de ação + 1º relatório) contam da CIÊNCIA: vencem ~11/11/2026 ***
+- 14/08/2026: despacho de encerramento de ciclo de comunicação (Seproc)
+- 27/08/2026: RECURSO interposto contra o acórdão 4592/2026-1C (autuado 28/08)
+- 28/08/2026: recurso R001 distribuído ao Min. Benjamin Zymler (MIN-BZ); exame de admissibilidade concluído (proposta: CONHECER); MPTCU Júlio Marcelo designado
+- 03/09/2026: processo enviado de MIN-BZ para AudRecursos/SAR — processo ABERTO, em fase recursal
+
+=== ANDAMENTO INTEGRAL (como colado) ===
+03/09/2026 08:26:45 - Processo enviado de MIN-BZ para AudRecursos/SAR. (Serviço de Admissibilidade de Recursos)
+28/08/2026 15:00:38 - Membro do MPTCU JÚLIO MARCELO designado para os recursos 016.970/2025-0/R001 automaticamente pelo sistema
+28/08/2026 15:00:36 - Documento Termo de sorteio juntado ao processo automaticamente pelo sistema
+28/08/2026 15:00:25 - Enviado para pronunciamento do Ministro Benjamin Zymler por AudRecursos
+28/08/2026 15:00:25 - Exame de admissibilidade do(s) recurso(s) concluído por AudRecursos. Recurso(s): R001 (Proposta: Conhecer).
+28/08/2026 14:58:37 - Designado o Ministro Relator MIN-BZ para os recursos 016.970/2025-0/R001 por AudRecursos (por Atribuição)
+28/08/2026 14:58:37 - Documento Termo de distribuição juntado ao processo automaticamente pelo sistema
+28/08/2026 09:17:42 - Designado o Ministro Relator MIN-BZ para os recursos 016.970/2025-0/R001 por AudRecursos (por Sorteio)
+28/08/2026 09:17:42 - Documento Termo de sorteio juntado ao processo automaticamente pelo sistema
+28/08/2026 07:12:40 - Processo enviado de AudPetróleo para AudRecursos/SAR.
+28/08/2026 07:12:04 - Autuado por AudPetróleo recurso interposto em 27/08/2026 contra o acórdão 4592/2026-1C
+14/08/2026 11:21:11 - Despacho de encerramento de ciclo de comunicação. Por Seproc - Evandro Albino Simpson
+13/08/2026 16:59:50 - Registrada ciência de comunicação do Ofício 30733/2026-TCU/Seproc via CONECTA TCU por ELENICE ALVES DE MORAIS em nome de Agência Nacional de Mineração
+12/08/2026 11:26:25 - Juntada comunicação Ofício 30733/2026 por unidade Seproc
+12/08/2026 15:51:00 - Apreciado na Sessão Ordinária da Primeira Câmara em 11/08/2026 por meio do Acórdão 4592/2026-1C
+06/08/2026 19:00:51 - Processo incluído na pauta da sessão Ordinária de 1ª Câmara de 11/08/2026
+17/06/2026 17:20:50 - Enviado para pronunciamento do Ministro Odair Cunha por AudPetróleo
+20/05/2026 21:53:22 - Relatoria alterada de MIN-AC para MIN-OJC por AudPetróleo (por Atribuição)
+29/04/2026 17:48:09 - Despacho de encerramento de ciclo de comunicação. Por Seproc - Marcelo Gonçalves da Silva
+22/04 e 06/04/2026 - Ofício 11297/2026-TCU/Seproc: ciência ANM (06/04, Elenice) e respostas registradas (22/04)
+01/04/2026 15:00:18 - Pronunciamento da AudPetróleo concluído
+16/03/2026 11:06:30 - Documento Elementos comprobatórios/Evidências (Relatório ENCCLA) juntado por AudPetróleo
+21/01/2026 22:37:37 - Despacho de encerramento de ciclo de comunicação. Por Seproc - Marcelo Gonçalves da Silva
+16/01/2026 21:01:53 - Registradas respostas de comunicação do Ofício 51343/2025-TCU/Seproc (9 registros)
+03/12/2025 09:21:55 - Registrada ciência do Ofício 51343/2025 pela ANM (Elenice Alves de Morais)
+02/12/2025 18:08:05 - Juntada comunicação Ofício 51343/2025
+20/10/2025 10:38:53 - Despacho de encerramento de ciclo de comunicação
+15/10/2025 11:22:07 - Registrada ciência do Ofício 40646/2025
+09-07/10/2025 - Respostas do Ofício 40584/2025 registradas
+23/09/2025 09:14:50 - Ciência do Ofício 40584/2025 pela ANM (Milena Marques Sousa)
+22/09/2025 17:12:32 - Despacho de Cautelar oficializado (MIN-AC)
+26/08/2025 18:27:41 - Pronunciamento da AudPetróleo concluído (envio a MIN-AC)
+21/08/2025 - Evidências juntadas: "3D áreas minerais críticos" (2x, uma desentranhada por erro: peça 9, doc 78.741.051-1), "Homologação e Adjudicação"
+20/08/2025 - Evidências: "Resultado Final do Leilão", "Cronograma atualizado do Leilão em 14/11/2024", "Edital-ANM 1-2024 - 8ª Rodada de Disponibilidade"
+19/08/2025 16:57:10 - Relatoria atribuída a MIN-AC (Aroldo Cedraz); MPTCU: Rodrigo Lima
