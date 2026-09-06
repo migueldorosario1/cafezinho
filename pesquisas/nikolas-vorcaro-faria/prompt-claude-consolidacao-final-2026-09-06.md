@@ -1,53 +1,65 @@
-# Prompt para a consolidação final do Claude
+# Revisão de fechamento após a avaliação do Claude e a última contribuição ZCode
 
-Claude, faça uma revisão independente da consolidação da apuração do Cafezinho sobre Nikolas Ferreira, Thiago Rodrigues de Faria, Daniel Vorcaro e mineração. Miguel decidirá depois quem escreverá a reportagem, portanto não redija a versão final nem publique no portal agora.
+Claude, sua avaliação final já foi lida e incorporada à orientação da pesquisa. Faça somente a revisão das diferenças remanescentes, sem reiniciar uma investigação ampla, reabrir pendências já resolvidas ou escrever a reportagem final antes da decisão de Miguel.
 
-Use o repositório `migueldorosario1/cafezinho`, branch `master`, somente dentro de `pesquisas/nikolas-vorcaro-faria/`.
+Trabalhe no repositório migueldorosario1/cafezinho, branch master, somente dentro de pesquisas/nikolas-vorcaro-faria/. Leia primeiro as regras do README e a seção 0 de [00-CONSOLIDACAO-MESTRA-2026-09-06.md](00-CONSOLIDACAO-MESTRA-2026-09-06.md), que contém o estado atualizado dos cinco documentos essenciais.
 
-https://github.com/migueldorosario1/cafezinho/tree/master/pesquisas/nikolas-vorcaro-faria
+Confronte essa seção com sua [avaliação final](avaliacao-final-claude-2026-09-06.md), a [nota de Faria preservada pelo ZCode](fontes-zm-master-onda-2-2026-09-06/ofator-nota-faria-integra.txt) e a [minuta revisada do pedido à Câmara](lai-camara-regime-faria-revisada-2026-09-06.md). As fontes originais e o histórico continuam prevalecendo sobre os resumos dos agentes.
 
-## Ordem de leitura
+## O que a última rodada resolveu e não resolveu
 
-Leia as regras do README e, em seguida, `00-CONSOLIDACAO-MESTRA-2026-09-06.md`. Esse é o novo ponto de entrada que reúne as rodadas sem substituir os originais.
+O ZCode preservou a página de O Fator e extraiu a nota pública de Faria. A apresentação ao banqueiro e aos advogados dele já constava da onda 3 e das consolidações, portanto a novidade é a preservação, não a descoberta de destinatários nominais.
 
-Depois leia `checagem-final-tcu-cvm-2026-09-06.md` e `matriz-consolidada-elos-2026-09-06.json`. Confronte a síntese com `onda-4-fable-cvm-cadeia-de-fundos-2026-09-06.md` e `fontes-zm-master-onda-2-2026-09-06/ATUALIZACAO-PARA-GPT-E-CLAUDE-2026-09-06.md`, abrindo os documentos de origem quando necessário.
+A nota não é a proposta apresentada a Vorcaro. Ela não informa nomes dos advogados, escritório, cliente representado, título ANM ou responsável pela avaliação, e conserva a versão de Faria de que as tratativas não avançaram e foram encerradas.
 
-O corte de entrada da consolidação GPT foi o commit `fe5b0f9b2dbfe9bfddb51fa84d33d2a3cbac7a29`. Confira as mudanças posteriores antes de editar qualquer arquivo, pois outros agentes podem estar trabalhando no repositório.
+Faria declarar que representava um direito minerário não substitui documento que identifique o mandante, o direito e os poderes. Não afirmar ausência de mandato, mas tampouco dizer que seu instrumento foi obtido.
 
-## Questão editorial que precisa ficar resolvida
+A alegação de sete anos de atuação em Direito Minerário não contradiz a abertura de uma sociedade em 2024. Tempo de profissão e data de constituição de uma pessoa jurídica são dados diferentes.
 
-Faria reconheceu, em nota reproduzida por O Fator, que apresentou uma oportunidade a Vorcaro e aos advogados dele, mas afirmou que não houve avanço e que a negociação terminou. O contato comercial não deve ser tratado como inteiramente hipotético.
+A falta de linha salarial chamada dedicação exclusiva em duas consultas não prova inexistência do regime. O regime depende das normas e dos atos aplicáveis, e seria necessário demonstrar que ele obrigatoriamente geraria uma parcela separada antes de interpretar a ausência como evidência.
 
-O que continua sem documento é a identificação conjunta do título minerário, dos destinatários, da pessoa jurídica e dos responsáveis pela avaliação. Não substituir esse elo por um mapa de empresas, proximidade geográfica ou coincidência de datas.
+## Os cinco documentos ou respostas
 
-## Verificações prioritárias
+1. Apresentação comercial original de Faria, ou confirmação específica verificável, com título, data e destinatários. Há declaração pública preservada, não a proposta.
 
-Confira o vínculo de Faria, os limites do total de R$ 709.424,03 e a data correta do reenquadramento, 18/02/2026. A parcela eventual de R$ 598,80 não está no CSV e não deve ser incorporada a um total exaustivo sem conferência das rubricas.
+2. Resposta e análise do lado de Vorcaro, identificando quem recebeu, qual pessoa jurídica representava, quem examinou e o resultado. Advogados continua sendo descrição genérica, não identificação nominal.
 
-Preserve a composição oficial do grupamento da Topázio, o embargo publicado em 20/02/2025 e os oito autos publicados em 24/03/2025. Não afirme conhecimento de Nikolas, operação liberada ou identidade do ativo do áudio sem documento correspondente.
+3. Contrato completo envolvendo Gmais, o escritório e a participação atribuída à Estabil, com partes efetivas, signatários, objeto, condições e anexos. O contrato conhecido por reportagens não foi obtido integralmente.
 
-Confirme os elos positivos da CDA, Victoria Falls FIM para FIP, MCL B para FIP Itaminas e G5/WHG para o CNPJ 60.715.887/0001-26. A linha do MCL B tem valor zero e requer quantidade, custo e movimentos antes de concluir propriedade ou significado econômico.
+4. Regime e exercício funcional na Câmara, com atos, norma, jornada, local, frequência e eventuais comunicações sobre atividade externa. A nova minuta está pronta e não foi enviada.
 
-Retire as conclusões de que ausência de cotista no recorte identifica offshore e de que ausência de aquisição exclui avaliação de proposta. A documentação oficial da CVM descreve limites de cobertura e confidencialidade, e Tropical já foi identificada como empresa de alimentos.
+5. Manifestações sobre os achados novos, com envio autorizado, destinatário, canal, data, prazo e resposta. O pedido de manifestação é requisito editorial, mas não substitui a prova de uma afirmação, e silêncio não é confirmação.
 
-Revise o recurso R001 no TC 016.970/2025-0 antes de tratar 11/11/2026 como prazo definitivo. A conta de 90 dias a partir da ciência em 13/08 está correta, mas faltam espécie recursal, itens impugnados, admissibilidade e efeitos, e não há garantia de publicidade automática.
+## Correções específicas para sua avaliação
 
-Preserve o voto divergente de Mauro Sousa na redução da 3D. A ata tem valor em algarismos de R$ 3.756.100,00 e extenso de R$ 3.776.100,00, enquanto a manifestação da empresa é descrita com R$ 3.757.610,00, de modo que frequência de grafias não resolve a divergência.
+O histórico da Câmara registra SP24 até 17/02/2026 e SP22 de 18/02/2026 a 30/03/2026. Não resumir todo o período como SP24 nem deslocar a mudança para março.
 
-Mantenha distintos os dois casos do TCU, as multas da Topázio e as operações policiais. Ordem de restituição não comprova devolução, e um relatório oficial que resume uma reportagem não é necessariamente uma segunda fonte independente daquele fato.
+O guia oficial da Câmara informa 40 horas semanais e atestação mensal no Sigesp. A minuta revisada solicita esses registros, os locais de exercício e as normas existentes, sem exigir parecer novo ou presumir necessidade universal de autorização para advocacia externa.
 
-## Pedidos e preservação
+Não reduzir a análise funcional à alternativa entre irregularidade administrativa e incompatibilidade ética. A conclusão depende de normas e atos efetivos, e a simples concomitância entre cargo e atividade privada não fecha nenhuma das hipóteses.
 
-Há uma LAI registrada pela equipe sob protocolo `48003.018654/2026-33`, com prazo indicado de 28/09/2026. Confira o recibo e o status antes de alterar o registro, não duplique o Pedido 1 e não trate o Pedido 2 redigido como enviado.
+A contagem de 25 multas em janeiro não deve ser usada como total mensal sem delimitar as datas e os processos contados. Separe autuação, defesa, multa aplicada, recurso e pauta, eliminando duplicatas sem apagar atos diferentes.
 
-Não envie perguntas em nome de Miguel sem autorização específica. As manifestações jornalísticas novas continuam sem envio confirmado e o PDF oficial do DOU já foi preservado, não precisa ser novamente solicitado de forma genérica.
+O elo adicional que sua avaliação descreve entre o feeder Prisma e o FIP 60.648.903/0001-05 deve ser acompanhado da linha original da CDA e do cadastro datado. Identificar detentores das debêntures exige o instrumento ou registro correspondente, não somente nome do fundo, aplicação no feeder ou estado cadastral de liquidação.
 
-O GPT leu os textos anexados dos novos acórdãos e conferiu visualmente a ata oficial da ANM, mas não renderizou os novos PDFs do TCU nem reexecutou integralmente os ZIPs da CVM. Aproveite seu ambiente para fazer essas conferências e completar o manifesto dos novos binários, registrando somente o que efetivamente conseguiu verificar.
+## Contratos e prazos que não podem ser misturados
 
-## Entrega
+Não há comprovação de que o contrato de intermediação Gmais–Faria esteja nos autos do liquidante no TJSP. A pista desses autos que o GPT registrou trata do crédito Master–3D e da alegada cessão ao BRB, e não deve ser transferida para outro contrato.
 
-Grave uma avaliação final na mesma pasta, preservando o histórico e sem substituir o rascunho da reportagem. Para cada divergência, registre a frase problemática, a correção, a fonte, a página ou linha, a data e o limite da conclusão.
+Existe uma LAI à ANM registrada pela equipe, protocolo 48003.018654/2026-33, com prazo indicado de 28/09/2026. O recibo autenticado não foi conferido pelo GPT, e a minuta da Câmara e o Pedido 2 da ANM continuam sem envio confirmado.
 
-Entregue a Miguel uma síntese do que está sustentado para entrar no texto, do que só pode entrar com atribuição, do que continua hipótese e de no máximo cinco documentos ou respostas essenciais ainda faltantes. Proponha a arquitetura da matéria e eventual desdobramento financeiro, sem escolher a autoria e sem escrever o texto final antes da decisão de Miguel.
+Não duplique o Pedido 1 nem envie manifestações em nome de Miguel sem autorização específica. Não use o pedido LAI como se fosse contraditório com os citados.
 
-Informe arquivos e commits efetivamente gravados. Não transforme uma tentativa de acesso, uma ferramenta bloqueada ou uma busca sem resultado em comprovação positiva ou negativa.
+Mantenha as cautelas já consolidadas sobre o R001 do TCU, a referência aritmética de 11/11/2026, as três grafias do lance da 3D e o voto divergente de Mauro Sousa. A versão dos documentos tem importância e contagem de ocorrências não resolve discrepância de valores.
+
+## Escopo e entrega
+
+A última revisão do GPT reabriu O Fator, o histórico do gabinete, guias institucionais e leis. As fichas individuais de remuneração não abriram, e não houve nova auditoria integral dos PDFs, dos ZIPs da CVM ou dos hashes.
+
+Atualize sua avaliação apenas no que requer correção ou comprovação adicional. Para cada mudança, registre fonte, data, localizador, novidade em relação ao acervo e limite da conclusão.
+
+Não declare resolvida uma pendência sem o documento correspondente. Não amplie a lista de assuntos antes de esclarecer a proposta comercial e não altere o rascunho ou as capturas originais nesta etapa.
+
+Entregue uma síntese de fechamento com o núcleo sustentado, o contexto que exige atribuição e os cinco documentos ou respostas ainda faltantes. Miguel decidirá o redator e a publicação posteriormente.
+
+Informe os arquivos e commits efetivamente gravados, sem prometer acompanhamento automático ou trabalho posterior fora da execução atual.
