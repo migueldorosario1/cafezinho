@@ -12,17 +12,31 @@ https://www.ocafezinho.com/2026/09/05/o-escandalo-por-tras-do-audio-de-nikolas-p
 
 ## Achado exclusivo ainda não publicado
 
-Pelo Portal da Transparência da Câmara, Faria foi secretário parlamentar (SP24) no gabinete de Nikolas de 09/03/2023 a 30/03/2026, sem interrupção. Estava na folha quando assinou o contrato com a Gmais Ambiental (jan/2025), quando o áudio foi gravado (30/03/2025) e quando a Operação Rejeito prendeu os gestores da Gmais (17/09/2025). Saiu 25 dias após a PF entregar à CPMI do INSS a agenda de Vorcaro com o nome do deputado (05/03/2026). Recebeu mais de R$ 700 mil em 37 meses. Detalhes em `folha-camara-thiago-rodrigues-de-faria.csv` e `secao-exclusiva-faria-folha-camara.html`.
+Pelo Portal da Transparência da Câmara, Faria foi secretário parlamentar no gabinete de Nikolas de 09/03/2023 a 30/03/2026, sem interrupção, inicialmente SP24 e depois SP22, conforme o detalhamento do briefing. Estava na folha quando assinou o contrato com a Gmais Ambiental (jan/2025), quando o áudio foi gravado (30/03/2025) e quando a Operação Rejeito prendeu os gestores da Gmais (17/09/2025).
+
+Saiu 25 dias após a data, registrada na pesquisa anterior, em que a PF entregou à CPMI do INSS a agenda de Vorcaro com o nome do deputado (05/03/2026). A proximidade das datas não comprova o motivo da exoneração.
+
+A pesquisa anterior calculou mais de R$ 700 mil em 37 meses, com as rubricas e ressalvas descritas no briefing. Detalhes em `folha-camara-thiago-rodrigues-de-faria.csv` e `secao-exclusiva-faria-folha-camara.html`.
 
 ## Arquivos
 
-- `briefing-continuidade-caso-faria-gmais.md` — o que já é público, o que é exclusivo e 11 caminhos de apuração em ordem de potencial. Comece por aqui.
+- [briefing-continuidade-caso-faria-gmais.md](briefing-continuidade-caso-faria-gmais.md) — estado consolidado da apuração, base pública anterior, achados documentais, correções, 11 caminhos e lista dos 41 recursos da ANM. Comece por aqui depois deste README.
+- [relatorio-gpt-continuidade-2026-09-05.md](relatorio-gpt-continuidade-2026-09-05.md) — conteúdo substantivo da devolutiva do GPT, com fontes, localizadores, limites e pendências para a passagem ao Fable.
+- [prompt-fable-continuidade.md](prompt-fable-continuidade.md) — instruções e sequência sugerida para continuar a investigação, priorizando os caminhos 1 a 6.
 - `folha-camara-thiago-rodrigues-de-faria.csv` — remuneração mês a mês, extraída do portal da Câmara.
-- `secao-exclusiva-faria-folha-camara.html` — texto pronto do achado, no estilo do Cafezinho.
+- `secao-exclusiva-faria-folha-camara.html` — versão de trabalho do achado anterior, sujeita à revisão e ao contraditório.
 - `artigo-parte-1-com-secao-exclusiva.html` — parte 1 completa com a seção exclusiva inserida (versão de trabalho, não publicada).
 - `transcricao-orofino-calma-urgente.txt` — transcrição automática (faster-whisper) da fala de Alessandra Orofino no Calma Urgente.
 - `audio-orofino-calma-urgente.mp4` — áudio original baixado do X.
-- `fontes-consultadas.md` — todas as fontes com links, e o que foi descartado.
+- `fontes-consultadas.md` — fontes reunidas na pesquisa inicial, com links e descartes. A classificação deve ser lida à luz das correções no briefing, pois reportagens e agregadores não são fontes primárias.
+
+## Continuidade e passagem ao Fable
+
+O briefing atualizado e o relatório do GPT preservam os achados da ANM, a correção da hipótese jurídica, as pistas de CNPJ e os caminhos ainda não concluídos no Master e no TSE. Os links e localizadores dos documentos externos foram registrados, mas esses documentos não foram anexados como cópias binárias nesta passagem.
+
+O relatório é um registro da rodada anterior, não uma nova verificação independente. Antes de publicar, reabrir as fontes, confirmar o conteúdo efetivamente publicado na parte 1 e manter as ressalvas do briefing.
+
+Nenhum pedido de manifestação foi enviado na rodada do GPT. Os arquivos desta pasta não equivalem a autorização para publicação ou a registro de contato com os citados.
 
 ## Regras editoriais do Cafezinho
 
