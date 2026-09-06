@@ -1,0 +1,132 @@
+{
+ "56902629000181": {
+  "cnpj": "56902629000181",
+  "razao_social": "THIAGO RODRIGUES SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+  "nome_fantasia": "",
+  "data_inicio_atividade": "2024-08-19",
+  "descricao_situacao_cadastral": "ATIVA",
+  "data_situacao_cadastral": "2024-08-19",
+  "natureza_juridica": "Sociedade Unipessoal de Advocacia",
+  "capital_social": 100000,
+  "cnae_fiscal_descricao": "Serviços advocatícios",
+  "logradouro": "MAMORE",
+  "numero": "35",
+  "complemento": "",
+  "bairro": "ALPHAVILLE - LAGOA DOS INGLESES",
+  "municipio": "NOVA LIMA",
+  "uf": "MG",
+  "opcao_pelo_simples": true,
+  "qsa": [
+   {
+    "nome_socio": "THIAGO RODRIGUES DE FARIA",
+    "qualificacao_socio": "Titular Pessoa Física Residente ou Domiciliado no Brasil",
+    "data_entrada_sociedade": "2024-08-19"
+   }
+  ]
+ },
+ "11030358000183": {
+  "cnpj": "11030358000183",
+  "razao_social": "ESTABIL ESCRITORIO CONTABIL LTDA",
+  "nome_fantasia": "ESTABIL",
+  "data_inicio_atividade": "2009-08-07",
+  "descricao_situacao_cadastral": "ATIVA",
+  "data_situacao_cadastral": "2009-08-07",
+  "natureza_juridica": "Sociedade Empresária Limitada",
+  "capital_social": 95400,
+  "cnae_fiscal_descricao": "Atividades de contabilidade",
+  "logradouro": "DOS TIMBIRAS",
+  "numero": "1840",
+  "complemento": "ANDAR 4",
+  "bairro": "LOURDES",
+  "municipio": "BELO HORIZONTE",
+  "uf": "MG",
+  "opcao_pelo_simples": true,
+  "qsa": [
+   {
+    "nome_socio": "ROBERTO CARLOS DE SOUZA GOMES",
+    "qualificacao_socio": "Sócio-Administrador",
+    "data_entrada_sociedade": "2009-08-07"
+   }
+  ]
+ },
+ "16857294000102": {
+  "cnpj": "16857294000102",
+  "razao_social": "TOPAZIO IMPERIAL MINERACAO COMERCIO E INDUSTRIA LTDA",
+  "nome_fantasia": "",
+  "data_inicio_atividade": "1971-11-01",
+  "descricao_situacao_cadastral": "ATIVA",
+  "data_situacao_cadastral": "2005-10-14",
+  "natureza_juridica": "Sociedade Empresária Limitada",
+  "capital_social": 200001,
+  "cnae_fiscal_descricao": "Extração de outros minerais não-metálicos não especificados anteriormente",
+  "logradouro": "FAZENDA CAPAO DO LANA",
+  "numero": "0",
+  "complemento": "PREDIO 1 MINA CAPAO DO LANA",
+  "bairro": "RODRIGO SILVA",
+  "municipio": "OURO PRETO",
+  "uf": "MG",
+  "opcao_pelo_simples": true,
+  "qsa": [
+   {
+    "nome_socio": "EDMAR EVANIR DA SILVA",
+    "qualificacao_socio": "Sócio",
+    "data_entrada_sociedade": "1997-12-22"
+   },
+   {
+    "nome_socio": "FERNANDO CELSO GONCALVES",
+    "qualificacao_socio": "Sócio",
+    "data_entrada_sociedade": "1997-12-22"
+   },
+   {
+    "nome_socio": "GUILHERME CAPANEMA GONCALVES",
+    "qualificacao_socio": "Administrador",
+    "data_entrada_sociedade": "2019-12-26"
+   },
+   {
+    "nome_socio": "ZELIA MACHADO FONSECA COLOMBAROLLI",
+    "qualificacao_socio": "Sócio",
+    "data_entrada_sociedade": "1997-12-22"
+   }
+  ]
+ },
+ "41332820000168": {
+  "cnpj": "41332820000168",
+  "razao_social": "GMAIS AMBIENTAL LTDA.",
+  "nome_fantasia": "GMAIS AMBIENTAL",
+  "data_inicio_atividade": "2021-03-24",
+  "descricao_situacao_cadastral": "ATIVA",
+  "data_situacao_cadastral": "2021-03-24",
+  "natureza_juridica": "Sociedade Empresária Limitada",
+  "capital_social": 10000,
+  "cnae_fiscal_descricao": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente",
+  "logradouro": "BARBACENA",
+  "numero": "1018",
+  "complemento": "SALA 103",
+  "bairro": "SANTO AGOSTINHO",
+  "municipio": "BELO HORIZONTE",
+  "uf": "MG",
+  "opcao_pelo_simples": null,
+  "qsa": [
+   {
+    "nome_socio": "DANIELLA SANTOS WANDECK",
+    "qualificacao_socio": "Sócio",
+    "data_entrada_sociedade": "2021-03-24"
+   },
+   {
+    "nome_socio": "GILBERTO HENRIQUE HORTA DE CARVALHO",
+    "qualificacao_socio": "Administrador",
+    "data_entrada_sociedade": "2025-02-18"
+   },
+   {
+    "nome_socio": "LUIZ FERNANDO VILELA LEITE",
+    "qualificacao_socio": "Sócio",
+    "data_entrada_sociedade": "2021-03-24"
+   }
+  ]
+ },
+ "_meta": {
+  "fonte": "Dados abertos do CNPJ da Receita Federal, via espelho minhareceita.org",
+  "consulta": "2026-09-06",
+  "observacao": "CPF de socios omitido. Enderecos sao os cadastrais das pessoas juridicas."
+ }
+}
