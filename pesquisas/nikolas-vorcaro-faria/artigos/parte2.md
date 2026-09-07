@@ -43,11 +43,15 @@ Quem julga o destino dessas multas é a diretoria colegiada da ANM, e cada recur
 
 Em 26 de junho de 2026 a Polícia Federal indiciou Sousa na Operação Parcours por manter, segundo o relatório, "canal pessoal e privilegiado" com a Empabra, a mineradora de Lucas Kallas, acionista da Biomm ao lado de Vorcaro. A ANM respondeu que o diretor "atuou exclusivamente como representante institucional", e ele continua no cargo. Nenhum dos recursos da Topázio foi julgado até agora, nem a favor nem contra a empresa.
 
-Há um episódio em que Sousa ficou do lado certo. Em 2024 a 3D Minerals, a empresa financiada pelo Master, venceu o leilão de minerais críticos da ANM oferecendo lances altos, e depois de abertas as propostas pediu para pagar cerca de um décimo do que havia ofertado.
+Há um episódio, porém, em que Sousa ficou do lado certo, e ele envolve a empresa financiada por Vorcaro. Em agosto de 2024 a 3D Minerals venceu o leilão de minerais críticos da ANM porque ofereceu os lances mais altos, e depois de vencer pediu à agência para pagar cerca de um décimo do que havia prometido.
 
-A diretoria da agência aceitou o desconto, numa decisão que o Tribunal de Contas da União considerou irregular por favorecer a empresa em detrimento dos concorrentes. Quem votou a favor foram Caio Seabra e Guilherme Santana, os dois diretores depois presos na Rejeito, e Sousa votou contra.
+Em outubro daquele ano a diretoria da ANM votou o pedido. Seabra e Guilherme Santana, os dois diretores que a PF depois prendeu por receber propina do grupo de Lages, votaram por conceder o desconto. Sousa votou por negá-lo, e perdeu.
 
-Mesmo com o desconto, a 3D deixou de pagar à ANM R$ 22,58 milhões devidos por treze das áreas que arrematou. O TCU mandou cobrar e rastrear as garantias que a empresa deu sobre esses direitos a terceiros, entre eles o banco, e a decisão está em recurso no próprio tribunal.
+Na prática, a empresa financiada pelo Master ficou com as áreas pagando uma fração do preço, enquanto os concorrentes que tinham dado lances menores, mas honestos, perderam. O Tribunal de Contas da União julgou a decisão irregular por isso.
+
+Não há prova de que a 3D tenha pago alguém por esse favor. O que existe é o fato de que o benefício foi concedido pelos mesmos diretores que, segundo a PF, vendiam votos, e recusado pelo único que votou contra.
+
+Mesmo com o desconto, a 3D deixou de pagar à ANM R$ 22,58 milhões devidos por treze das áreas que arrematou. O TCU mandou cobrar a dívida e rastrear as garantias que a empresa deu sobre esses direitos a terceiros, entre eles o banco, e a decisão está em recurso no próprio tribunal.
 
 Para explorar uma mina no estado são necessários dois documentos. O primeiro é o direito de lavra, concedido pela ANM porque o subsolo pertence à União, e o segundo é a licença ambiental, dada pelo governo estadual por meio da Semad, da Feam e do Copam.
 
