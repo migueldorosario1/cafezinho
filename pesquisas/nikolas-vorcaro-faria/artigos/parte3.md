@@ -44,8 +44,10 @@ A empresa que aparece no diagrama ao lado da Topázio, a 3D Minerals, é da fam�
 
 No dia em que o áudio vazou, o deputado publicou nas redes um suposto relatório da Polícia Federal concluindo que não havia crime nas conversas. A PF informou que não produziu o documento, que carrega marca d'água de inteligência artificial, e Nikolas admitiu que repostou a imagem de outro perfil e a apagou.
 
-Resta saber se a atividade privada de Faria era compatível com as funções e os horários de um secretário parlamentar, e o que exatamente o deputado pediu ao banqueiro em nome dele. Os registros de frequência de Faria na Câmara e a proposta apresentada a Vorcaro responderiam às duas perguntas, mas ainda não foram obtidos, e a Corregedoria da Câmara, que poderia cobrá-los, nunca foi provocada.
+Resta saber quais eram as relações reais de Nikolas Ferreira com as atividades privadas do seu secretário, e o que exatamente ele pretendia ao pedir a Vorcaro que atendesse os interesses do seu assessor.
 
-O que esta série provou está em documentos que qualquer um pode consultar, a folha da Câmara, o cadastro da Receita, o registro da ANM, as carteiras dos fundos na CVM, o contrato com a Gmais e os diálogos do grupo no inquérito que a imprensa mineira publicou, e o áudio. O que a série não provou, porque ninguém mostrou, é o que aconteceu depois do "deixa comigo".
+O Brasil tem algumas das maiores jazidas minerais do mundo. Desde a privatização da Vale, um crime contra o interesse nacional cometido pelo governo de Fernando Henrique Cardoso com o aplauso da grande mídia, as riquezas da região que concentra as maiores jazidas de ferro e manganês do planeta ficaram, de um lado, nas mãos de uma empresa privada que já provou não respeitar o meio ambiente nem a vida, como se viu em Mariana e Brumadinho, e, de outro, nas de empresas menores que, segundo a Polícia Federal, formaram uma organização criminosa para comprar licenças ambientais e voltar a agredir o ecossistema e a pôr em risco a vida das pessoas.
+
+E os representantes do povo, que deveriam agir em favor dos interesses da população mineira, usam o seu prestígio para destravar os negócios de empresas apontadas pela PF como parte dessa organização, como a Gmais.
 
 As manifestações de Nikolas, de Faria, da defesa de Teixeira e dos demais citados estão registradas na primeira parte desta série. Thiago Rodrigues de Faria acrescentou, em nota a O Fator, que nunca foi chamado a depor, e a Gmais e a Topázio Imperial não se manifestaram publicamente.
