@@ -29,21 +29,14 @@ Em 30 de março Nikolas gravou o áudio para Vorcaro. Em 17 de setembro a PF pre
 
 Horta ficou 129 dias preso e foi solto em janeiro de 2026 por decisão do ministro Dias Toffoli, com tornozeleira. Em 26 de junho a PF indiciou os três, ao lado de outras 31 pessoas, por organização criminosa, corrupção, tráfico de influência e lavagem de dinheiro.
 
-Teixeira e Horta já haviam tentado o setor antes. Em outubro de 2021, num grupo chamado "Brava Mineração", uma empresária ligada aos dois relatou ter fechado um acordo de R$ 25 milhões com Marcelo Pugedo, da AVG, no qual Teixeira revisaria os contratos e ele e Horta entrariam com "know-how", sem pôr dinheiro.
+Antes da Topázio, Teixeira já havia se aproximado de um dos homens de Vorcaro. Entre 2021 e 2022 o delegado visitou a Cedro Mineração, de Lucas Kallas, acionista da Biomm ao lado do banqueiro e hoje indiciado na Operação Parcours por mineração ilegal na Serra do Curral.
 
-O negócio não vingou. Três anos depois, a mesma AVG comprou a Itaminas, a mineradora de Sarzedo, em sociedade com Daniel Vorcaro.
-
-Teixeira também visitou a Cedro Mineração, de Lucas Kallas, entre 2021 e 2022. Uma testemunha disse à PF que a visita envolvia oferta de ativo minerário. O delegado disse que foi conversa política, e a Corregedoria arquivou o procedimento em outubro de 2023, arquivamento que sua defesa hoje invoca.
+Uma testemunha disse à PF que a visita envolvia oferta de ativo minerário. O delegado disse que foi conversa política, e a Corregedoria arquivou o procedimento em outubro de 2023, arquivamento que sua defesa hoje invoca.
 
 Faria atravessou tudo isso no gabinete. Depois da Rejeito, Nikolas disse ao Estado de Minas que o advogado "não tem relação" com o mandato, e Faria continuou na folha da Câmara por mais seis meses.
 
 Em 5 de março de 2026 a PF entregou à CPMI do INSS a agenda do celular de Vorcaro, com o número de Nikolas e o de Pablo Almeida, ex-chefe de gabinete do deputado, salvo como "assessor Nikolas". Vinte e cinco dias depois, em 30 de março, aniversário de um ano do áudio, Faria foi exonerado, sem que os documentos esclareçam o motivo.
 
-Dois dias depois, em 1º de abril, Nikolas protocolou o Projeto de Lei 1575, o único de sua autoria sobre mineração entre as 1.662 proposições que apresentou em quatro anos. O texto cria incentivos fiscais para toda a cadeia de minerais estratégicos e cita Minas Gerais como exemplo de "zona vocacionada".
-
-O projeto foi apensado à lei dos minerais críticos e declarado prejudicado em 6 de maio, quando a Câmara aprovou o substitutivo. O Senado aprovou a lei em 2 de setembro, um dia antes de o áudio vir a público.
-
-A maior titular privada de áreas de minerais críticos do país é a 3D Minerals, a empresa financiada pelo Master com quatro áreas de ferro ao lado da Topázio. Nenhum documento liga o gabinete de Nikolas à 3D ou ao texto do projeto, e a coincidência de interesse e de calendário só o deputado pode esclarecer, dizendo quem redigiu o projeto e por que o protocolou naquela data.
 
 [DIAGRAMA]
 
