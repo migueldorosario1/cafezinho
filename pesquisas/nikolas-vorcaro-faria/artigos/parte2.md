@@ -25,7 +25,7 @@ Levanta-se um primeiro dique. Quando ele enche de lama, o seguinte é erguido em
 
 Com chuva forte ou tremor, a lama de baixo pode liquefazer de repente e a barragem inteira desce o vale em segundos, um dique derrubando o outro. Foi assim em Mariana e em Brumadinho, 291 mortos.
 
-Depois de Brumadinho a lei proibiu o método e mandou descaracterizar todas as barragens desse tipo. A Topázio Imperial não descaracterizou a sua.
+Depois de Brumadinho a lei proibiu o método e mandou descaracterizar todas as barragens desse tipo, ou seja, esvaziá-las e desmontá-las até que deixem de existir como reservatório. A Topázio Imperial não fez isso com a sua.
 
 A ANM classifica a Água Fria como de risco alto e dano potencial alto, o Ministério Público Federal a listou entre as sete de maior risco de rompimento do país, e em abril de 2025 a Justiça Federal reconheceu o perigo. A mina está parada desde 2017, quando o Ministério Público entrou com a primeira ação, segundo um dos sócios da empresa.
 
@@ -35,32 +35,34 @@ A empresa disse a O Tempo, em agosto de 2026, que não há construção imediata
 
 Em janeiro de 2025, mês em que o escritório de Thiago Rodrigues de Faria assinou o contrato com a Gmais, a agência aplicou multas em 92 autos de infração contra a Topázio, todos relativos à barragem, 40 deles num único dia, 21 de janeiro. Em 10 de fevereiro negou de uma vez 25 pedidos de prorrogação de prazo.
 
-Em 20 de fevereiro publicou o embargo da barragem. Em 24 de março, seis dias antes do áudio de Nikolas, publicou oito novos autos.
+Em 20 de fevereiro veio o embargo da barragem. Em 24 de março, seis dias antes do áudio de Nikolas, a agência lavrou contra a Topázio oito novas multas por descumprimento das exigências de segurança.
 
 "Tá pendente lá", disse o deputado ao banqueiro. Estava, e por decisão da agência, que ainda decretaria o segundo embargo em julho e o terceiro em abril de 2026.
 
 Quem julga o destino dessas multas é a diretoria colegiada da ANM, e cada recurso é sorteado a um diretor relator. Em 26 de dezembro de 2025, uma certidão da agência registra que os 41 recursos da Topázio Imperial contra as multas de barragem foram distribuídos ao diretor-geral, Mauro Henrique Moreira Sousa, e na pauta da reunião de 19 de agosto de 2026 eram 90 recursos da Topázio, todos no bloco dele.
 
-Em 26 de junho de 2026 a Polícia Federal indiciou Sousa na Operação Parcours por manter, segundo o relatório, "canal pessoal e privilegiado" com a Empabra, a mineradora de Lucas Kallas, acionista da Biomm ao lado de Vorcaro. A ANM respondeu que o diretor "atuou exclusivamente como representante institucional", e ele continua no cargo, sem registro de ter decidido qualquer recurso da Topázio.
+Em 26 de junho de 2026 a Polícia Federal indiciou Sousa na Operação Parcours por manter, segundo o relatório, "canal pessoal e privilegiado" com a Empabra, a mineradora de Lucas Kallas, acionista da Biomm ao lado de Vorcaro. A ANM respondeu que o diretor "atuou exclusivamente como representante institucional", e ele continua no cargo. Nenhum dos recursos da Topázio foi julgado até agora, nem a favor nem contra a empresa.
 
-Um dado o favorece. Em 2024 a diretoria da ANM aceitou reduzir em cerca de 90% os lances que a 3D Minerals, a empresa financiada pelo Master, havia dado no leilão de minerais críticos, decisão que o Tribunal de Contas da União considerou irregular e que foi votada por Caio Seabra e Guilherme Santana, dois diretores depois presos na Rejeito, com a divergência de Sousa.
+Há um episódio em que Sousa ficou do lado certo. Em 2024 a 3D Minerals, a empresa financiada pelo Master, venceu o leilão de minerais críticos da ANM oferecendo lances altos, e depois de abertas as propostas pediu para pagar cerca de um décimo do que havia ofertado.
 
-Em outro processo, o TCU apurou R$ 22,58 milhões que a 3D deixou de recolher à agência por treze áreas arrematadas e mandou rastrear as garantias constituídas sobre os direitos do leilão. Essa decisão é objeto de recurso em exame no próprio tribunal.
+A diretoria da agência aceitou o desconto, numa decisão que o Tribunal de Contas da União considerou irregular por favorecer a empresa em detrimento dos concorrentes. Quem votou a favor foram Caio Seabra e Guilherme Santana, os dois diretores depois presos na Rejeito, e Sousa votou contra.
 
-Minerar em Minas exige duas coisas. A primeira é o direito de lavra, que a ANM concede porque o subsolo pertence à União, e a segunda é a licença ambiental, que o estado dá por meio da Semad, da Feam e do Copam.
+Mesmo com o desconto, a 3D deixou de pagar à ANM R$ 22,58 milhões devidos por treze das áreas que arrematou. O TCU mandou cobrar e rastrear as garantias que a empresa deu sobre esses direitos a terceiros, entre eles o banco, e a decisão está em recurso no próprio tribunal.
 
-Segundo a Polícia Federal, o grupo de João Alberto Lages, Alan Cavalcante e Helder Freitas comprava as duas instâncias. No estado, pagou R$ 500 mil ao presidente da Feam pela licença da Patrimônio Mineração em fevereiro de 2025.
+Para explorar uma mina no estado são necessários dois documentos. O primeiro é o direito de lavra, concedido pela ANM porque o subsolo pertence à União, e o segundo é a licença ambiental, dada pelo governo estadual por meio da Semad, da Feam e do Copam.
 
-Na agência federal, o diretor Caio Seabra recebeu R$ 3 milhões por meio de um escritório de advocacia, e em novembro de 2024, uma hora antes de uma reunião da diretoria, Cavalcante enviou ao grupo de WhatsApp o trecho exato do voto que Seabra iria proferir. A Fleurs, mineradora do grupo, pagou R$ 750 mil ao lobista Gilberto Horta por consultoria.
+Segundo a Polícia Federal, o grupo de João Alberto Lages, Alan Cavalcante e Helder Freitas pagava propina para obter os dois. Nos órgãos estaduais, entregou R$ 500 mil ao presidente da Feam pela licença da Patrimônio Mineração, em fevereiro de 2025.
 
-Com as licenças, o grupo minerou ferro em áreas tombadas ou embargadas na Serra do Curral e na Serra do Botafogo, e o MPF estima o lucro em pelo menos R$ 1,44 bilhão. O relatório final indiciou 34 pessoas na Rejeito e 17 na Parcours, do dono de mineradora ao diretor-geral da agência reguladora.
+Na ANM, o diretor Caio Seabra recebeu R$ 3 milhões por meio de um escritório de advocacia. Em novembro de 2024, uma hora antes de uma reunião da diretoria, Cavalcante enviou ao grupo de WhatsApp o trecho exato do voto que Seabra iria proferir.
 
-A Gmais, que arrendou a Topázio, era uma das empresas de fachada desse núcleo, segundo os investigadores. Ela não aparece nos autos pagando propina, e sim como o veículo pelo qual o grupo pretendia revender a mina, razão pela qual o contrato com o advogado do deputado está no inquérito.
+A Fleurs, mineradora do grupo, pagou R$ 750 mil ao lobista Gilberto Horta a título de consultoria.
+
+Com as licenças, o grupo iniciou a exploração de ferro em áreas tombadas ou embargadas na Serra do Curral e na Serra do Botafogo, com lucro que o MPF estima em pelo menos R$ 1,44 bilhão. O relatório final indiciou 34 pessoas na Rejeito e 17 na Parcours, do dono de mineradora ao diretor-geral da agência reguladora.
+
+A Gmais, que arrendou a Topázio, era uma das empresas de fachada desse núcleo, segundo os investigadores. Ela não aparece no inquérito pagando propina, e sim como o veículo com que o grupo pretendia revender a mina, e foi por isso que o contrato com o advogado do deputado acabou nos autos.
 
 O ferro que hoje se disputa naquele vale já derrubou presidentes. Em 1961 Jânio Quadros assinou o decreto que anulava as concessões da americana Hanna Mining sobre as jazidas do Vale do Paraopeba, no mesmo Quadrilátero, e renunciou quatro dias depois.
 
 João Goulart manteve a decisão. O golpe de 1964 partiu de Minas, e em dezembro daquele ano Castelo Branco devolveu as jazidas à Hanna, episódio que Eduardo Galeano resumiu dizendo que o ferro do Paraopeba "derrubou dois presidentes".
 
 Meio século depois, o mesmo minério está no centro de um negócio que passa por um deputado, um banqueiro e uma organização criminosa. Mudou a escala. Não mudou a lógica.
-
-A Topázio Imperial não é investigada. As demais manifestações dos citados estão registradas na primeira parte desta série.
