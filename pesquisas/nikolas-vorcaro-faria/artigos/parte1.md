@@ -1,7 +1,7 @@
 TITULO: O que Vorcaro tinha a ganhar com a mina que Nikolas pediu para destravar
 LINHAFINA: A lavra que o advogado do deputado tentava vender em Ouro Preto estava embargada, arrendada por uma empresa de fachada de uma organização criminosa e rodeada por projetos financiados ou controlados pelo dono do Banco Master. O Cafezinho mapeou o cerco e levanta uma hipótese que os documentos ainda não fecham.
 
-Quando o áudio de Nikolas Ferreira para Daniel Vorcaro vazou, em 3 de setembro, muita gente se perguntou qual o interesse de Nikolas em se arriscar a cometer um crime só para pedir um favor a um amigo?
+Quando o áudio de Nikolas Ferreira para Daniel Vorcaro vazou, em 3 de setembro, muita gente se perguntou qual o interesse de Nikolas em se arriscar a cometer um crime só para pedir um favor a um amigo.
 
 Com o passar dos dias, ficou mais claro.
 
@@ -15,7 +15,7 @@ Dois meses depois, no domingo 30 de março de 2025, Nikolas gravou o áudio para
 
 "Ei Dani, tudo bom? Desculpa te incomodar num domingo, é jogo rápido." O deputado emenda: "Meu amigo, meu advogado, enfim, irmão meu aqui, comentou comigo e falou do seu nome. Ele falou, cara, tô com um ativo minerário lá, inclusive já passou pela ficha técnica, o pessoal técnico dele, enfim, tá pendente lá."
 
-Nikolas pede que Vorcaro receba Faria e aproveita para se desculpar por ter criticado, um ano antes, um evento do Master em Londres com ministros do Supremo. Segundo a transcrição do ICL, despede-se com "um abraço, lindão", expressão que o deputado nega ter usado.
+Nikolas pede que Vorcaro receba Faria e aproveita para se desculpar por ter criticado, um ano antes, um evento do Master em Londres com ministros do Supremo.
 
 Vorcaro responde "estamos na guerra juntos". Em 1º de abril Nikolas avisa que Faria estará em Brasília, e no dia seguinte o banqueiro escreve "deixa comigo".
 
@@ -23,17 +23,15 @@ Um ano depois, em março de 2026, quando a PF entregou à CPMI do INSS a agenda 
 
 O contato, explicou, veio em 2023 do pastor André Valadão, da Lagoinha, amigo dos dois. "Nunca salve o contato com o nome que a pessoa mandou, porque o pastor Valadão me mandou o contato como Dani Vorcaro, e eu achei que o nome dele era Dani."
 
-Sobre o pedido, admitiu ter "feito a ponte", mas disse que a demanda era do advogado. "Eu não faço parte dessa putaria de Brasília, eu não recebi um tostão do Vorcaro e nunca encontrei com ele." Confirmou ainda que o banqueiro ajudou na logística dos voos de sua campanha em 2022, quando, segundo ele, não havia suspeita pública sobre o nome de Vorcaro.
+Sobre o pedido, Nikolas admitiu ter "feito a ponte", mas disse que a demanda era do advogado. "Eu não faço parte dessa putaria de Brasília, eu não recebi um tostão do Vorcaro e nunca encontrei com ele." Confirmou ainda que o banqueiro ajudou na logística dos voos de sua campanha em 2022, quando, segundo ele, não havia suspeita pública sobre o nome de Vorcaro.
 
 Faria confirmou tudo isso em nota, na qual disse que representava um direito minerário e que, ao saber do interesse do grupo de Vorcaro no setor, "apresentou a oportunidade a ele e a seus advogados".
 
-Vorcaro também tinha interesse na lavra. Ela está rodeada por minas e projetos administrados, comprados ou financiados pelo dono do Banco Master e por gente da sua órbita, como revela o cruzamento dos títulos minerários da Agência Nacional de Mineração com as carteiras dos fundos na CVM, o cadastro da Receita Federal, os registros das juntas comerciais e as reportagens da Folha e de A Investigação sobre os negócios do banqueiro em Minas.
+Vorcaro tinha interesses convergentes com os do amigo de Nikolas. As lavras arrendadas pela Gmais estão rodeadas por projetos comprados ou financiados pelo dono do Banco Master e por gente da sua órbita, como revela o cruzamento dos títulos minerários da Agência Nacional de Mineração com as carteiras dos fundos na CVM, o cadastro da Receita Federal e os registros das juntas comerciais, somado ao que já foi fartamente noticiado na imprensa, especialmente pela Folha, pelo Estado de Minas e pelo portal A Investigação, sobre os negócios do banqueiro em Minas.
+[FIGURA]
+No centro de toda a história está a lavra da Topázio Imperial, sete concessões em 725 hectares, incluindo a maior mina de topázio imperial do mundo e uma concessão de 1936 que registra ferro e manganês. A oeste, a 4,5 quilômetros, e a sudeste, a 7 quilômetros, ficam quatro áreas de pesquisa de minério de ferro da 3D Minerals, empresa da família Wanderley, dona da construtora Cowan.
 
-[MAPA]
-
-No centro está a lavra da Topázio Imperial, sete concessões em 725 hectares, com a maior mina de topázio imperial do mundo e uma concessão de 1936 que registra ferro e manganês. A oeste, a 4,5 quilômetros, e a sudeste, a 7 quilômetros, ficam quatro áreas de pesquisa de minério de ferro da 3D Minerals, empresa da família Wanderley, dona da construtora Cowan.
-
-Segundo a Folha, a 3D foi criada em junho de 2024 com R$ 5 mil de capital, venceu o leilão da ANM 46 dias depois e pagou a conta com R$ 152,9 milhões emprestados pelo Master em novembro daquele ano, com metade das cotas da empresa dadas em garantia ao banco. Financiar não é ser dono, mas quem detém metade das cotas em garantia pode tomá-las se a dívida não for paga, e no dia do áudio o credor com esse direito era o Master.
+Segundo a Folha, a 3D foi criada em junho de 2024 com R$ 5 mil de capital, venceu o leilão da ANM 46 dias depois e pagou a conta com R$ 152,9 milhões emprestados pelo Master em novembro daquele ano, com metade das cotas da empresa dadas em garantia ao banco.
 
 Os Wanderley são sócios antigos de Vorcaro. O fundo que controlava a mineradora do banco na Serra do Curral nasceu como fundo da própria Cowan e foi absorvido pela cadeia do Master, numa arquitetura que A Investigação resumiu assim, o banco estruturava e controlava os veículos, e a família operava.
 
@@ -47,11 +45,11 @@ A 60 quilômetros, na Grande Belo Horizonte, o padrão se repete em escala maior
 
 A imprensa especializada registrou a saída do Master da Itaminas no fim de 2025, depois da liquidação do banco. Em 2019 a CPI da Mineração da Câmara de Belo Horizonte já estranhava que as quatro empresas da Serra do Curral agissem "em conluio", e encontrou nas vistorias à área da Empabra materiais com a inscrição da Cowan.
 
-A geologia explica por que ninguém compra terra aleatória naquele vale. A Topázio, a 3D e as minas da Serra do Botafogo repousam sobre a mesma dobra de rochas, o Sinclinal Dom Bosco, onde as camadas de ferro se estendem por dezenas de quilômetros, e a Gerdau, vizinha imediata da Topázio e sem qualquer relação com o caso, tem ali 476 milhões de toneladas certificadas.
+A geologia explica por que tanto interesse naquele vale. A Topázio, a 3D e as minas da Serra do Botafogo repousam sobre a mesma dobra de rochas, o Sinclinal Dom Bosco, onde as camadas de ferro se estendem por dezenas de quilômetros. A Gerdau, vizinha imediata da Topázio e sem qualquer relação com o caso, tem ali 476 milhões de toneladas certificadas. Os interesses de Vorcaro na região aparecem no financiamento e no controle de lavras vizinhas (ver mapa).
 
-Quando Nikolas gravou o áudio, em 30 de março de 2025, a Polícia Federal ainda não tinha batido em ninguém. A Operação Rejeito só viria em 17 de setembro.
+Quando Nikolas gravou o áudio, em 30 de março de 2025, a Polícia Federal ainda não tinha desbaratado a quadrilha. A Operação Rejeito só viria em 17 de setembro.
 
-Naquele dia estava em pleno andamento o que a PF descreveu depois como uma organização criminosa formada por um grupo de empresas, entre elas a Gmais, que subornava agências e funcionários como se não houvesse amanhã para liberar licenças e explorar minério de ferro em áreas tombadas e protegidas. Segundo a PF, o grupo era liderado por Lages e pelos empresários Alan Cavalcante e Helder Freitas, usava mais de 40 empresas, pagava servidores da Semad, da Feam, do Iepha e da ANM e lucrou pelo menos R$ 1,44 bilhão, na estimativa do Ministério Público Federal.
+Naquele dia estava em pleno andamento o que a PF descreveu depois como uma organização criminosa formada por um grupo de empresas, entre elas a Gmais, que subornava agências e funcionários, como se não houvesse amanhã, para liberar licenças e explorar minério de ferro em áreas tombadas e protegidas. Segundo a PF, o grupo era liderado por Lages e pelos empresários Alan Cavalcante e Helder Freitas, usava mais de 40 empresas, pagava servidores da Semad, da Feam, do Iepha e da ANM e lucrou pelo menos R$ 1,44 bilhão, na estimativa do Ministério Público Federal.
 
 A Gmais, na descrição dos investigadores, era uma empresa de fachada comandada pelo lobista Gilberto Horta e pelo delegado da PF Rodrigo de Melo Teixeira, ex-superintendente da corporação em Minas. Os dois foram presos em setembro e indiciados em junho deste ano.
 
@@ -59,30 +57,26 @@ O caso da Patrimônio Mineração ilustra o método, e ocorreu nas vésperas da 
 
 No dia 19 daquele mês o então presidente da Feam, Rodrigo Franco, mandou mensagem a Lages cobrando o valor combinado pelo "êxito da Patrimônio". A PF calculou a propina em R$ 500 mil.
 
-Assim que conseguiu a liberação, a empresa destruiu uma caverna. Na tarde de 21 de março moradores da comunidade de Botafogo filmaram com um drone uma escavadeira avançando sobre uma gruta registrada no Iphan, omitida pela mineradora do relatório espeleológico entregue para o licenciamento.
+Assim que conseguiu a liberação, a empresa destruiu uma caverna, um crime ambiental terrível. Na tarde de 21 de março moradores da comunidade de Botafogo filmaram com um drone uma escavadeira avançando sobre uma gruta registrada no Iphan, omitida pela mineradora do relatório espeleológico entregue para o licenciamento.
 
 Chamaram a Polícia Militar, que mandou parar as máquinas. Na madrugada seguinte a caverna foi soterrada por completo, os moradores fecharam a BR-356 em protesto, a Semad embargou a área em 26 de março e a Justiça de Ouro Preto suspendeu a mina em 4 de abril.
 
-A Topázio não teve a mesma sorte da Patrimônio. Em 20 de fevereiro de 2025, um dia depois da mensagem de cobrança do presidente da Feam, a ANM embargou a barragem Água Fria, um reservatório de dois milhões de metros cúbicos de rejeito construído pelo método a montante, o mesmo de Mariana e Brumadinho, que a Topázio Imperial acumula desde os anos 1970 e nunca descaracterizou.
+A Topázio não teve a mesma "sorte" da Patrimônio. Em 20 de fevereiro de 2025, um dia depois da mensagem de cobrança do presidente da Feam, a ANM embargou a barragem Água Fria, um reservatório de dois milhões de metros cúbicos de rejeito construído pelo método a montante, o mesmo de Mariana e Brumadinho, que a Topázio Imperial acumula desde os anos 1970 e nunca descaracterizou.
 
-Em 24 de março, seis dias antes do áudio, a agência publicou oito novos autos de infração. Foi com a lavra mais travada do que nunca que Faria procurou Vorcaro e Nikolas gravou o pedido.
+Em 24 de março, seis dias antes do áudio, a agência publicou oito novos autos de infração. Foi com a situação mais travada do que nunca que Faria procurou Vorcaro e Nikolas entrou no jogo para ajudar o amigo.
 
-A organização de Lages sabia destravar licenças. Fazia isso pagando servidores, e acabara de fazer na serra vizinha.
+Segundo a PF, os capangas de colarinho branco de Lages sabiam destravar licenças por um método antigo, a distribuição de propinas às autoridades responsáveis pelo licenciamento. Foi assim, denunciam os policiais, que a Patrimônio obtivera a licença que acabou permitindo a destruição da caverna na serra vizinha.
 
-A Topázio exigia algo mais caro. Uma barragem do tipo de Brumadinho não se resolve com um despacho, demanda dezenas de milhões de reais em obras e um comprador com fôlego para assumi-la, e nos diálogos que a PF interceptou em 2023 Lages já falava em "assumir os danos da barragem", enquanto Horta perguntava se ele e Teixeira iriam "ver a barragem".
+A Topázio exigia algo muito mais difícil e mais caro. Uma barragem do tipo de Brumadinho não se resolve com um despacho. Ela demanda dezenas de milhões de reais em obras e um comprador com fôlego para assumi-la, apesar do risco de nunca ser liberada. Nos diálogos que a PF interceptou em 2023 Lages já falava em "assumir os danos da barragem", enquanto Horta perguntava se ele e Teixeira iriam "ver a barragem".
 
-A hipótese que este levantamento sustenta, e que os documentos disponíveis ainda não fecham, é que a Gmais buscou no Banco Master o que lhe faltava para destravar a lavra, dinheiro e influência, e que Vorcaro tinha razões próprias para ouvir, porque seus projetos e os de seus sócios cercavam a mina. Nenhum contrato, mensagem ou registro liga a 3D, a Itaminas ou os advogados de Vorcaro à proposta que Faria diz ter apresentado, e nada mostra o Master pagando propina ou avaliando a Topázio.
+Apesar de o áudio de Nikolas não nomear a lavra, não demorou muito para todo mundo saber. O contrato de seu amigo Faria com a Gmais tratava exclusivamente da Topázio, o único direito minerário que ele estava contratado para vender naquele momento. Alguns meses depois da conversa entre Nikolas e "Dani", a Gmais seria apontada pela PF, na Operação Rejeito, como empresa de fachada de uma organização criminosa que lucrou pelo menos R$ 1,44 bilhão com licenças compradas, segundo o Ministério Público Federal.
 
-O que está provado é o cerco, o dinheiro, o método do grupo e as datas. O que falta é a resposta que veio depois do "deixa comigo".
+Cinco meses e meio depois do telefonema, a PF prendeu Horta, Teixeira e Lages. Faria se desligaria do gabinete de Nikolas seis meses mais tarde.
 
-O áudio não nomeia a lavra. O contrato de Faria com a Gmais, que está no inquérito da Rejeito, tratava da Topázio, o único direito minerário que ele estava contratado para vender naquele momento, e a proposta apresentada a Vorcaro ainda não foi obtida.
+Nikolas Ferreira confirmou a autenticidade do áudio e disse que apenas fez uma ponte para um amigo, sem conhecer os detalhes do negócio e sem receber vantagem. Faria afirmou que o deputado só forneceu o contato e não participou de negociação. Disse ainda que as tratativas não avançaram e que foram encerradas quando vieram à tona as notícias sobre o banqueiro.
 
-Cinco meses e meio depois do telefonema, a PF prendeu Horta, Teixeira e Lages. Faria continuou no gabinete de Nikolas por mais seis meses.
+A Topázio Imperial ainda não é acusada. A defesa de Rodrigo Teixeira disse ao Estado de Minas, em setembro de 2025, que os fatos já haviam sido arquivados pela Corregedoria da PF em 2023.
 
-Nikolas Ferreira confirmou a autenticidade do áudio e disse que apenas fez uma ponte para um amigo, sem conhecer os detalhes do negócio e sem receber vantagem. Thiago Rodrigues de Faria afirmou que o deputado só forneceu o contato e não participou de negociação, que as tratativas não avançaram e que foram encerradas quando vieram à tona as notícias sobre o banqueiro.
+Daniel Vorcaro, o Banco Master, a 3D Minerals e a família Wanderley nunca responderam às reportagens da Folha de fevereiro e julho de 2026 sobre o financiamento do banqueiro aos projetos minerários da região. A defesa de Lucas Kallas afirmou ao portal A Investigação que ele se desligou da Empabra em 2018 e contesta o termo "sócio" de Vorcaro.
 
-A Topázio Imperial não é acusada de nada. A defesa de Rodrigo Teixeira disse ao Estado de Minas, em setembro de 2025, que os fatos já haviam sido arquivados pela Corregedoria da PF em 2023.
-
-Daniel Vorcaro, o Banco Master, a 3D Minerals e a família Wanderley não responderam às reportagens da Folha de fevereiro e julho de 2026 sobre o financiamento. A defesa de Lucas Kallas afirmou a A Investigação que ele se desligou da Empabra em 2018 e contesta o termo "sócio" de Vorcaro, e a ANM disse ao Poder360, em junho de 2026, que Mauro Sousa atuou como representante institucional.
-
-Essas são manifestações anteriores, dadas a outros veículos. O Cafezinho ainda não obteve resposta a perguntas próprias sobre o caso.
+Essas manifestações foram dadas anteriormente a outros veículos. O Cafezinho ainda não obteve resposta a perguntas próprias sobre o caso.
