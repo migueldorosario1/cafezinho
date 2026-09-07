@@ -38,6 +38,8 @@ Faria atravessou tudo isso no gabinete. Depois da Rejeito, Nikolas disse ao Esta
 Em 5 de março de 2026 a PF entregou à CPMI do INSS a agenda do celular de Vorcaro, com o número de Nikolas e o de Pablo Almeida, ex-chefe de gabinete do deputado, salvo como "assessor Nikolas". Vinte e cinco dias depois, em 30 de março, aniversário de um ano do áudio, Faria foi exonerado, sem que os documentos esclareçam o motivo.
 
 
+A empresa que aparece no diagrama ao lado da Topázio, a 3D Minerals, é da família Wanderley, sócia de Vorcaro em vários negócios, e foi financiada pelo banco dele com R$ 152,9 milhões, metade das cotas em garantia. Tem quatro áreas de ferro a 4,5 e 7 quilômetros da lavra, como o Cafezinho mostrou na primeira parte.
+
 [DIAGRAMA]
 
 No dia em que o áudio vazou, o deputado publicou nas redes um suposto relatório da Polícia Federal concluindo que não havia crime nas conversas. A PF informou que não produziu o documento, que carrega marca d'água de inteligência artificial, e Nikolas admitiu que repostou a imagem de outro perfil e a apagou.
